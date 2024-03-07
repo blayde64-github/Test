@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TM.1.4.3b: b) collaboration and the sharing of information with approved partners (e.g. through the use of threat information exchanges, Information Sharing and Analysis Centres (ISACs); and peer-to-peer, industry or national group-sharing partnerships)."
+    id="id-9721539a221046ef89438d46c5970768"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="TM.1.4.3b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

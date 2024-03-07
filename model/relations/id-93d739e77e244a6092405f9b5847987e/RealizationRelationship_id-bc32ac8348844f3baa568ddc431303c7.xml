@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bc32ac8348844f3baa568ddc431303c7"
+    documentation="The Level 2 SAR Power App helps operational efficiency by making it easy for Enterprise Security Architects to review a large set of questions. The app orders things nicely and can automatically generate word views at the end of an architecture assessment.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5fa3a5b990ad4e5592b134159e57884b.xml#id-5fa3a5b990ad4e5592b134159e57884b"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-6de17a77748443dca6a242ef5d004ed0.xml#id-6de17a77748443dca6a242ef5d004ed0"/>
+</archimate:RealizationRelationship>

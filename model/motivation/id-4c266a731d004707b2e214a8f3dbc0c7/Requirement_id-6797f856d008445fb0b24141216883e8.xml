@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.44.7 Network storage sensitive information control"
+    id="id-6797f856d008445fb0b24141216883e8"
+    documentation="Sensitive information stored on network storage systems should be protected according to its security requirements">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

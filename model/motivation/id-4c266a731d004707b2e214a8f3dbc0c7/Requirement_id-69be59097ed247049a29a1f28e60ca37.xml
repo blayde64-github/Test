@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BC.2.2.6a: a) business applications, systems or communications software"
+    id="id-69be59097ed247049a29a1f28e60ca37"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="BC.2.2.6a"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC.2.1.6: The ways in which cloud service management consoles (accessed via a portal provided by the CSP) are configured and used (including for system development) should be evaluated from a security perspective, covering options available as part of:"
+    id="id-22d059a65a1e4902b0061f093d3ed514"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SC.2.1.6"/>
+  <properties
+      key="SOGP Type"
+      value="Stub"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

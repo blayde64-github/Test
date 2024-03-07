@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.23.5 Systems Development Implementation &amp; Maintenance Requirements Control"
+    id="id-b5604fcb1f8943be9c3db5072a0e88b0"
+    documentation="Business requirements should take into account implementation and maintenance requirements, including:&#xA;a) the provision of arrangements to support systems in the live environment (e.g. the need for a helpdesk or technical support)&#xA;b) fall-back/contingency plans&#xA;c) the reduction or elimination of single points of failure&#xA;d) new security and development techniques and lessons learned (e.g. from security incidents, threat intelligence, penetration testing, other development projects and security thought leadership).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

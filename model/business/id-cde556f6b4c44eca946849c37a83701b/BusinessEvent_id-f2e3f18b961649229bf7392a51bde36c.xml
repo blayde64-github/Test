@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENV012 Failure of environmental control systems"
+    id="id-f2e3f18b961649229bf7392a51bde36c"
+    documentation="Failure to regulate the temperature, humidity and air quality in environments where information systems are located (e.g. data centres).">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

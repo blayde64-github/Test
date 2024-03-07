@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f9f42971a3864c9c8e6e1f869469a2c4"
+    documentation="SAR Users should be architects, although in some cases it is recognise that architects are not available. ">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-142bdd47a79746f0932716a68f44a203.xml#id-142bdd47a79746f0932716a68f44a203"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0c08a85aae644f04bdb041777ae755fe.xml#id-0c08a85aae644f04bdb041777ae755fe"/>
+</archimate:SpecializationRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.9.1.2 Access to networks and network services"
+    id="id-90696586b3ef40e18d0c4e90d62409c1"
+    documentation="Control Users shall only be provided with access to the network and network services that they have been specifically authorized to use.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

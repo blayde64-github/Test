@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-973b5eacb6f242e68b71231c61b8cde7"
+    documentation="The template is used for generating SAR2 Review Word Files."
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e68bdf432c0b493592841608e06e2571.xml#id-e68bdf432c0b493592841608e06e2571"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b4df1622f19348f09f60dab30c2d6389.xml#id-b4df1622f19348f09f60dab30c2d6389"/>
+</archimate:AccessRelationship>

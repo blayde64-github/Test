@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PA.2.3.6c: c) mitigating against apps that have not been updated or patched, or have known vulnerabilities (e.g. by limiting the level of access an app has, such as by blocking insecure apps or the protocols that they use, and replacing vulnerable apps with similar apps that meet security requirements)."
+    id="id-4128d200d16544899aa6c1e69e239fcd"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="PA.2.3.6c"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

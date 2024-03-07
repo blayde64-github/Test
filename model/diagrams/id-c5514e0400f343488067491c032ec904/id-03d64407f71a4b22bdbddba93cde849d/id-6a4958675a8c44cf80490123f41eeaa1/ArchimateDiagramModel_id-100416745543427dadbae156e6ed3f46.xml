@@ -1,0 +1,356 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOGP Environmental Threat Events"
+    id="id-100416745543427dadbae156e6ed3f46"
+    documentation="This grouping shows threat events from the Threat Event Catalogue in the Standard Of Good Practice.&#xD;&#xA;&#xD;&#xA;It presents the threat events that could be initiated by the threats within the environmental threat group (e.g. fire, hardware malfunction/failure and tsunami). This group includes threats which are outside the control of the organisation, such as natural or man-made hazards, or failures of critical infrastructure, that act to cause harm to an organisation’s information or systems.&#xD;&#xA;&#xD;&#xA;Most of the environmental threat events have consciously been left out due to their likelihood. &#xD;&#xA;Add any other event if needed.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-057c72566634463ab11fda4c688e8e57"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f267d16e7c014b9fa4226dd809676930"
+        source="id-057c72566634463ab11fda4c688e8e57"
+        target="id-ccb847d80e2944e492f04ed821052d71">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-ef9cad44504343f1972039af5a5e7e36.xml#id-ef9cad44504343f1972039af5a5e7e36"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bb701180dcd14795a911c22221185bac"
+        source="id-057c72566634463ab11fda4c688e8e57"
+        target="id-4ab369ece8af4affa8d3c143f4283e0e">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-7a4b1ec36189448b9a9ab1bdd8286ba4.xml#id-7a4b1ec36189448b9a9ab1bdd8286ba4"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-517a6e5e00f94128b4330c575251299c"
+        source="id-057c72566634463ab11fda4c688e8e57"
+        target="id-d47be2590fa141388d7e17c28150d07d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-840d468adae7421290877b6d49f9339c.xml#id-840d468adae7421290877b6d49f9339c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-885c6322e7fa41e681970c85e59e3c76"
+        source="id-057c72566634463ab11fda4c688e8e57"
+        target="id-1d44c9e0835b43a9b7f724fb2785fe66">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-62f1a190ff634e19a6288917aaeb697d.xml#id-62f1a190ff634e19a6288917aaeb697d"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f0eb0ffd4593475fb05a13b837d05290"
+        source="id-057c72566634463ab11fda4c688e8e57"
+        target="id-017b6a18f9d24bf98e1c6c4c5c3f8e75">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-44799e57a1e04b80a8afa5ea6c21999e.xml#id-44799e57a1e04b80a8afa5ea6c21999e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a91258fbcc3f4d97980b22c4c8855fe7"
+        source="id-057c72566634463ab11fda4c688e8e57"
+        target="id-776349eb6b9c4b4d83e8a9ccba889a51">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-9060486e47784512bf1bfc93360ba1cd.xml#id-9060486e47784512bf1bfc93360ba1cd"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="127"
+        width="759"
+        height="228"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ccb847d80e2944e492f04ed821052d71"
+        targetConnections="id-f267d16e7c014b9fa4226dd809676930"
+        fontColor="#000000"
+        fillColor="#ffabab"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="29"
+          width="170"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:BusinessEvent"
+          href="BusinessEvent_id-096391ec11764c1a93ad657f3b1993ef.xml#id-096391ec11764c1a93ad657f3b1993ef"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4ab369ece8af4affa8d3c143f4283e0e"
+        targetConnections="id-bb701180dcd14795a911c22221185bac"
+        fontColor="#000000"
+        fillColor="#ffabab"
+        textPosition="1">
+      <bounds
+          x="206"
+          y="29"
+          width="170"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:BusinessEvent"
+          href="BusinessEvent_id-16dd24d2a9c04e408f9882aee566e91d.xml#id-16dd24d2a9c04e408f9882aee566e91d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d47be2590fa141388d7e17c28150d07d"
+        targetConnections="id-517a6e5e00f94128b4330c575251299c"
+        fontColor="#000000"
+        fillColor="#ffabab"
+        textPosition="1">
+      <bounds
+          x="389"
+          y="29"
+          width="170"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:BusinessEvent"
+          href="BusinessEvent_id-f2e3f18b961649229bf7392a51bde36c.xml#id-f2e3f18b961649229bf7392a51bde36c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1d44c9e0835b43a9b7f724fb2785fe66"
+        targetConnections="id-885c6322e7fa41e681970c85e59e3c76"
+        fontColor="#000000"
+        fillColor="#ffabab"
+        textPosition="1">
+      <bounds
+          x="570"
+          y="29"
+          width="170"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:BusinessEvent"
+          href="BusinessEvent_id-fdae0ec450364ef2afe5630baf3efaf6.xml#id-fdae0ec450364ef2afe5630baf3efaf6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-017b6a18f9d24bf98e1c6c4c5c3f8e75"
+        targetConnections="id-f0eb0ffd4593475fb05a13b837d05290"
+        fontColor="#000000"
+        fillColor="#ffabab"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="123"
+          width="170"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:BusinessEvent"
+          href="BusinessEvent_id-84e2c6613f4144588d748491f37797e9.xml#id-84e2c6613f4144588d748491f37797e9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-776349eb6b9c4b4d83e8a9ccba889a51"
+        targetConnections="id-a91258fbcc3f4d97980b22c4c8855fe7"
+        fontColor="#000000"
+        fillColor="#ffabab"
+        textPosition="1">
+      <bounds
+          x="206"
+          y="123"
+          width="170"
+          height="80"/>
+      <archimateElement
+          xsi:type="archimate:BusinessEvent"
+          href="BusinessEvent_id-a2597e4be72b408eafbf7463f4c91bae.xml#id-a2597e4be72b408eafbf7463f4c91bae"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-e761600d31e14ff1be1c2882f8d3582d.xml#id-e761600d31e14ff1be1c2882f8d3582d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cfb177d5ef564447aa960c4372b8f920"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="10"
+        y="10"
+        width="619"
+        height="91"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-447510aa2c8045b5bff6cc4c6035712b"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="SOGP Environmental Threat Events"
+      borderType="2">
+    <bounds
+        x="100"
+        y="16"
+        width="517"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8b5eb178919d423f90244003b9763b4f"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="100"
+        y="46"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fe128be166964529aa21a25597b956fa"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2024-02-12"
+      borderType="2">
+    <bounds
+        x="172"
+        y="46"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5a53c05afddc4e47b1544d07b674ad17"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="490"
+        y="70"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f8dee98fadf245398e99fb69609b60c8"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      fillColor="#bffcc6"
+      content="Architect Approved"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="22"
+        y="22"
+        width="67"
+        height="67"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ae305f21bfa14fb58cdfc0eec704aa12"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="238"
+        y="46"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ec030e7be04848cf9abd5100ff8858b9"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#00cc44"
+      textAlignment="1"
+      content="Approved by Owen Richardson on 2023-12-04"
+      borderType="2">
+    <bounds
+        x="100"
+        y="67"
+        width="391"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$STAKEHOLDER"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8fe8e7a591bc4b9980242cf480dd8929"
+      fillColor="#ecda7d"
+      content="Most of the environmental threat events have consciously been left out from this view due to their likelihood. "
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="12"
+        y="374"
+        width="152"
+        height="91"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Mattias Dahlberg"/>
+  <properties
+      key="View Status"
+      value="Approved"/>
+  <properties
+      key="View Date"
+      value="2023-12-04"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Stakeholder"
+      value="Owen Richardson"/>
+  <properties
+      key="Stakeholder Status"
+      value="Approved"/>
+  <properties
+      key="Stakeholder Date"
+      value="2023-12-04"/>
+</archimate:ArchimateDiagramModel>

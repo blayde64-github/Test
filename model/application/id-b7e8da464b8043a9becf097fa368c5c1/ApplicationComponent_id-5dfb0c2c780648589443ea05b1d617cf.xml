@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Control Sign-Off Flow"
+    id="id-5dfb0c2c780648589443ea05b1d617cf"
+    documentation="This flow takes input from an Office Form, analyzes the form submitter and fetches their 365 User Profile, updates a SharePoint list and posts to a Teams Channel.&#xD;&#xA;Mattias Dahlberg created and shared with Owen Richardson."/>

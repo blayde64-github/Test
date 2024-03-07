@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACC002 Mishandling of critical and/ or sensitive information by authorised users"
+    id="id-84f310de5fd34fb3a30f49c2eba43abd"
+    documentation="An authorised user unintentionally discloses sensitive/critical information. Assessment guidance:&#xD;&#xA;&#xD;&#xA;At lower levels of threat strength (i.e. individuals with limited or no access privileges) the threat is likely to have access to less sensitive/critical information, resulting in reduced impact from disclosure.&#xD;&#xA;At higher levels of threat strength (i.e. individuals that have been assigned privileged access such as administrators) the threat will have access to more sensitive/critical &#xD;&#xA;information, resulting in greater impact from disclosure.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

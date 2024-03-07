@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE.2.1.3g: g) degree of responsibility for, and level of access to, information (e.g. from basic access to advanced security clearance)"
+    id="id-417aeab99af14e3a9f466f7791a185fc"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="PE.2.1.3g"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

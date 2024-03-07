@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BA.1.1.2b: b) information processed by each application, such as financial transaction data, sensitive physical information or personally identifiable information (e.g. race, ethnicity, political opinion, health, genetics, or trade union membership)"
+    id="id-c64b01df57b54372901304074c346f42"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="BA.1.1.2b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

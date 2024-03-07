@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.4.1 Security operations organization control"
+    id="id-6021be664efc49a390442f46bad76d97"
+    documentation="One or more Security Operations Centres (SOC) should be established that perform real-time monitoring and analysis of security-related events to prevent, detect and respond to information security incidents, using a combination of well-defined, up-to-date, approved processes and technologies.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

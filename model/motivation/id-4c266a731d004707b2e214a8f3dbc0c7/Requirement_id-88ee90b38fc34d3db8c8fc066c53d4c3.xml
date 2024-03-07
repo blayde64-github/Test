@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.50.1 Wireless information risk assessment control"
+    id="id-88ee90b38fc34d3db8c8fc066c53d4c3"
+    documentation="Wireless access to the network (e.g. using Wi-Fi, satellite, microwave links, Bluetooth, infrared or ZigBee) should be subject to an information risk assessment and signed off by an appropriate business manager, prior to its implementation.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

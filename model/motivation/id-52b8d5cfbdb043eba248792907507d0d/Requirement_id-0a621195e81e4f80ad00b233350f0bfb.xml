@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="R2.7.1 News are replicated on Workplace, using the opening paragraph from the SharePoint article along with a URL"
+    id="id-0a621195e81e4f80ad00b233350f0bfb"
+    documentation="Rationale: By replicating news from SharePoint on Workplace, we ensure we make good use of both environments.">
+  <properties
+      key="MoSCoW"
+      value="Won't Have"/>
+</archimate:Requirement>

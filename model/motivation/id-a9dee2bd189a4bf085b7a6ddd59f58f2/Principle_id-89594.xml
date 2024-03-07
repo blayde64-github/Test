@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security, resiliency and integrity"
+    id="id-89594"
+    documentation="All solution s and services must meet the security requirements. At minimum the requirements of the Tech Services Security Baseline must be met. Designs must leverage the defined security principles and pass the formal Security Architecture Review process.​&#xD;&#xA;&#xD;&#xA;All solutions and services must meet the requirements for resiliency and integrity, covering availability, disaster recovery etc. to secure business continuity and protection of data and other assets. All aspects of potentially impacting the service, performance, and availability need to be considered (e.g., human resource, technical, 3rd party, commercial, unusual conditions etc.) and mitigated appropriately (through the design or with mitigation plan).​&#xD;&#xA;&#xD;&#xA;Designs must address how to meet security, resiliency, and integrity requirements.​"/>

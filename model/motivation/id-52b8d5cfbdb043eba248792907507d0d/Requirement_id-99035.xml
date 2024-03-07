@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure business owner who has e2e resonsibility for VA service"
+    id="id-99035"
+    documentation="As the TEMA Business Owner I need to ensure that Vulnerability Scanning service has a clearly designated owner who is responsible for:&#xA;* Deploying the component in a safe manner (design, hardening)&#xA;* The ongoing use of the component (security event monitoring)&#xA;* Keeping the component supported (not reaching end-of-life)&#xA;* The timely deployment of security patches when they become available, including the verification after they are deployed&#xA;* Having an apparatus ready to implement mitigating controls should a zero-day vulnerability arise&#xA;This is to ensure that the service is maintained, updated and operated according to the security baseline and best practices. "/>

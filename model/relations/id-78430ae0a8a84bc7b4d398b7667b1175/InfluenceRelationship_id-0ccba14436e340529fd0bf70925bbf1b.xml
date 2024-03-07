@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0ccba14436e340529fd0bf70925bbf1b"
+    documentation="Possible positive influence if only parts of the Stub is being realized."
+    strength="+">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c57cfda408ac4cfc9e7d9695aaf979b2.xml#id-c57cfda408ac4cfc9e7d9695aaf979b2"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-52e55b28af7f4f3eb2b028b980dff05e.xml#id-52e55b28af7f4f3eb2b028b980dff05e"/>
+</archimate:InfluenceRelationship>

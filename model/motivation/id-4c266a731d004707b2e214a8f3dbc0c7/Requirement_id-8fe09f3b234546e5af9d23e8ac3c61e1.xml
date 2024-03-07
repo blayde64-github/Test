@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.20.1 Systems development lifecycle documentation control"
+    id="id-8fe09f3b234546e5af9d23e8ac3c61e1"
+    documentation="There should be a documented system development methodology (often referred to as the system development lifecycle (SDLC)), which is based upon sound systems development and project management practices such as waterfall, Agile (e.g. Scrum, Extreme Programming and Dynamic Systems Development Method (DSDM)) or hybrid approaches (e.g. Water-Scrum-Fall).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

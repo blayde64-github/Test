@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPG peering is used to abuse Tietoevry Routing tables"
+    id="id-32ae04e6806b493989e102696e698c26"
+    documentation="BGP peering between CleanPipe and Tietoevry routers could be used to hijack/leak/spoof routes or perform a exploit or Denial of service&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

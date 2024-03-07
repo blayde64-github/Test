@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM Process Configure Systems for Security Event Logging"
+    id="id-90467"
+    documentation="Required by security baseline control 4.67.1. configuration of systems or devices to generate security-related events (including event types such as user login attempts; service creation; system crashes; and creation, modification or deletion of user accounts) and event attributes associated with each event (e.g. date, time, source, destination IP addresses and User ID)"/>

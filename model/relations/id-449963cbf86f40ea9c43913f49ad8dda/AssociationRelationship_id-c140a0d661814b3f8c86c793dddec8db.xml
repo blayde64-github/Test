@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c140a0d661814b3f8c86c793dddec8db"
+    documentation="An SOGP Topic may reference parts of 27002"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-daa176f5fee34319bd5b5aaab7cec71e.xml#id-daa176f5fee34319bd5b5aaab7cec71e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-cf8994fb35e74a65b3de855ee3b83ed5.xml#id-cf8994fb35e74a65b3de855ee3b83ed5"/>
+</archimate:AssociationRelationship>

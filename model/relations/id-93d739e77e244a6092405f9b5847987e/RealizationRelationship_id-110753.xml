@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-110753"
+    documentation="Optimized TCO will likely be enabled be HIaaS and OCP implementing identified mitigations, as proactively fixing the security issues will cost less than  having incidents that may lead to penalties and sanctions or reputation-loss.">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-110773.xml#id-110773"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89590.xml#id-89590"/>
+</archimate:RealizationRelationship>

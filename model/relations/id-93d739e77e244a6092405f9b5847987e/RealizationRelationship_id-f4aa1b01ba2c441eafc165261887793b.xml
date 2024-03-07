@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f4aa1b01ba2c441eafc165261887793b"
+    documentation="The question structures are designed to help meet the security baseline minimums and as teams start to answer the questions and better understand them there will be a natural increase in architecture quality. ">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-2a1ee71e6b194bfb99142d5b7808c00c.xml#id-2a1ee71e6b194bfb99142d5b7808c00c"/>
+</archimate:RealizationRelationship>

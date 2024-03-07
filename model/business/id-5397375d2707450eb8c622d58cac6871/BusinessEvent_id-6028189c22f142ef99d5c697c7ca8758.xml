@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Architecture review process stops working and we loose many hours doing things manually."
+    id="id-6028189c22f142ef99d5c697c7ca8758"
+    documentation="It is possible to do security architecture review manually, Although our level 1 reviews would remain quick, our level 2 reviews are more complex and would require us to manually build content which may take several hours at a time. ">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

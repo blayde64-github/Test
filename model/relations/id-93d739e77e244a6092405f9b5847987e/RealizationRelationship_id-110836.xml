@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-110836"
+    documentation="Connect and S&amp;C management have stated that they want to receive value out of Security Baseline by the end of 2022. Conducting the gap analysis within this timeframe will utilize the baseline to provide value.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-110811.xml#id-110811"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89596.xml#id-89596"/>
+</archimate:RealizationRelationship>

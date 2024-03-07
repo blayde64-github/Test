@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Time to notify authorities of security incident"
+    id="id-0a3cd8446df54303bec64971b87125a7"
+    documentation="The time taken from the discovery of a security incident to the notification of the appropriate legal or regulatory body.&#xD;&#xA;&#xD;&#xA;NIS2&#xD;&#xA;Sets specific notification deadlines, such as a 24-hour “early warning”.&#xD;&#xA;&#xD;&#xA;Jiri Paloch: Deemed unnecessary as a metric, but it would make sense to include it as a process step.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

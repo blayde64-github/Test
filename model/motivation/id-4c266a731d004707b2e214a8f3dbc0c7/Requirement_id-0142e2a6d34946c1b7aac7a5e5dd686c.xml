@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.51.4 Untrusted services isolation control"
+    id="id-0142e2a6d34946c1b7aac7a5e5dd686c"
+    documentation="Untrusted devices - those that do not meet minimum security configuration requirements (i.e. fail a system integrity check) - should be automatically connected to an isolated network (e.g. a quarantine area such as a sandbox or container) where their configuration can be updated but no other changes are allowed.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

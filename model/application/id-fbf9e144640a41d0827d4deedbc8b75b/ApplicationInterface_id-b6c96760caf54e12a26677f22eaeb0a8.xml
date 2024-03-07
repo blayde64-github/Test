@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAR ESA Reviewer Interface"
+    id="id-b6c96760caf54e12a26677f22eaeb0a8"
+    documentation="This describes the interface provided for members of the Enterprise Security Architecture team to: &#xD;&#xA;&#xD;&#xA;1. Review and edit responses. &#xD;&#xA;2. Comment the responses that are provided within reviews. &#xD;&#xA;3. Completely remove a submitted review. &#xD;&#xA;&#xD;&#xA;Any changes to the answers will result in the scoring being changed as well and reflected in the SAR2 Power BI Dashboard.&#xD;&#xA;&#xD;&#xA;Setting a 'Review Date' is a requirement for saving the changes.">
+  <properties
+      key="URL"
+      value="https://apps.powerapps.com/play/e/default-cbede638-a3d9-459f-8f4e-24ced73b4e5e/a/3cecf715-2aa1-4c38-8886-c39d536d15d5?tenantId=cbede638-a3d9-459f-8f4e-24ced73b4e5e&amp;hint=fe3df989-cabd-4ba8-b4b8-5f614aa6a9bf&amp;sourcetime=1699175216308&amp;source=portal"/>
+</archimate:ApplicationInterface>

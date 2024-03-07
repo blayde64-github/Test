@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-94669bcee06d468dabfd3cc2a4aeff91"
+    documentation="This service does not have requirements for interoperability; however, it utilizes standard technologies by Microsoft which are designed to interoperate. ">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-9f073d00f1f44ccd821c0af2e4999020.xml#id-9f073d00f1f44ccd821c0af2e4999020"/>
+</archimate:RealizationRelationship>

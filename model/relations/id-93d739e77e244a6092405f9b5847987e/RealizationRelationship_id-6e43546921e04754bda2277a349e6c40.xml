@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6e43546921e04754bda2277a349e6c40"
+    documentation="The solution follows the security baseline and is designed to ensure other solutions do too. It utilises only internal Tietoevry standard tooling. ">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-8be789c3fc3f4be68059441f3a449a56.xml#id-8be789c3fc3f4be68059441f3a449a56"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-5813cedf729f4798841721f21ae4cbba.xml#id-5813cedf729f4798841721f21ae4cbba"/>
+</archimate:RealizationRelationship>

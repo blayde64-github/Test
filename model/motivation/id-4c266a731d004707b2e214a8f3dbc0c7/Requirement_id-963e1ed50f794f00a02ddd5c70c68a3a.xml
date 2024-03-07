@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.59.1 Malware protection standards &amp; procedures control"
+    id="id-963e1ed50f794f00a02ddd5c70c68a3a"
+    documentation="There should be documented standards/procedures covering a range of activities to protect against malware">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

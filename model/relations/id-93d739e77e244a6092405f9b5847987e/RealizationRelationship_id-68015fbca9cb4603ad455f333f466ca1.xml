@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-68015fbca9cb4603ad455f333f466ca1"
+    documentation="SAR1 assessment is a quick assessment that would take a competent architect only 5 minutes to complete, as they should already know the answer to the questions.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14cfcd74abe44c058eae1ad045eca6a9.xml#id-14cfcd74abe44c058eae1ad045eca6a9"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-e0a805e431454159a88de3a3bc8fae1e.xml#id-e0a805e431454159a88de3a3bc8fae1e"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-42625c09eb5e48d9973ca9c11b2aa218"
+    documentation="SAR1 Form Posting sends an email to the SAR Users containing score and summary,">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79a5f8daa42540fc973fcfdf602c33da.xml#id-79a5f8daa42540fc973fcfdf602c33da"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-097078c339ce4c3eb07e589462a47c0d.xml#id-097078c339ce4c3eb07e589462a47c0d"/>
+</archimate:RealizationRelationship>

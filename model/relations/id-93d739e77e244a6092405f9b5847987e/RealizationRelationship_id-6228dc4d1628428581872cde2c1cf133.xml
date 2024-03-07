@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6228dc4d1628428581872cde2c1cf133"
+    documentation="The business need for this solution is defined in the view titled &quot;Why Do Security By Design? Stakeholder View&quot;">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-89cbf109484b46b1b1970770d35a4921.xml#id-89cbf109484b46b1b1970770d35a4921"/>
+</archimate:RealizationRelationship>

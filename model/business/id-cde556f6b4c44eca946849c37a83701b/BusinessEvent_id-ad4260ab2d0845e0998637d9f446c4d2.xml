@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV008 Exploit misconfigured organisational information systems"
+    id="id-ad4260ab2d0845e0998637d9f446c4d2"
+    documentation="The threat exploits misconfigured information systems (i.e. those not configured in accordance with security standards, or organisational build requirements) in order to gain unauthorised access.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;This threat event can affect all types of organisational information systems, including: &#xD;&#xA;ԉ      applications (e.g. end-user applications, database servers)&#xD;&#xA;ԉ      services (e.g. web servers and database management systems)&#xD;&#xA;ԉ      operating systems (e.g. Microsoft Windows, Linux, Apple macOS and IBM z/OS) &#xD;&#xA;ԉ      virtual systems (e.g. virtual servers and virtual desktops)&#xD;&#xA;ԉ      networking equipment (e.g. routers, wireless access points and firewalls) &#xD;&#xA;ԉ      mobile devices (e.g. laptops, tablets and smartphones).">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

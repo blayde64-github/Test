@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.42.4 Server essential functionality control"
+    id="id-bebdccfc51ec4ef7beaec19d00b2e649"
+    documentation="Servers should be installed with only essential functionality for their purpose, and configured to disable or restrict anything deemed redundant">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

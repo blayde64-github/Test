@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-695ed4854b32444d8bfcddcc975d1fb9"
+    documentation="Provides the ability to do very fast 5 minute-self assessments of architecture completeness, to ensure at the highest level we are doing what we need to fulfil promises to customers in secure design.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3934ea64f9284c7d9fa50b9a44a712d9.xml#id-3934ea64f9284c7d9fa50b9a44a712d9"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-cdbda1a6ddb4409c9e40394079ad2369.xml#id-cdbda1a6ddb4409c9e40394079ad2369"/>
+</archimate:RealizationRelationship>

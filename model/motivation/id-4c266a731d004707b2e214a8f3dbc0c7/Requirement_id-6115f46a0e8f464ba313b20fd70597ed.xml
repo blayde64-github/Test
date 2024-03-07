@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SM.2.2.8a: a) general business trends (e.g. increase in remote working, prospects for growth, internationalisation, mergers/acquisitions, adoption of employee-owned devices, the increase in use of IT for industrial control systems, outsourcing and cloud computing)"
+    id="id-6115f46a0e8f464ba313b20fd70597ed"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SM.2.2.8a"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

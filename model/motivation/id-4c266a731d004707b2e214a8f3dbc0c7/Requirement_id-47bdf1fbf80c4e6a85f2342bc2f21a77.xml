@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SY.2.4.6: Checks should be performed on a regular basis to identify unapproved changes and confirm that only intended changes have been made (e.g. by using code comparison programs or checking before and after contents of key records such as customer master files)."
+    id="id-47bdf1fbf80c4e6a85f2342bc2f21a77"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SY.2.4.6"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-69d0e337d1754910b0c36516abd6c309"
+    documentation="CISO is responsible and accountable for defining security policy and governance">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d00f6db2a1914f04b641d457074b48b6.xml#id-d00f6db2a1914f04b641d457074b48b6"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-7a8d2452ce31433386cfa49b7d59a191.xml#id-7a8d2452ce31433386cfa49b7d59a191"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,258 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.68.5 Anomalous Behaviour Control Monitoring"
+    id="id-83653"
+    documentation="Specific monitoring activities should be performed to help identify anomalous behaviour">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-105159"
+      targetConnections="id-105161"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#faf087">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-105162"
+        font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-105159"
+        target="id-105158">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-102070.xml#id-102070"/>
+    </sourceConnections>
+    <bounds
+        x="314"
+        y="352"
+        width="133"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-85103.xml#id-85103"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-105158"
+      targetConnections="id-105162 id-105164"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#faf087">
+    <bounds
+        x="311"
+        y="239"
+        width="133"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-89469.xml#id-89469"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-105160"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#faf087">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-105161"
+        font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-105160"
+        target="id-105159">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-102072.xml#id-102072"/>
+    </sourceConnections>
+    <bounds
+        x="314"
+        y="472"
+        width="133"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-102067.xml#id-102067"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-105175"
+      font="1|arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffc8"
+      content="READY FOR REVIEW">
+    <bounds
+        x="41"
+        y="132"
+        width="153"
+        height="53"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-105163"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#bffcc6">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-105164"
+        font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-105163"
+        target="id-105158">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-105165.xml#id-105165"/>
+    </sourceConnections>
+    <bounds
+        x="248"
+        y="132"
+        width="273"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-5d922660e7854341956b36d97030bafd.xml#id-5d922660e7854341956b36d97030bafd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-17251f8f1aff416f908a2acd829ec885"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="34"
+        y="10"
+        width="439"
+        height="85"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ac0673d481cd40158b48e9bd375aea5d"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="4.68.5 Anomalous Behaviour Control Monitoring"
+      borderType="2">
+    <bounds
+        x="124"
+        y="22"
+        width="325"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fb8af3434526438baa5fdda864b71950"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="124"
+        y="58"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1fb47dd282434f879db3a01cd733726b"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-04-14"
+      borderType="2">
+    <bounds
+        x="196"
+        y="58"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-51abec08d352404ca3aca3c99eb0ceb4"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="337"
+        y="58"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cc03d6d7bccf42418384b74cd7825e3c"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      content="View Status"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="46"
+        y="22"
+        width="67"
+        height="61"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4ec500dac65849b6bea9f3f27e4abbfa"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="256"
+        y="58"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <properties
+      key="Classification"
+      value="Internal"/>
+</archimate:ArchimateDiagramModel>

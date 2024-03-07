@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.23.3 Systems Development Compliance Requirements Control"
+    id="id-24de82bdffae4e55aeadcf53620d6b4a"
+    documentation="Business requirements should take into account security-related compliance, including:&#xA;a) contractual, legal and regulatory obliga-tions&#xA;b) privacy requirements (e.g. the need to pro-tect the confidentiality of customer records or personally identifiable information (PII) such as medical details)&#xA;c) the organisation's information security pol-icies, standards and procedures.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

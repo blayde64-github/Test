@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-479a1ea16ae1418c854f640da3469064"
+    documentation="SAR2 includes mechanism for providing help during review">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b734b6d56cd74154989aa6805b1481a6.xml#id-b734b6d56cd74154989aa6805b1481a6"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-7cca7c5929f04fe594ad422ff5bd26b2.xml#id-7cca7c5929f04fe594ad422ff5bd26b2"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.12.4.1 Event logging"
+    id="id-c0285fabbbb0433a8f7666a1e1620ba9"
+    documentation="Control Event logs recording user activities, exceptions, faults and information security events shall be produced, kept and regularly reviewed.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

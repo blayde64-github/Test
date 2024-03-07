@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.58.4 Security architecture scope control"
+    id="id-2b81a5c58ce0455e99c31bd2576ef586"
+    documentation="The security architecture should support an enterprise-wide process for implementing coherent and consistent security services (e.g. identity services, authentication services and cryptographic services) and establishing common user interfaces and Application Programming Interfaces (APIs).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

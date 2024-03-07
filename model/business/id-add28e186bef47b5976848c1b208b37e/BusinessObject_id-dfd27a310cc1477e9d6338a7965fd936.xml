@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard Sales Text"
+    id="id-dfd27a310cc1477e9d6338a7965fd936"
+    documentation="Sales need the text in such a way that they can easily copy and paste it.&#xD;&#xA;&#xD;&#xA;How will our standard sales texts be produced?&#xD;&#xA;Shouldn't sales text go through some kind of approval?&#xD;&#xA;Will we create one sales text that cover several questions and then re-use that file in several questions or write a text which cover the specific question?">
+  <properties
+      key="Questions"
+      value="Yes"/>
+</archimate:BusinessObject>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.70.3 Real world attack review control"
+    id="id-873d7a2f83b0445bad9be48c5eb69334"
+    documentation="Conduct a thorough review of real-world attacks highlighting any vulnerabilities associated with:&#xA;    people (e.g. successful social engineering attempts and any cognitive biases triggered at any stage)&#xA;    processes (e.g. a weakness in any one pro-cess that an attacker was able to exploit as part of the attack)&#xA;    technologies (e.g. an unpatched operating system vulnerability).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

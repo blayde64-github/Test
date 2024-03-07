@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability scanners integrated to ServiceNow and enabled to scan in scope assets"
+    id="id-111696"
+    documentation="Existing vulnerability scanners needs to be integrated to Service Now to support&#xA;&#xA;- scanning of in-scope asset (information fetched from SN?)&#xA;- provide data to ServiceNow CMDB/Asset database for the vulnerabilities&#xA;- re-scan to verify whatever vulnerability was fixed&#xA;&#xA;"/>

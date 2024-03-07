@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA.1.6.6: Where passwords are used to supplement token authentication (e.g. to access a physical token or for fall-back purposes) good password practices should be applied, such as preventing the use of weak passwords, changing passwords regularly and locking the token after a set number of unsuccessful authentication attempts (to protect against brute force login attempts)."
+    id="id-63a5c430fb4c49cab672d8206270310d"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SA.1.6.6"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

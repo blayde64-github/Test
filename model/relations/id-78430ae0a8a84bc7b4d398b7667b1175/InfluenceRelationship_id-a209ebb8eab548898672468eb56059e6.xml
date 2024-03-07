@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a209ebb8eab548898672468eb56059e6"
+    documentation="Because of the challenges of identifying the people who need to be applying security review we have actively been developing and promoting the security architecture community to everyone in Tech Services.&#xD;&#xA;&#xD;&#xA;In addition to this, we ensured that we are correctly mandated as part of the architecture process. &#xD;&#xA;&#xD;&#xA;We will be making it evident where the flaws in the architecture process are when the review metrics are in place, which should enable leadership to have a clearer view of the issue. "
+    strength="-">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-801eae4cd7ff4d74ba5e626efe841e88.xml#id-801eae4cd7ff4d74ba5e626efe841e88"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-413dcd8462c44ce9b30bc86039c03a9a.xml#id-413dcd8462c44ce9b30bc86039c03a9a"/>
+</archimate:InfluenceRelationship>

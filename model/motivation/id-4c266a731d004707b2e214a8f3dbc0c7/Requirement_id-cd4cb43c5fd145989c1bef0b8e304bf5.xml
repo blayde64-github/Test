@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.3.5 Information security function organization control"
+    id="id-cd4cb43c5fd145989c1bef0b8e304bf5"
+    documentation="The organization should be supported by an information security function, led by a Chief Information Security Officer (CISO) (or equivalent), which has responsibility for promoting good practice in information security throughout the organization.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TM.1.1.10b: b) deciding when to deploy patches, such as by assessing potential post-deployment impact to the organisation; determining the criticality of patches (e.g. using the Common Vulnerability Scoring System (CVSS v3.1), Common Configuration Enumeration (CCE) or equivalent); and analysing the results of testing patches"
+    id="id-1c3903ee007a496986ebb6a9739b948c"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="TM.1.1.10b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Black Listing Filtering"
+    id="id-327551"
+    documentation="Blacklisting is a form of filtering where a list is created that registers entities that are prohibited access or are unwelcome signatures. When a blacklist is used, the default is to 'permit all' except for those entries that are enumerated in the filter. These are typically used when it is easier (and therefore a shorter list) to determine what entities should not be allowed."/>

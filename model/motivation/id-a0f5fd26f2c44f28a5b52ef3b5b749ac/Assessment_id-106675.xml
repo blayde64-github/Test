@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Admin interfaces open to public internet"
+    id="id-106675"
+    documentation="Both admin and API instance are open to internet withouth restrictions. This allows any unauthorized user to login or try to find weaknesses out from ServiceNow interfaces">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

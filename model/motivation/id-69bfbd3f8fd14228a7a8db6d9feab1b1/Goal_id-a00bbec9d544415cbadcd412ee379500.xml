@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NIST Cybersecurity Framework"
+    id="id-a00bbec9d544415cbadcd412ee379500"
+    documentation="Created by the U.S. National Institute of Standards and Technology, this framework helps organizations manage and reduce cybersecurity risk by aligning policy, business, and technological approaches to manage threats.&#xD;&#xA;&#xD;&#xA;NIST stands for National Institute of Standards and Technology, a U.S. federal agency that develops and promotes measurement standards and technology.">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

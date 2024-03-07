@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.53.7 Email education control"
+    id="id-396d1d94825d4138a189c23077c66b53"
+    documentation="Users should be educated in how to protect the confidentiality and integrity of email messages (e.g. by the use of encryption, digital certificates and digital signatures).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

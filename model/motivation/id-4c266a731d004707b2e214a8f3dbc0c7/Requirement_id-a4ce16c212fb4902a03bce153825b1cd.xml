@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BA.2.1.4d: d) the intended purpose of each critical EUDA (e.g. processing of operational information, such as tracking and monitoring operational workflow; analytical/management information to support decision making; or financial information such as balances populated in a general ledger)"
+    id="id-a4ce16c212fb4902a03bce153825b1cd"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="BA.2.1.4d"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AS.1.3.7: Security monitoring and reporting arrangements should be enhanced through the use of learning and improvement plans, taking into account feedback from target audiences."
+    id="id-0b08bfecf7ee46d89303e923e05c8c52"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="AS.1.3.7"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

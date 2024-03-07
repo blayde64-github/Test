@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6ae7b6d7d2604257ae013771bfc78623"
+    documentation="The Enterprise Security Architecture (ESA) Team are Serving/Running the team meeting.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-b410107edc5840b19ec7427084ac03d0.xml#id-b410107edc5840b19ec7427084ac03d0"/>
+</archimate:ServingRelationship>

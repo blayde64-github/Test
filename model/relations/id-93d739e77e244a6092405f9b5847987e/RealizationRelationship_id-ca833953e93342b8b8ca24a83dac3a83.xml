@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ca833953e93342b8b8ca24a83dac3a83"
+    documentation="The word files are confidential. Within the process, they are kept within the ESA Internal Teams Site. ">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c4404b35371e42b8b71bfe19403aac17.xml#id-c4404b35371e42b8b71bfe19403aac17"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-fae440260afb4ac092be0d09a1445d39.xml#id-fae440260afb4ac092be0d09a1445d39"/>
+</archimate:RealizationRelationship>

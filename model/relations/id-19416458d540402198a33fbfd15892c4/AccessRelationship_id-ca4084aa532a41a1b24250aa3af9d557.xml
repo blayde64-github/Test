@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ca4084aa532a41a1b24250aa3af9d557"
+    documentation="Power Query fetches the &quot;level&quot; table from the excel file and merge its contents with the query fetching data from the SAR2 SharePoint list."
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c76e4d16b9a046d1ac7d0f01f6000f6c.xml#id-c76e4d16b9a046d1ac7d0f01f6000f6c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7754c7d970374ac2a52ecbc8a9876720.xml#id-7754c7d970374ac2a52ecbc8a9876720"/>
+</archimate:AccessRelationship>

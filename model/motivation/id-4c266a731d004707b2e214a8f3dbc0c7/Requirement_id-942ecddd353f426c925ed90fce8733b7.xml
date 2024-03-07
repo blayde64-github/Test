@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.21.1 System development and testing segregation control"
+    id="id-942ecddd353f426c925ed90fce8733b7"
+    documentation="Two or more system development environments (e.g. application software packages, system software, hardware, communications and services) should be established, in which development and testing activities can be performed.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

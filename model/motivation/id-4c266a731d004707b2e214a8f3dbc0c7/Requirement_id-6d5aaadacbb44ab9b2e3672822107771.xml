@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SM.2.2.5: Information security specialists (or the information security function itself) should maintain membership of special interest groups or forums as a means to:"
+    id="id-6d5aaadacbb44ab9b2e3672822107771"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SM.2.2.5"/>
+  <properties
+      key="SOGP Type"
+      value="Stub"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

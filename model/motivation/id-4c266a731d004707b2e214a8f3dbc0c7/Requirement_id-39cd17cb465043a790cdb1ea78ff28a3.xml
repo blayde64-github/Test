@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TM.1.3.10b: b) creating playbooks that map to each use case, typically providing a checklist of steps (e.g. to leverage threat intelligence for additional context, compare with baseline behaviour and evaluate results of trend/pattern analysis from data analysis tools) as well as information about different threats that can be compared to the attributes of a given alert"
+    id="id-39cd17cb465043a790cdb1ea78ff28a3"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="TM.1.3.10b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.61.2 Intrusion detection criteria control"
+    id="id-dab2b979757a41ce8196b783eabd5b89"
+    documentation="Intrusion detection mechanisms should identify:&#xA;    unplanned termination of processes or applications&#xA;    activity typically associated with malware or traffic originating from known malicious IP addresses or network domains (e.g. those associ-ated with botnet command and con-trol servers)&#xA;    known attack characteristics (e.g. de-nial of service and buffer overflows)&#xA;    unusual or anomalous system behav-iour (e.g. keystroke logging, process injection and deviations in the use of standard protocols)&#xA;    unauthorised access (actual or at-tempted) to systems or information.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

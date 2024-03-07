@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process defined and enabled to validate and update vulnerability remedation or mitigation"
+    id="id-98759"
+    documentation=" an automated rescan is initiated by a VA tool, which then updates the tickets and records that the fix has succeeded.  &#xA;&#xA;Gartner Vulnerability Management Cycle: Validate, Re-scan"/>

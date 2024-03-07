@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="logs are forwarded to monitoring solution directly and reacted to without delays"
+    id="id-92724"
+    documentation="As security operator I must ensure that alerts given by device (e.g. fw) or application (e.g. Av-solution) are forwarded to monitoring solution directly and reacted to without delays to ensure rapid response and avoid escalation of possible security issues."/>

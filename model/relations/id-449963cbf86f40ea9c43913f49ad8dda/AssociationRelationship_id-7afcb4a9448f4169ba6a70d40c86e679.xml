@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7afcb4a9448f4169ba6a70d40c86e679"
+    documentation="An SOGP Topic may reference parts of CIS Controls v8"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-daa176f5fee34319bd5b5aaab7cec71e.xml#id-daa176f5fee34319bd5b5aaab7cec71e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-6cc1704512b24eccbbfa3998f641b557.xml#id-6cc1704512b24eccbbfa3998f641b557"/>
+</archimate:AssociationRelationship>

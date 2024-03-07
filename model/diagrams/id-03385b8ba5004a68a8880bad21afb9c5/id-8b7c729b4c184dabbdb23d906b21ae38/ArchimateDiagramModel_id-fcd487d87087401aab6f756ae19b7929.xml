@@ -1,0 +1,254 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Management Capability Realization"
+    id="id-fcd487d87087401aab6f756ae19b7929">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7da43c0ff54a4823b640a104891d6064"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="10"
+        y="10"
+        width="619"
+        height="91"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fd958aca9a9e413e8133bb285ea35f28"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Access Management Capability Realization"
+      borderType="2">
+    <bounds
+        x="100"
+        y="16"
+        width="517"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-47f461d9fe754debaf8c4d29df5965c8"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="100"
+        y="46"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c9359fb305ab4ac09e81027cf5f3395a"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-12-04"
+      borderType="2">
+    <bounds
+        x="172"
+        y="46"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e5da725f041e4e82a81bd8c52c570fd4"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="490"
+        y="70"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-01efcfaa5ac245619fbf962648da3b79"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      fillColor="#ffffcc"
+      content="Architect Draft"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="22"
+        y="22"
+        width="67"
+        height="67"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-71d29472692141848cbdffc3455ff641"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="238"
+        y="46"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-52e52ffcb9c24a16841a5c5f538f986d"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#b3cccc"
+      textAlignment="1"
+      content="Draft for Owen Richardson on 2023-12-04"
+      borderType="2">
+    <bounds
+        x="100"
+        y="67"
+        width="391"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$STAKEHOLDER"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-aa2ec7e67165453b83d3699e87f64bfb"
+      targetConnections="id-77b72485e5ce4fdcba46749f6c178c92 id-17907f4ad78a40b7851eac92bdc2100e"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      textPosition="1">
+    <bounds
+        x="10"
+        y="130"
+        width="600"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-adffae702a2c4b5d94d180503428f2f7.xml#id-adffae702a2c4b5d94d180503428f2f7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-99625a3c05c54c2c847416d67db84f9f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-77b72485e5ce4fdcba46749f6c178c92"
+        source="id-99625a3c05c54c2c847416d67db84f9f"
+        target="id-aa2ec7e67165453b83d3699e87f64bfb">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-c4e4f135c6624ec5965cd6bd9e76d048.xml#id-c4e4f135c6624ec5965cd6bd9e76d048"/>
+    </sourceConnections>
+    <bounds
+        x="10"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-cbd1d18bc2e5455298177cc5aa82c665.xml#id-cbd1d18bc2e5455298177cc5aa82c665"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-345b6a7aae9a4ee795be5e6581eac68a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-17907f4ad78a40b7851eac92bdc2100e"
+        source="id-345b6a7aae9a4ee795be5e6581eac68a"
+        target="id-aa2ec7e67165453b83d3699e87f64bfb">
+      <bendpoints
+          startX="74"
+          startY="-3"
+          endX="-166"
+          endY="200"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-e1bef097bc2f4a2db735e6be653804ee.xml#id-e1bef097bc2f4a2db735e6be653804ee"/>
+    </sourceConnections>
+    <bounds
+        x="10"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-f1d173689df1449b96b8b7e993aa5142.xml#id-f1d173689df1449b96b8b7e993aa5142"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4ad67bff4c0045fb8fb701cc3c5b71ea"
+      fontColor="#ffffff"
+      fillColor="#ff0000"
+      content="Draft"
+      textPosition="1">
+    <bounds
+        x="217"
+        y="264"
+        width="185"
+        height="80"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Owen Richardson"/>
+  <properties
+      key="View Status"
+      value="Draft"/>
+  <properties
+      key="View Date"
+      value="2023-12-04"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Stakeholder"
+      value="Owen Richardson"/>
+  <properties
+      key="Stakeholder Status"
+      value="Draft"/>
+  <properties
+      key="Stakeholder Date"
+      value="2023-12-04"/>
+</archimate:ArchimateDiagramModel>

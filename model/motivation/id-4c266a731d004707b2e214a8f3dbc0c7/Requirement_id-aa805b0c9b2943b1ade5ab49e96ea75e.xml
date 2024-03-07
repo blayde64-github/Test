@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.4.3 SOC Capabilities control"
+    id="id-aa805b0c9b2943b1ade5ab49e96ea75e"
+    documentation="The core capabilities of a SOC should be defined and implemented effectively, covering: structure (e.g. centralized, distributed or mixed).&#xA;·~~~~~~~~ collection and correlation of data, acquired via logs and other sources&#xA;·~~~~~~~~ detection of abnormal security events and malicious or anomalous behavior&#xA;·~~~~~~~~ monitoring and analysis of security-related events to ascertain whether they constitute suspicious activity that should be escalated for further investigation&#xA;·~~~~~~~~ security investigations, which includes gathering additional information and conducting in-depth analysis to understand the full context of an alert&#xA;·~~~~~~~~ incident response to mitigate the business impact of security incidents through remediation and recovery.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f759b180c65d4fc59dda1ab9134575f0"
+    documentation="This step in the SAR2 review process involves editing and tidying up the notes that were taken during a review and then pressing a button ">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7ebd66cbd1bd4406938d418305a0ade4.xml#id-7ebd66cbd1bd4406938d418305a0ade4"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f063c50dc18d4889bcf115557221df64.xml#id-f063c50dc18d4889bcf115557221df64"/>
+</archimate:FlowRelationship>

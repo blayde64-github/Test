@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reoccurring issues in audits"
+    id="id-44c658b7ffad43e3a3a41c349a1d96e8"
+    documentation="Often same issues reoccur in audits time after time. passing an audit doesn’t mean we are good; it means we have highlighted and made promises around issues. Not having consistent reusable architecture, and architects in place around the organization to enforce it means that we go in circles.&#xD;&#xA;&#xD;&#xA;There is a cost in time as we need to address the same things over and over. Providing evidence in audits requires us to manufacture content which we should be able to garner from an architecture model.">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

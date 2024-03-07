@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Tools &amp; Platforms Control Framework WPD"
+    id="id-bd9f382a480d4c0ca06948d0acdda4f1"
+    documentation="Establish mechanisms and metrics for getting control of Security Tools &amp; Platforms is simplified to &quot;Security Tools &amp; Platforms Control Framework&quot;. The simplified name was chosen by Mattias Dahlberg.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cd38a5f09e0743aa93442ece58afbc72"
+      textPosition="1">
+    <bounds
+        x="296"
+        y="283"
+        width="809"
+        height="83"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-cc8c43f30e494aca8b4aaae1ee651092.xml#id-cc8c43f30e494aca8b4aaae1ee651092"/>
+  </children>
+</archimate:ArchimateDiagramModel>

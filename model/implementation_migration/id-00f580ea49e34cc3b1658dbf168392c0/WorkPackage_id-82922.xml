@@ -1,0 +1,27 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Baseline Release 3"
+    id="id-82922"
+    documentation="Project for modifying the Security Baseline to be more simple and easy to implement - goals is to align it with biggest risks and threats to Connect services, and categorize and select relevant controls per service type. Owned by Connect CISO Mikael Lingskog. For more details, please see &quot;Security Baseline Release 3 work package definition&quot;.">
+  <properties
+      key="Passed SCARB"
+      value="Yes"/>
+  <properties
+      key="Project Manager"
+      value="Jaroslav Jurka"/>
+  <properties
+      key="Architect"
+      value="Noora Helle"/>
+  <properties
+      key="Project Owner"
+      value="Mikael Lingskog (Tietoevry Connect CISO)"/>
+  <properties
+      key="Start Date"
+      value="2022-10-01"/>
+  <properties
+      key="End Date"
+      value="2023-06-30"/>
+  <properties
+      key="Project Status"
+      value="Red"/>
+</archimate:WorkPackage>

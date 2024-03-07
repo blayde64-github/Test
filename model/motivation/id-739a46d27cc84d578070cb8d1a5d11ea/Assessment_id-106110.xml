@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of security architectures signed off by its defined stakeholders"
+    id="id-106110"
+    documentation="The &quot;Number of security architectures signed off by its defined stakeholders&quot; metric refers to the count of system designs that have been formally approved by the relevant parties involved in their creation or use. These stakeholders might include various teams within the organization, such as IT, operations, or even executive leadership. This sign-off means they agree that the design meets the necessary security requirements and aligns with the business objectives. Essentially, this metric gives us a measure of how many of our system designs have achieved a consensus among key parties, indicating a shared confidence in the security robustness and suitability of these designs for our business needs.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

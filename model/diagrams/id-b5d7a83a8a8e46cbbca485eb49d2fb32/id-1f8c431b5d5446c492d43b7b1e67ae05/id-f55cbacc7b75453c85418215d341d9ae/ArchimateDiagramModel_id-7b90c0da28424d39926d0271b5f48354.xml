@@ -1,0 +1,233 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability Mailbox Goal Realization"
+    id="id-7b90c0da28424d39926d0271b5f48354"
+    viewpoint="goal_realization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3a2b0280ed7644128b126349efeffcb4"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1">
+    <bounds
+        x="377"
+        y="219"
+        width="310"
+        height="112"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-771d4918b991462ca7563af6d8dfa3bf.xml#id-771d4918b991462ca7563af6d8dfa3bf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cdab704b239849728bd4f191aaac4cc6"
+      textPosition="1">
+    <bounds
+        x="731"
+        y="235"
+        width="224"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-cd572aa4423c44ff8d31f14083bf5950.xml#id-cd572aa4423c44ff8d31f14083bf5950"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-18dd452bc1c348939d7dcc9e400e6bbb"
+      textPosition="1">
+    <bounds
+        x="985"
+        y="235"
+        width="368"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-8fa22fe373294735a02003f61e6772bd.xml#id-8fa22fe373294735a02003f61e6772bd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b4a69d035fe54277aca4bfaf90af33b6"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="10"
+        y="10"
+        width="619"
+        height="91"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c873c394f9bd4108aa5d40584b56b515"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Vulnerability Mailbox Goal Realization"
+      borderType="2">
+    <bounds
+        x="100"
+        y="16"
+        width="517"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-eadf7f25c4a34688a825b1a07b53df25"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="100"
+        y="46"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b89294c2c4f04a2fa7fde894053e620c"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-11-28"
+      borderType="2">
+    <bounds
+        x="172"
+        y="46"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-abf5c285124c44ebaf1bb229e0f50f63"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="490"
+        y="70"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-571838a90c32471c8c8d2ed2687b1955"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      fillColor="#ffffcc"
+      content="Architect Draft"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="22"
+        y="22"
+        width="67"
+        height="67"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ec7162ffc1484281871f2173a1c032cb"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="232"
+        y="46"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9dbd05b0ddd7474db499867912d081f8"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#b3cccc"
+      textAlignment="1"
+      content="Draft for Owen Richardson on 2023-11-28"
+      borderType="2">
+    <bounds
+        x="100"
+        y="67"
+        width="391"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$STAKEHOLDER"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-62cf6919b81d42e4b407f698af499041"
+      textPosition="1">
+    <bounds
+        x="107"
+        y="390"
+        width="170"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-09ee51839f1d45e1be6dae6c50b5c61f.xml#id-09ee51839f1d45e1be6dae6c50b5c61f"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Mattias Dahlberg"/>
+  <properties
+      key="View Status"
+      value="Draft"/>
+  <properties
+      key="View Date"
+      value="2023-11-28"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Stakeholder"
+      value="Owen Richardson"/>
+  <properties
+      key="Stakeholder Status"
+      value="Draft"/>
+  <properties
+      key="Stakeholder Date"
+      value="2023-11-28"/>
+</archimate:ArchimateDiagramModel>

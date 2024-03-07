@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send AC Report"
+    id="id-b155912ae0ad4f5b91bee92a131df3dc"
+    documentation="This automated component executes a predefined workflow on a weekly schedule. It initiates with a trigger, retrieves and processes data, formats the data for presentation, and finally dispatches the result via email. This component ensures the consistent, timely distribution of reports without manual intervention."/>

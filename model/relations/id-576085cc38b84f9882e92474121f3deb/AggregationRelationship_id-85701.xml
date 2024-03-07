@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-85701"
+    documentation="Some internal systems provide threat intellegence capabilities.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-85709.xml#id-85709"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-85695.xml#id-85695"/>
+</archimate:AggregationRelationship>

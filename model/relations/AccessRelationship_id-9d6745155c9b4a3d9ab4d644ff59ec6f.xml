@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9d6745155c9b4a3d9ab4d644ff59ec6f"
+    documentation="Fetches the score definition for each answer"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d46b9a40899746dfb367ef90af6f2f7b.xml#id-d46b9a40899746dfb367ef90af6f2f7b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-bfac2ae63bdb4f7b88fff679c011d673.xml#id-bfac2ae63bdb4f7b88fff679c011d673"/>
+</archimate:AccessRelationship>

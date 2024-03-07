@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-101795"
+    documentation="Application Cooperation view is perfect for this.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-85074.xml#id-85074"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-85075.xml#id-85075"/>
+</archimate:RealizationRelationship>

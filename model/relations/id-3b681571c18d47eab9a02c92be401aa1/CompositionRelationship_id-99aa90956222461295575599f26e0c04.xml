@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-99aa90956222461295575599f26e0c04"
+    documentation="An SOGP Area contains several SOGP Topics">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c36f412614a445cca3271e3925ffa535.xml#id-c36f412614a445cca3271e3925ffa535"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-daa176f5fee34319bd5b5aaab7cec71e.xml#id-daa176f5fee34319bd5b5aaab7cec71e"/>
+</archimate:CompositionRelationship>

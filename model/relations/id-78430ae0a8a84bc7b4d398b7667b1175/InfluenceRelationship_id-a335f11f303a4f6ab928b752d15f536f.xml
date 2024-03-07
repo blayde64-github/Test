@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a335f11f303a4f6ab928b752d15f536f"
+    documentation="Influences the vocabulary and level of detail that we can go to with architects, leading to an overhead of time to explain things and leads to unwarranted negative feedback because of a lack of understanding of methods and concepts. &#xA;Influences the vocabulary and level of detail that we can go to with architects, leading to an overhead of time to explain things and leads to unwarranted negative feedback because of a lack of understanding of methods and concepts. "
+    strength="--">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-3ee8051eea6e49f1a875138224b6d734.xml#id-3ee8051eea6e49f1a875138224b6d734"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

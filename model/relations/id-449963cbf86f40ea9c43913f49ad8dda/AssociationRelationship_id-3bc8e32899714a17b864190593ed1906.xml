@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transferred to DPS"
+    id="id-3bc8e32899714a17b864190593ed1906"
+    documentation="The Security Tools and Platforms Team moved outside the scope of Security &amp; Compliance.">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_id-043ebff116d44d33a446300c85ba5501.xml#id-043ebff116d44d33a446300c85ba5501"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-87747.xml#id-87747"/>
+</archimate:AssociationRelationship>

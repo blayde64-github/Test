@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.54.3 Collaboration platform security control"
+    id="id-1929219b9c674ff9b67de07c03719842"
+    documentation="Collaboration platforms should be configured to operate securely by:&#xA;    requiring authentication before users are granted access to platforms&#xA;    disabling unauthorised features (e.g. message transcripts, externally facing APIs or user self-registration)&#xA;    protecting the integrity of messages (e.g. by the use of digital signatures)&#xA;    logging specified security-related events (e.g. to check for unauthorised activity, investigate potential breach-es and maintain records for regulato-ry purposes).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.24.3 System Design Security Architecture Control"
+    id="id-865805c367cc4d5a97e2121a03566764"
+    documentation="The system design phase should involve the integration of a security architecture that can support the technical security requirements, such as performance, capacity, continuity, scalability, connectivity and compatibility.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

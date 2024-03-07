@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5d7b61ebed204ce2b496ddac85cf5685"
+    strength="+">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-283818a985384656b9d9b324298f0fb5.xml#id-283818a985384656b9d9b324298f0fb5"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-106100.xml#id-106100"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.80.2 BCP Risk Assessment Control"
+    id="id-38b231f22e0441738f16a9c9e9fb6175"
+    documentation="Each business continuity plan should be based on the results of a risk assessment (e.g. using an information risk assessment methodology, such as IRAM2)">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

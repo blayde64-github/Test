@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACC003 User error (negligence)"
+    id="id-d9046d1c3239455786c4779332f7b71c"
+    documentation="Errors made by an authorised user (internal or external) when using or maintaining information systems as a result of carelessness, negligence or omission (e.g. insufficient care in processing information, not following instructions, or intentionally disregarding organisational policies, standards and procedures).&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;At lower levels of threat strength (i.e. individuals with limited or no access privileges), errors will generally result in greatly reduced or minimal impact to information &#xD;&#xA;systems.&#xD;&#xA;&#xD;&#xA;At higher levels of threat strength (i.e. individuals that have been assigned privileged access such as administrators), errors have the ability to cause greater impact to information systems.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

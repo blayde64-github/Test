@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AARM2 Application Service"
+    id="id-620c887009674057b527789d3f66cc4f"
+    documentation="AARM is a Tietoevry internal service. The service and its associated processes maintains Tietoevry specialists’ user accounts and access rights in Tietoevry and customer services’ user directories&#xD;&#xA;1 Is at its core a Role Based Access-Control (RBAC) system = Duties, Scopes, Direct Roles&#xD;&#xA;2 Runs on One Identity IDM platform&#xD;&#xA;&#xD;&#xA;- Secure, traceable and audited mechanisms for authorizing administrators to target servers&#xD;&#xA;- Automated provisioning of approved administrator accounts to target servers&#xD;&#xA;- Linked to HR data for automated deprovisioning of admin rights&#xD;&#xA;- Configurable attestations of existing administrator rights&#xD;&#xA;- Enforcing segregation of duties (currently under development)&#xD;&#xA;"/>

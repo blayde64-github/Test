@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Yes"
+    id="id-85519">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-85515.xml#id-85515"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-84371.xml#id-84371"/>
+</archimate:AssignmentRelationship>

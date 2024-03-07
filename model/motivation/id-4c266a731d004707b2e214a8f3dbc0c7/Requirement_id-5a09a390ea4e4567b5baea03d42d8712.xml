@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC.2.1.1: An approach should be developed for managing the secure acquisition, development and use of cloud services, which may include establishing a specific cloud security governance framework to address the unique features of a cloud environment (e.g. a cloud security-specific steering committee, policy, risk assessment and assurance process)."
+    id="id-5a09a390ea4e4567b5baea03d42d8712"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SC.2.1.1"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correlate asset criticality, vulnerability severity and threat actor activity"
+    id="id-99718"
+    documentation="require a way to discover what commercial products are used to deliver services&#xA;&#xA;As a Security Resources in TEMA, ISO 27k  and vulnerability management process require a way to discover what commercial products are used to deliver services. If tool is &quot;built in house&quot;, the 3rd party components included in the service are exposed to the internet. This needs to be combined with information about new vulnerabilities and exploits so that I can find most critical assets to mitigate and take corrective actions since internet facing assets are most exposed to threats. &#xA;&#xA;&#xA;CIS Control 7: &quot;In selecting which vulnerabilities to fix, or patches to apply, an enterprise should augment NISTs Common Vulnerability Scoring System (CVSS) with data concerning the likelihood of a threat actor using a vulnerability, or potential impact of an exploit to the enterprise. &quot;"/>

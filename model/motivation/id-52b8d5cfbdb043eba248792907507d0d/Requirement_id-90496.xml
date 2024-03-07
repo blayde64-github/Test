@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM Process Must Identify Systems &amp; Devices for Logging"
+    id="id-90496"
+    documentation="Required by security baseline control 4.67.1. identification of systems or devices on which event logging should be enabled (e.g. critical business applications and systems that have previously experienced a major information security incident, or systems that are subject to legal or regulatory obligations) to help identify security-related events"/>

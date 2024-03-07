@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incidents happen"
+    id="id-8345ed5b45ce410e95e944c0ba398c4f"
+    documentation="It may be a security incident... or something failing because the design didn’t properly consider how to address an event as part of the design. It will lead to some kind of escalation. ">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintains &amp; Implements"
+    id="id-27366b52182b45dbb441c2e7b0801d67"
+    documentation="Responsable for maintaining the controls and utilizing it in our own design. We also have some responsabilities around communication and guidance to external parties."
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-8be789c3fc3f4be68059441f3a449a56.xml#id-8be789c3fc3f4be68059441f3a449a56"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SD.2.2.6: The system design phase should involve consideration of the security implications of how systems will interface with other systems (e.g. running as a stand-alone application, using two-tier or three-tier architecture, operating in a Web Services or Service Oriented Architecture (SOA) environment, or interacting with cloud services)."
+    id="id-e5639f3caca64210800d938317857e5a"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SD.2.2.6"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure By Default"
+    id="id-89664"
+    documentation="Statement: Be secure by default&#xA;&#xA;Rationale: A mechanism that, in the event of failure, responds in a way that will cause no harm, or at least a minimum of harm, to other devices or danger to personnel.&#xA;Implication: Stress under load and hard failure situations should be incorporated into security testing. Default system configuration at start-up must be secure."/>

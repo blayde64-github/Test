@@ -1,0 +1,5 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Views"
+    id="id-85544"
+    documentation="The viewpoint Approval Document defines which types of views need to be created, and the architect must then create the required views according to the definition. Note that one type of view in the definition may result in several views created to meet its needs. It is at the architects discretion to design architecture building blocks that make logical sense in ways that can be easily understood.&#xA;For example, while creating service architecture the Architecture Viewpoint Approval Document may specify the need to save create service realization views. In a simple case it may make sense to create a single view, but should there be several services, the architect may choose to create three service realization views."/>

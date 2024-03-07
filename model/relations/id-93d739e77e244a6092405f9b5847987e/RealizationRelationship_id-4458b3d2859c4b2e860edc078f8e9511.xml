@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4458b3d2859c4b2e860edc078f8e9511"
+    documentation="The underlaying technology is our standard M365 service and this requirement should be met by the standard service.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-1272fbd3185b45f1991140cb7510712e.xml#id-1272fbd3185b45f1991140cb7510712e"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.57.2 Cloud service secure configuration control"
+    id="id-f58a18116d9f48a6bdd4b50d168706f0"
+    documentation="Cloud services (typically IaaS and some PaaS) should be configured securely,">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

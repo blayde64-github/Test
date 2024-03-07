@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0aa9a1d7b364467d9cdb790400e9cc8e"
+    documentation="Because we utilised standard company technology and do not need to apply significant security control on top of standard technology, the cost is low. This baseline requirement is duplicated in the architecture practice principles.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-9d9f55eca7cd451996bc5cd50d6e7cfe.xml#id-9d9f55eca7cd451996bc5cd50d6e7cfe"/>
+</archimate:RealizationRelationship>

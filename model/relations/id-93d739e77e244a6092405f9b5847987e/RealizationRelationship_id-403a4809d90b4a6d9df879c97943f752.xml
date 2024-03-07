@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-403a4809d90b4a6d9df879c97943f752"
+    documentation="Very little governance exists for architecture design; however, this design follows the architecture principles laid down within tech services, the Security Baseline, and security principles. The Enterprise Security Architecture Team is the governing body for security by design which is the owner of this process.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-488688197dec4e229e415f81b640354e.xml#id-488688197dec4e229e415f81b640354e"/>
+</archimate:RealizationRelationship>

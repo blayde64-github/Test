@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.36.1 Systems access restriction mechanism control"
+    id="id-e0ca880fbd8849d8a7cb95c944cc7168"
+    documentation="Access to business applications, systems, networks and computing devices should be restricted by using access control mechanisms, such as passwords/passphrases, tokens or biometrics.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

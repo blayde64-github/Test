@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-675866e2b4cc4cc0affd6b7cf8155167"
+    documentation="Only ESA Team Members are allowed access to the ESA Internal Team Site.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-64399b0092054d879b050733d5d8dd7a.xml#id-64399b0092054d879b050733d5d8dd7a"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-25235b245e374c74a3604b59100ab685.xml#id-25235b245e374c74a3604b59100ab685"/>
+</archimate:RealizationRelationship>

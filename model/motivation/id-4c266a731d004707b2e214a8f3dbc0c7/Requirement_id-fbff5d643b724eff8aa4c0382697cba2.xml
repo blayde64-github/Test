@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.46.2 Performance monitoring legal control compliance"
+    id="id-fbff5d643b724eff8aa4c0382697cba2"
+    documentation="Key information relating to system/network monitoring should be retained long enough to meet legal/regulatory requirements">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

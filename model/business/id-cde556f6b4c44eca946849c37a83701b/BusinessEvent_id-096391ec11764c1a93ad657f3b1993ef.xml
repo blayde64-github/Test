@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENV010 Power failure or fluctuation"
+    id="id-096391ec11764c1a93ad657f3b1993ef"
+    documentation="Partial or complete loss, fluctuation or degradation of mains electricity or backup power supply.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

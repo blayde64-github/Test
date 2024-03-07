@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSA Cloud Controls Matrix"
+    id="id-b9957ac33d7d472793a45e38c81dc7b8"
+    documentation="The Cloud Security Alliance's CCM is a cybersecurity control framework for cloud computing. It's designed to provide fundamental security principles to guide cloud vendors and to assist prospective cloud customers in assessing the overall security risk of a cloud provider.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Cloud Security Alliance is a non-profit organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment.&#xD;&#xA;Cloud Controls Matrix is a framework from the Cloud Security Alliance, providing fundamental security principles to guide cloud vendors and assist cloud customers in assessing the security risk of a cloud provider.">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

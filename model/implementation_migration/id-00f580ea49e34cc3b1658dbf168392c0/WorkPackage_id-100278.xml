@@ -1,0 +1,12 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Norway UMN Satellite"
+    id="id-100278"
+    documentation="Norway UMN Satellite&#xA;Goal:&#xA;&#xA;Enable management of assets in selected Norwegian datacentres by using centralized management instance in Finland.&#xA;&#xA;This project enables existing xTieto UMN services in selected Norwegian datacentres by using so called Satellite deployment. This delivery model is enabling connectivity from our central TE Connect management services in Finnish environment.&#xA;&#xA;We currently already have similar solution used to manage our deliveries in Sweden (Tullinge/Älvsjö) and in Norway (Stavanger/Fetsund). &#xA;&#xA;Limitation of this solution is that all the tooling is located outside of Norway thus full in-country operations is not possible. &#xA;&#xA;UMN satellite is a standard offering from our current product.&#xA;&#xA;UMN Remote sites - General documentation - TietoManagementAccess - Internal TDS Confluence &lt;https://confluence.shared.int.tds.tieto.com/display/TietoManagementAccess/UMN+Remote+sites+-+General+documentation>&#xA;&#xA;&#xA;Resourcing&#xA;&#xA;- Project Manager: Secures the resources and ensures the project is delivering&#xA;&#xA;- Technical Architect: TMA Product technical architect is required to make the technical design of the new satellite deployment.&#xA;&#xA;Technical resources:&#xA;&#xA;x86 Technical Specialist&#xA;Virtualization Technical Specialist&#xA;Network Technical Specialist&#xA;Windows Technical Specialist&#xA;Unix Technical Specialist&#xA;Data Center Technical Specialist">
+  <properties
+      key="Start Date"
+      value="2022-10-01"/>
+  <properties
+      key="End Date"
+      value="2022-12-31"/>
+</archimate:WorkPackage>

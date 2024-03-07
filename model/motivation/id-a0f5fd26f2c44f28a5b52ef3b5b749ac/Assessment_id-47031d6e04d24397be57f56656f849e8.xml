@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESA has Limited Control Over Data Access"
+    id="id-47031d6e04d24397be57f56656f849e8"
+    documentation="The Enterprise Security Architecture team doesn't have complete power to decide who can or cannot access certain data. This includes not being able to restrict access for high-level users like administrators.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.4.4 SOC cyber security Incident control"
+    id="id-e0080a8276e04aec9b2134980f3f3218"
+    documentation="Each SOC should support response to cyber security incidents, which may include:&#xA;·~~~~~~~~ mobilising a full incident response team, either by convening an ad hoc team or notifying the permanent, full-time Computer Security Incident Response Team (CSIRT), supported by relevant subject-matter experts and business representatives&#xA;·~~~~~~~~ enabling close collaboration between many individuals and teams to contain and eradicate the threat&#xA;·~~~~~~~~ informing the crisis management team if the security incident is complex, high impact or long lasting&#xA;·~~~~~~~~ devising an action plan for handling the given incident and remediating the threat, often supported by recommendations from SOC analysts as to the appropriate response&#xA;-         performing follow-up activities, which may include conducting a root cause analysis to identify control weaknesses that need rectifying or other safeguards that can be implemented to prevent a recurrence.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-56f2f466522c47c19f37a20efcbb7cc6"
+    documentation="This system is does not include code but is using standard logic builder components with technologies such as power automate. Tietoevry does not provide Systems Test, Acceptance test or other Office 365 environments for us to develop and promote to, and the concept of logic building is to enable rapid development within a production environment.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-e87a306ab17e4978995ca9716c89fb88.xml#id-e87a306ab17e4978995ca9716c89fb88"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bb8c6f6f82754282bd4073efd0049689"
+    documentation="The generated review files are sent to the TTS Internal Documents Library.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e68bdf432c0b493592841608e06e2571.xml#id-e68bdf432c0b493592841608e06e2571"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-39354ea1b27b4fb08ec1462e7e1ade2a.xml#id-39354ea1b27b4fb08ec1462e7e1ade2a"/>
+</archimate:FlowRelationship>

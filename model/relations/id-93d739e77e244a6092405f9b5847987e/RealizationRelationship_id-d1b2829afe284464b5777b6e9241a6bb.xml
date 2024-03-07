@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d1b2829afe284464b5777b6e9241a6bb"
+    documentation="The ESA Internal team site is a restricted access team site, running on Microsoft Teams which is an approved storage medium for customer data.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-64399b0092054d879b050733d5d8dd7a.xml#id-64399b0092054d879b050733d5d8dd7a"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c482ed2740604457aab57155fb32e606.xml#id-c482ed2740604457aab57155fb32e606"/>
+</archimate:RealizationRelationship>

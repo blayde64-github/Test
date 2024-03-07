@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.34.1 Systems access restriction control"
+    id="id-a486a61e5df2427a96d2fc6ad4217c7e"
+    documentation="Arrangements should be made to restrict access to business applications, information systems, networks and computing devices, and the information stored on and processed by them.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

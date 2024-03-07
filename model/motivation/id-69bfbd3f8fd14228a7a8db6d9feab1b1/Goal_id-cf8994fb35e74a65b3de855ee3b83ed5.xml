@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO/IEC 27002:2022"
+    id="id-cf8994fb35e74a65b3de855ee3b83ed5"
+    documentation="This edition continues to provide guidelines to support the implementation of an ISMS, focusing on information security controls. It has been updated to align with current industry practices and to provide clearer guidance on how to apply these controls in today's organizational and technological landscape. Like the previous version, it covers a variety of information security topics, but with updated content to reflect the evolving cybersecurity landscape.&#xD;&#xA;&#xD;&#xA;Information Security Management System is a systematic approach to managing sensitive information to ensure it remains secure, including people, processes, and IT systems.">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

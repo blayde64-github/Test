@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7d9b065ba1d94fd7a36e7515f932a3bb"
+    documentation="Its hard to resource teams when we lack architects in many positions.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-8eb9b3e6cec5428f9e7f850aa9485cdb.xml#id-8eb9b3e6cec5428f9e7f850aa9485cdb"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-a6ddb4a848c8467db7c4e6f963f6b941.xml#id-a6ddb4a848c8467db7c4e6f963f6b941"/>
+</archimate:AssociationRelationship>

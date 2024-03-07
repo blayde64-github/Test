@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9a6fe4ff516148549216b84159fa39ee"
+    documentation="The security architecture review mechanisms are highly automated, and the questions are black and white and not open to interpretation. &quot;Yes / No / Partly&quot; is a very simple form of question, where the difference between partly and fully is documented">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-e88b014a474149f0b14116717cd8a725.xml#id-e88b014a474149f0b14116717cd8a725"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.31.1 Business application protection documentation control"
+    id="id-0b6ba83e1cbe4fb59c20433797629331"
+    documentation="There should be documented standards/procedures for protecting different types of business applications, including: Enterprise applications, Commercial off the shelf applications (COTS), cloud-based applications, mobile technology etc.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

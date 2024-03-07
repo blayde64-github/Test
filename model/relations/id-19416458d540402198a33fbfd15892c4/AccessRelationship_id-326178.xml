@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passes Law"
+    id="id-326178">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-326189.xml#id-326189"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-326194.xml#id-326194"/>
+</archimate:AccessRelationship>

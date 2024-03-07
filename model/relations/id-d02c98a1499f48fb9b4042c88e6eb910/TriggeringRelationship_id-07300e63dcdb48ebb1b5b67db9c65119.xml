@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Books Meeting"
+    id="id-07300e63dcdb48ebb1b5b67db9c65119">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-7f3ad619b3a84e3c8662cbe4bb986aa9.xml#id-7f3ad619b3a84e3c8662cbe4bb986aa9"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-503a5874077d47b39bdd0de9d61d5d11.xml#id-503a5874077d47b39bdd0de9d61d5d11"/>
+</archimate:TriggeringRelationship>

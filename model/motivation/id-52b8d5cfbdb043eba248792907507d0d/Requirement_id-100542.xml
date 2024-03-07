@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store content on the system to prevent external change"
+    id="id-100542"
+    documentation="Addresses compliance by avoiding outdated/accidentally modified non-compliant answers.&#xD;&#xA;&#xD;&#xA;From the meeting Q&amp;A Repository: A quick review, chaired by Mattias Dahlberg 2023-04-13, with the attendance of Susanne Lindström, Hemant Chawan and Jaroslav Jurka&#xD;&#xA;&#xD;&#xA;&#x9;&#x9;○ Sussie and Hemant agreed that the requirement &quot;Store content on the system to prevent external change&quot; is deprecated&#xD;&#xA;&#x9;&#x9;&#x9;§ Hemant's solution for the risk of inaccurate content, is to assign someone to review external content annually. (Roles and Responsibilities to be defined)&#xD;&#xA;§ This does not mean that text or attached files will not be stored in the system, but that a decision where to store the content will be done based on the need.">
+  <properties
+      key="MoSCoW"
+      value="Won't Have"/>
+</archimate:Requirement>

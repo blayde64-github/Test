@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-949f1c00b561439a9ab8def06c3a0bd9"
+    documentation="The reviewer interface is used to easily review submissions">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-b6c96760caf54e12a26677f22eaeb0a8.xml#id-b6c96760caf54e12a26677f22eaeb0a8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-af8ffe83b6dd4c7d8db96df9e6397739.xml#id-af8ffe83b6dd4c7d8db96df9e6397739"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver multitenancy capabilities"
+    id="id-99005"
+    documentation="As a Security Resource in TEMA I need to ensure that the Vulnerability Service deliver multitenancy capabilities where customers might share the same IP address space. The platform need to support customers with overlapping IP address ranges. "/>

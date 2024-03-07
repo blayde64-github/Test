@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SG.2.2.8: The information security programme should provide guidance on the development, implementation and maintenance of security management documentation (e.g. formal directives, policies, standards/procedures, processes, guidelines and schemes) which apply to:"
+    id="id-c82589c7659e4f549364257f23f09e32"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SG.2.2.8"/>
+  <properties
+      key="SOGP Type"
+      value="Stub"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

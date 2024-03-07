@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meeting Notes"
+    id="id-9630f8318a554e4293216bdce65b59ef"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-b410107edc5840b19ec7427084ac03d0.xml#id-b410107edc5840b19ec7427084ac03d0"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ea6bf8ea13f14cfba080bb66fea44671.xml#id-ea6bf8ea13f14cfba080bb66fea44671"/>
+</archimate:AccessRelationship>

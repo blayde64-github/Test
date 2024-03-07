@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HA and backup and restore feature"
+    id="id-99015"
+    documentation="As a Security Manager in TEMA I need to make sure that the deployed solution has backup and restore feature to quickly fallback to a previously working version and state if something goes down or fails.&#xA;&#xA;As a Security Manager in TEMA I need to make sure that the  solution is implemented in a high availability mode with secondary devices able to take over and run smoothly in case the primary fails. Failover has to be instant and automatic to reduce downtime as much as possible."/>

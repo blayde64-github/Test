@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance"
+    id="id-ffc0229d8e1641608a67615dcef32073"
+    documentation="A view with links to other views only">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-a056d976b7844f27931f5aacde337498"/>
+</archimate:DataObject>

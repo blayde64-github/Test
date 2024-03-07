@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email address &amp; Doc Link"
+    id="id-89795"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-89728.xml#id-89728"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-89739.xml#id-89739"/>
+</archimate:AccessRelationship>

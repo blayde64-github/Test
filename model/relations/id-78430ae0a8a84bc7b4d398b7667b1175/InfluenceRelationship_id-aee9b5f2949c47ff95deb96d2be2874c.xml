@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-aee9b5f2949c47ff95deb96d2be2874c"
+    documentation="Lowering the strength of the influence becuase we intend to use ESA to work with these controls."
+    strength="-">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-f91c1e81b4a44f4bbf21ef247c0e1c04.xml#id-f91c1e81b4a44f4bbf21ef247c0e1c04"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-17c0933382724cedb8e53752e5ef17a3.xml#id-17c0933382724cedb8e53752e5ef17a3"/>
+</archimate:InfluenceRelationship>

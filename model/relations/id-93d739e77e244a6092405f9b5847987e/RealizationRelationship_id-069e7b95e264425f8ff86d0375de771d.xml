@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-069e7b95e264425f8ff86d0375de771d"
+    documentation="This solution is a reviewing function and has no requirements for resiliency and integrity beyond the requirements that the underlaying standard Tietoevry services must define and meet. ">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-294a804c379f4fb284eb10551e7130e3.xml#id-294a804c379f4fb284eb10551e7130e3"/>
+</archimate:RealizationRelationship>

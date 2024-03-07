@@ -1,0 +1,13 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Based On"
+    id="id-63f73734d97b42ca96c531f85f6b4ea8"
+    documentation="The baseline v3 is the Standards of good practice without any customization. The standards lay out expectations on different teams, and any architects defining architecture get to state which requirements will and will not be met as part of their designs.">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-8be789c3fc3f4be68059441f3a449a56.xml#id-8be789c3fc3f4be68059441f3a449a56"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-44b4a3e8cac8483e936b00a06af37857.xml#id-44b4a3e8cac8483e936b00a06af37857"/>
+</archimate:SpecializationRelationship>

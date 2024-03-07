@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6ade6089e33c48a99950c699368da0b7"
+    documentation="A row in ESA Work is populated with information about a SAR2 review">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71d66413e15544ea9217f9f25af7c1a0.xml#id-71d66413e15544ea9217f9f25af7c1a0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-081ae4787ff748c39039168fe986706b.xml#id-081ae4787ff748c39039168fe986706b"/>
+</archimate:FlowRelationship>

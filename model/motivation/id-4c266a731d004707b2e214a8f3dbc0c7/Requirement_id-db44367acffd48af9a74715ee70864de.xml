@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.47.5 Backup encryption control"
+    id="id-db44367acffd48af9a74715ee70864de"
+    documentation="Backups should be encrypted to protect sensitive information">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

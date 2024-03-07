@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ad90afcb5ded45e49fb8a65a3460b132"
+    documentation="Automatic Input of forms data">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9ee904005ecd407198153e45f5c90bac.xml#id-9ee904005ecd407198153e45f5c90bac"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1180fa0bdece4989b8488367427778a5.xml#id-1180fa0bdece4989b8488367427778a5"/>
+</archimate:FlowRelationship>

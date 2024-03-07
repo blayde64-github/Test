@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.12.4.4 Clock synchronisation"
+    id="id-ba22b8e5f07141089b99f5d1c7b043a1"
+    documentation="Control The clocks of all relevant information processing systems within an organization or security domain shall be synchronised to a single reference time source.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

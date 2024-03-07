@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TM.1.4.7b: b) determines the motivation, capabilities and commitment of identified threats and the extent to which the organisation is at risk of a targeted attack (e.g. by reviewing discovered code on the internet, obtaining alerts provided by a CERT and examining discussions in underground groups)"
+    id="id-ce5970d50ffb4d8f9ba0409e61cdec56"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="TM.1.4.7b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S&amp;C Service transformation project"
+    id="id-100234"
+    documentation="S&amp;C Service transformation project&#xA;&#xA;Goal:&#xA;&#xA;Consolidate existing legacy solutions within Security &amp; Compliance &#xA;&#xA;Establish a clear set of new security services for our products &amp; Customers&#xA;&#xA;Based on the Tietoevry Connect Platform Development project, S&amp;C Service Transformation will ensure all legacy solutions defined in TE Connect portfolio, under responsibility of Security &amp; Compliance, will be migrated to the new solutions which were implemented in S&amp;C Deployment project.&#xA;&#xA;Dependencies:&#xA;&#xA;Tietoevry Connect Portfolio Development project needs to establish a clear set of future state offering which is then used to evaluate which S&amp;C services needs to be migrated from legacy. &#xA;&#xA;S&amp;C Deployment Project needs to be completed so that there is future state solution where services can be migrated.&#xA;&#xA;Resourcing&#xA;&#xA;Project resourcing needs to be revised after there is clarity what are the various services requiring migration. &#xA;&#xA;&#xA;&#xA;">
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+</archimate:WorkPackage>

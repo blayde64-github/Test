@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.9 Firewall test control"
+    id="id-f6918109bf1a4d4faec552a15f63be06"
+    documentation="Before new or changed rules are applied to firewalls, their strength and correctness should be tested, verified and signed off by the network owner.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

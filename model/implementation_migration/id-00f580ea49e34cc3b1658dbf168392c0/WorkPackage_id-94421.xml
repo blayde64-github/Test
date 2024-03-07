@@ -1,0 +1,15 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Foundation Platform Service deployment project"
+    id="id-94421"
+    documentation="Platform deployment project&#xA;&#xA;Goal:&#xA;&#xA;Enable shared, secured capacity and connectivity services for Tietoevry Connect. This allows TE Connect to onboard services to in-country operated platform&#xA;&#xA;-    This project primary goal is to enable capacity and connectivity services on selected locations. Project will consume the design realized by Connectivity and Capacity Platform Development -project.&#xA;&#xA;-    Current estimation is that the platform needs to be deployed to several locations in Sweden, Norway and in Finland. Due to this, project is composed of multiple smaller sub-projects.&#xA;&#xA;-    Project is driven by Project Manager together with Service Architect, preferably the one who was assigned on the Platform Development project.&#xA;&#xA;-    Resources are mainly technical specialists who can install and configuring devices or systems based on the platform design. Project resourcing needs to be revised during development project.&#xA;&#xA;Dependencies&#xA;&#xA;-    Connectivity and Capacity Platform Development has delivered the design for the new platform which supports in-country operations&#xA;-    Tietoevry Connect Portfolio Development has delivered the in-country organization so that the system can be transferred to in-country continuous services &#xA;&#xA;Resourcing&#xA;&#xA;This project requires extensive skills from various areas. The overall design is led by Service Architect, other roles required:&#xA;&#xA;- Project Manager: Secures the resources and ensures the project is delivering&#xA;&#xA;- Service Architect: Has overall understanding of the deployed system. This resource should be the same as in Platform Development as she/he has the best understanding of the platform design.&#xA;&#xA;Technical resources:&#xA;&#xA;x86 Technical Specialist&#xA;Virtualization Technical Specialist&#xA;Network Technical Specialist&#xA;Automation Technical Specialist&#xA;Windows Technical Specialist&#xA;Unix Technical Specialist&#xA;Monitoring Technical Specialist&#xA;Data Center Technical SpecialistServiceNow Developer&#xA;&#xA;">
+  <properties
+      key="Start Date"
+      value="2023-12-17"/>
+  <properties
+      key="End Date"
+      value="2024-06-29"/>
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+</archimate:WorkPackage>

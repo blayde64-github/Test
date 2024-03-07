@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f4ffa4dc11704abcadcbcfd843a29d5b"
+    documentation="Any new SAR2 review will trigger the SAR2 Work Replication Flow">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7ebd66cbd1bd4406938d418305a0ade4.xml#id-7ebd66cbd1bd4406938d418305a0ade4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71d66413e15544ea9217f9f25af7c1a0.xml#id-71d66413e15544ea9217f9f25af7c1a0"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0bb72c54fbf04558a0e3b2606aeeab2e"
+    documentation="As part of standard functionality all teams lists are available through SharePoint.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-94072.xml#id-94072"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7ebd66cbd1bd4406938d418305a0ade4.xml#id-7ebd66cbd1bd4406938d418305a0ade4"/>
+</archimate:CompositionRelationship>

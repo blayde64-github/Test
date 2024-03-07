@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.79.1 Crisis management process control"
+    id="id-69ecfcb3a7e4456fa3c78e21162d143c"
+    documentation="There should be a crisis management process for dealing with major incidents and serious attacks in each individual business environment (supported by a business continuity plan or business continuity arrangements).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

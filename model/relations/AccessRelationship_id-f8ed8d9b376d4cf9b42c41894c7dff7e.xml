@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f8ed8d9b376d4cf9b42c41894c7dff7e"
+    documentation="Concern data is fetched by the Create ESA Work From AC Flow when triggered"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c2fe48d1070f433e87cab8f54514dfa0.xml#id-c2fe48d1070f433e87cab8f54514dfa0"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-5024216e5b284badb017e3932b541e5c.xml#id-5024216e5b284badb017e3932b541e5c"/>
+</archimate:AccessRelationship>

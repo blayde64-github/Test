@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-03a11517daad484abc4e9e008f4aa98c"
+    documentation="Up to date data flows to an embedded data object.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-34845d2b30fd464f85282048303fee20.xml#id-34845d2b30fd464f85282048303fee20"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e7a230ce71f84682b6d60dc20715ae25.xml#id-e7a230ce71f84682b6d60dc20715ae25"/>
+</archimate:FlowRelationship>

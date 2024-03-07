@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-db632eac344c456792bf18f24bd83b68"
+    documentation="Internal Security services &amp; processes">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-15d2e113f36a46b88ebc76ab5f5cc1a8.xml#id-15d2e113f36a46b88ebc76ab5f5cc1a8"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-388121e8d7bc41a2932740798de976eb.xml#id-388121e8d7bc41a2932740798de976eb"/>
+</archimate:RealizationRelationship>

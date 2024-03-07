@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Threat work or risk analysis not aligned with design."
+    id="id-8d74c8c11cc041ccba108862a7c03fd6"
+    documentation="When we do not understand how to apply security by design following a methodology a threat exists that the work that does get performed is not aligned with the architecture design, security controls are not defined and risk is not properly identified or managed.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

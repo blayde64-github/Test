@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fcea45f27c884a70b39b4a4b21bb4b30"
+    documentation="In order to keep our promises to customers, and follow requirements in the security baseline and ISO27k we need to have a quality checking mechanism in place for security architecture design. "
+    strength="+++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-810ecc871c1c4182ac4b7832c0539482.xml#id-810ecc871c1c4182ac4b7832c0539482"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

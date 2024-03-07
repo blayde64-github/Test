@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3bd2f4e057fb4d44b4ab320707937fcd"
+    documentation="SAR2 Review requires that we ask more detailed questions. Like SAR1 review they are fully described in the guide, but to assist in the assessment SAR2 requires a review  in addition.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-585397457d334e0ab6aa8d32bcb27678.xml#id-585397457d334e0ab6aa8d32bcb27678"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-e0a805e431454159a88de3a3bc8fae1e.xml#id-e0a805e431454159a88de3a3bc8fae1e"/>
+</archimate:RealizationRelationship>

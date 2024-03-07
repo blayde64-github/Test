@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Do not allow users direct access to the data sources"
+    id="id-76e6d031187e4ea8908d2f436b9df0fa"
+    documentation="Following the defence in depth principle, it is important not to give Security Architecture Review Users direct access to the data sources. as this would enable them to violate implement least privilege"/>

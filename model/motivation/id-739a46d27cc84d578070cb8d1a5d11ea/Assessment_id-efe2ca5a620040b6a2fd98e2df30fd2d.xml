@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of architectures that show information flow and lifecycle management"
+    id="id-efe2ca5a620040b6a2fd98e2df30fd2d"
+    documentation="The metric &quot;Number of architectures that show information flow and lifecycle management&quot; refers to the number of system designs that adequately map and manage the journey of information within our systems. 'Information flow' refers to how data moves and interacts within our systems, while 'lifecycle management' is about how data is created, used, stored, archived, and eventually discarded. This metric, therefore, indicates how many of our system designs not only account for the journey of data within them but also ensure that this journey is managed effectively, keeping in line with our data usage, retention, and disposal policies. It's an important measure of our commitment to responsible data handling and efficient system design.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

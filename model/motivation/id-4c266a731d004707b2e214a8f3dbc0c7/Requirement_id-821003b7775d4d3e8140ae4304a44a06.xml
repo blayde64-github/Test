@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AS.2.2.4b: b) threat-based approach, which typically uses tests that mimic or closely match threats that attempt to exploit vulnerabilities (e.g. control weaknesses) or bypass security controls (e.g. by undertaking penetration testing, simulating social engineering attacks, inputting bad data into applications and performing SQL/LDAP injection attacks)."
+    id="id-821003b7775d4d3e8140ae4304a44a06"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="AS.2.2.4b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-44c3870348dd4e54826f7a2d319de62f"
+    documentation="If a new Daily User is detected, AARM2 creates the person.">
+  <source
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-028e295ab6644e0e8299829d0a795a72.xml#id-028e295ab6644e0e8299829d0a795a72"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-f8f5deda50c34e1abec87cc207d9e1d3.xml#id-f8f5deda50c34e1abec87cc207d9e1d3"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,262 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Architecture Review Integration into ways of working"
+    id="id-4d599b867d8e46ad979059e223510f5b"
+    documentation="This view shows the different ways we are integrating Security Architecture Review Into ways of working. There are ongoing discussions, and this may develop over time. &#xD;&#xA;&#xD;&#xA;The use of the Security Architecture review processes is mandated within the Tech Services Architecture Principles. However, there are known risks with the existing practices which must be addressed. The document exists but the EA team currently have no controls in place to ensure that their architecture principles are followed. This Process will effectively provide this to them.&#xD;&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8447854dc02f400a9d1d0367eeabe124">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6e87f6918c224b1cb1f8267c1e0ff831"
+        source="id-8447854dc02f400a9d1d0367eeabe124"
+        target="id-44a5dfa48ccd44428475a144ffae0900">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-468d9769b8b94c43aedbb833d19298a5.xml#id-468d9769b8b94c43aedbb833d19298a5"/>
+    </sourceConnections>
+    <bounds
+        x="48"
+        y="180"
+        width="400"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-8e9f090cc5e041c295b00f852c9f06de.xml#id-8e9f090cc5e041c295b00f852c9f06de"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-44a5dfa48ccd44428475a144ffae0900"
+      targetConnections="id-6e87f6918c224b1cb1f8267c1e0ff831"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-40|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ecd6ffc0a5c14d8986ec3c8ffb7cc8e2"
+        source="id-44a5dfa48ccd44428475a144ffae0900"
+        target="id-28e2b14591374f60a79ef6caa3cc983d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-a02815ac673748d9a4ce7e0d6db54854.xml#id-a02815ac673748d9a4ce7e0d6db54854"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-69208ea64d1149afb7da8a3cd2c25026"
+        source="id-44a5dfa48ccd44428475a144ffae0900"
+        target="id-95c367e3d72d49ee8688472034087b37">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-4d75aa2d38594b3caf8cdeeba9231666.xml#id-4d75aa2d38594b3caf8cdeeba9231666"/>
+    </sourceConnections>
+    <bounds
+        x="48"
+        y="264"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-28e2b14591374f60a79ef6caa3cc983d"
+        targetConnections="id-ecd6ffc0a5c14d8986ec3c8ffb7cc8e2"
+        font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+      <bounds
+          x="204"
+          y="31"
+          width="169"
+          height="93"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-b734b6d56cd74154989aa6805b1481a6.xml#id-b734b6d56cd74154989aa6805b1481a6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-95c367e3d72d49ee8688472034087b37"
+        targetConnections="id-69208ea64d1149afb7da8a3cd2c25026"
+        font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+      <bounds
+          x="12"
+          y="31"
+          width="171"
+          height="97"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-3934ea64f9284c7d9fa50b9a44a712d9.xml#id-3934ea64f9284c7d9fa50b9a44a712d9"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-1d695ddb39f8492586e90495df27ec5c.xml#id-1d695ddb39f8492586e90495df27ec5c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5644177e49304bf79527a0c9c6bb95f3"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="10"
+        y="10"
+        width="619"
+        height="91"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9cc346cf170645a0a09d9e3dfce5ba3b"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Security Architecture Review Integration into ways of working"
+      borderType="2">
+    <bounds
+        x="100"
+        y="16"
+        width="517"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-61bbd1391ab84b1fa053da17776f0fd5"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="100"
+        y="46"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3b62058169fb4571a50dc7218c00ba77"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-11-07"
+      borderType="2">
+    <bounds
+        x="172"
+        y="46"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-934c9cf32f164491bd2f21ef911c582a"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="490"
+        y="70"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5c8c96a44b8a45c7b5377439cf247fa2"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      fillColor="#bffcc6"
+      content="Architect Approved"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="22"
+        y="22"
+        width="67"
+        height="67"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2770e0223aa7457797de723202ae8d10"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="232"
+        y="46"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7548d921e8e14c71aea75fc17feb6917"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#00cc44"
+      textAlignment="1"
+      content="Approved by Owen Richardson on 2023-10-30"
+      borderType="2">
+    <bounds
+        x="100"
+        y="67"
+        width="391"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$STAKEHOLDER"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Owen Richardson"/>
+  <properties
+      key="View Status"
+      value="Approved"/>
+  <properties
+      key="View Date"
+      value="2023-10-30"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Stakeholder"
+      value="Owen Richardson"/>
+  <properties
+      key="Stakeholder Status"
+      value="Approved"/>
+  <properties
+      key="Stakeholder Date"
+      value="2023-10-30"/>
+</archimate:ArchimateDiagramModel>

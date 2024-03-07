@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f1ef343906bd4bdd9ce968c48364f57a"
+    documentation="Each SAR1 row is replicated in the ESA Work list.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d74a519cd412488f83546b16eed119f1.xml#id-d74a519cd412488f83546b16eed119f1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-081ae4787ff748c39039168fe986706b.xml#id-081ae4787ff748c39039168fe986706b"/>
+</archimate:FlowRelationship>

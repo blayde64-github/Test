@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9182c379b19549bd9009df881a9dc654"
+    documentation="Because security is commonly misunderstood, architects often fail to comprehend the meaning and scope of security by design."
+    strength="--">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-b0c0e9e340814d3884a8fe3ba66e2bf8.xml#id-b0c0e9e340814d3884a8fe3ba66e2bf8"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

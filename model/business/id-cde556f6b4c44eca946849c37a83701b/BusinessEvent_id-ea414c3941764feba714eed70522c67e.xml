@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV019 Phishing"
+    id="id-ea414c3941764feba714eed70522c67e"
+    documentation="The threat counterfeits communications from a legitimate/trustworthy source to mislead recipients into revealing sensitive information such as usernames, passwords or personally identifiable information (PII).&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;At lower levels of threat strength the threat is likely to use relatively unsophisticated &#xD;&#xA;techniques, involving:&#xD;&#xA;ԉ      the use of generic, publicly available phishing tools&#xD;&#xA;ԉ      basic delivery mechanisms (e.g. spam emails)&#xD;&#xA;ԉ      targeting a large number of individuals or organisations indiscriminately.&#xD;&#xA;&#xD;&#xA;At higher levels of threat strength the threat could employ more sophisticated techniques, involving:&#xD;&#xA;ԉ      the use of customised phishing tools&#xD;&#xA;ԉ      the use of more advanced delivery mechanisms (e.g. counterfeit websites with forged TLS certificates)&#xD;&#xA;ԉ      ‘spear phishing’, or targeting specific individuals (e.g. executives or individuals with privileged access).">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

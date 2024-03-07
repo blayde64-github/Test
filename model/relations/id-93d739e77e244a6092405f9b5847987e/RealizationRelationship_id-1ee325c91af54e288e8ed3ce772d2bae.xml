@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1ee325c91af54e288e8ed3ce772d2bae"
+    documentation="This is a cloud service, and things like locale of information are determined by the Tietoevry M365 Service Owner. The underlaying technologies allow the tenant admins to control this.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-09c0c62850af470e828f6f816e855553.xml#id-09c0c62850af470e828f6f816e855553"/>
+</archimate:RealizationRelationship>

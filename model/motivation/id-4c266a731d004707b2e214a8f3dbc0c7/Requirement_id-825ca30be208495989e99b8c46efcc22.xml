@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.3.1 Infosec policy control"
+    id="id-825ca30be208495989e99b8c46efcc22"
+    documentation="There should be a documented information security policy, ratified at board level, that applies across the organization, supported by an individual (or a group of individuals) responsible for maintaining the policy.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

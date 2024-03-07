@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7b9ebd40907a4ab89c08710d2621ba62"
+    documentation="As part of the security architecture review control, we address inconsistent skill levels by providing a &quot;Security Architecture Review Guide.&quot; &#xD;&#xA;&#xD;&#xA;We will also be publishing several videos in the Security Architecture Community explaining how this works.&#xD;&#xA;"
+    strength="-">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-801eae4cd7ff4d74ba5e626efe841e88.xml#id-801eae4cd7ff4d74ba5e626efe841e88"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-3ee8051eea6e49f1a875138224b6d734.xml#id-3ee8051eea6e49f1a875138224b6d734"/>
+</archimate:InfluenceRelationship>

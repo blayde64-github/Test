@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.63.1 Cryptography requirements control"
+    id="id-58c1c2d0aad2417ea9fd7edf92ecdf0a"
+    documentation="Cryptography should be used across the organisation (including external elements, such as cloud services) to:&#xA;* protect the confidentiality of sensitive information or information that is subject to legal and regulatory-related encryption requirements (e.g. PCI DSS, US Health Insurance Portability and Accountability Act (HIPAA) and the EU General Data Protection Regulation 2016/679 (GDPR))&#xA;* determine if critical information has been altered (e.g. by performing hash functions or digitally signing)&#xA;* provide strong authentication for users of applications and information systems (e.g. by using digital certifi-cates and smartcards)&#xA;* enable the identity of the originator of critical transactions or communications to be proven (e.g. by using digital signatures for non-repudiation).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

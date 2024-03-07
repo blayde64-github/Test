@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e309f210c6504ba3a45b66a290f3575c"
+    documentation="Mattias has a familiarity with Power Automate and worked with Owen on the development of the power automate scripts. ">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-71b090c302af443c8de67499a117eebd.xml#id-71b090c302af443c8de67499a117eebd"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-33afd665c9a447aebe3618943bfb8e7e.xml#id-33afd665c9a447aebe3618943bfb8e7e"/>
+</archimate:RealizationRelationship>

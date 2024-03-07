@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-412f8f87108a445fba83647731cd23e8"
+    documentation="Although this process is assigned to the Enterprise Security Architecture Team, the scoring is normally done automatically based on very simple scoring of the answers provided as is detailed in this process.. ">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8f961ef4e6c342c9802825bce8f4b511.xml#id-8f961ef4e6c342c9802825bce8f4b511"/>
+</archimate:AssignmentRelationship>

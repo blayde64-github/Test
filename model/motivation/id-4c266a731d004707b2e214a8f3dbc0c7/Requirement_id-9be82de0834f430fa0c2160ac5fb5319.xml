@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.46.1 Performance monitoring control"
+    id="id-9be82de0834f430fa0c2160ac5fb5319"
+    documentation="The performance of business applications, systems and networks should be monitored:&#xA;    against agreed targets&#xA;    by reviewing current utilization of sys-tems at normal and peak periods&#xA;    using automated monitoring software that generates alerts (e.g. via a man-agement console, email messages or SMS text messages to mobile tele-phones) based on predefined thresh-olds&#xA;    by reviewing event logs relating to system and network activity regularly (e.g. to identify poor response times, lack of network bandwidth or delays in voice traffic)&#xA;    by investigating bottle-necks/overloads, including network queuing, latency levels and network jitter.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

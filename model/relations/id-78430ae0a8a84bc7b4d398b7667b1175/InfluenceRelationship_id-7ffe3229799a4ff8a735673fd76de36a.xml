@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7ffe3229799a4ff8a735673fd76de36a"
+    documentation="Security has been a hot topic for customers for several years now, and with new law and legislation coming in, the demand is increasing. "
+    strength="+++">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-10adc84acfb94aadb6084fdee50039b3.xml#id-10adc84acfb94aadb6084fdee50039b3"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-254e7b63e3ab4d41950fea5545b13cd2.xml#id-254e7b63e3ab4d41950fea5545b13cd2"/>
+</archimate:InfluenceRelationship>

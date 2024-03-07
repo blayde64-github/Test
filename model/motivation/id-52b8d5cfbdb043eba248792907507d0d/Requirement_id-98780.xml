@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability management reporting framework enabled"
+    id="id-98780"
+    documentation="Providing reports of asset vulnerabilities including reports against standards like PCI-DSS&#xA;Risk based reporting&#xA;CIS Control 7.2 Establish and maintain a risk-based remediation strategy documented in a remediation process, with monthly, or more frequent, reviews.&#xA;&#xA;Gartner Vulnerability Management Cycle: Report&#xA;&#xA;CIS: The most effective vulnerability scanning tools compare the results of the current scan with previous scans to determine how the vulnerabilities in the environment have changed over time. Security personnel use these features to conduct vulnerability trending from month to month."/>

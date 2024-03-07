@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-67d21f4598e44ab083ede994741566c7"
+    documentation="When you do not follow architecture practices, design becomes untraceable.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-7ca36462a5874370a57575d0523ca566.xml#id-7ca36462a5874370a57575d0523ca566"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-b20e2fa3de2546e48260d49eab35e8f5.xml#id-b20e2fa3de2546e48260d49eab35e8f5"/>
+</archimate:TriggeringRelationship>

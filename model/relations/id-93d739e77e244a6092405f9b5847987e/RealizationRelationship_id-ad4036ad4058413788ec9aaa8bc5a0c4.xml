@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ad4036ad4058413788ec9aaa8bc5a0c4"
+    documentation="We have no admin access to M365 and this control is realized by the standard service.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-325c852783884ae995e9c48c460231ae.xml#id-325c852783884ae995e9c48c460231ae"/>
+</archimate:RealizationRelationship>

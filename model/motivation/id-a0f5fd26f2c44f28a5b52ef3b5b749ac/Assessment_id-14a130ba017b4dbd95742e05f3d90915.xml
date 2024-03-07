@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The attestors doesn't know whether a specific access is required or not for the user"
+    id="id-14a130ba017b4dbd95742e05f3d90915"
+    documentation="In UMN the standard solution for access managment, the access review process is currently designed in such a way that the reviewers cannot effectively determine if a person truly needs the access they have. Ideally, based on best practices, this responsibility should fall to someone who knows who requires access. &#xD;&#xA;&#xD;&#xA;This issue in the process is an unintended result, not a deliberate choice, which leads to challenges in properly evaluating access requirements.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

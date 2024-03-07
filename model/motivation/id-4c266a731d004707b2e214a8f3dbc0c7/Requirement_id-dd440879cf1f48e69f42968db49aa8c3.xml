@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.55.2 Supply chain contract control"
+    id="id-dd440879cf1f48e69f42968db49aa8c3"
+    documentation="Each use of an external supplier should be supported by a contract (including terms and conditions or equivalent), which covers all clauses that apply to standard external supplier contracts and includes special provisions related to the use of specific services (e.g. those offered by cloud service providers).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

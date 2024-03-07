@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e1587e984dd74d28aca48c859c446115"
+    documentation="Implementing security by design means integrating security considerations into a product or system from its inception rather than as an afterthought. By building security measures into the foundation of a system, organizations can ensure that protective mechanisms are consistent, comprehensive, and efficient.&#xD;&#xA;&#xD;&#xA;This proactive approach offers significant advantages when it comes to compliance and the implementation of controls. &#xD;&#xA;&#xD;&#xA;Firstly, it often simplifies the process of meeting regulatory requirements since the security protocols align with the standards from the beginning. This reduces the risk of non-compliance and the associated penalties. &#xD;&#xA;&#xD;&#xA;Secondly, by considering security early in the design process, organizations can more effectively allocate resources and implement controls that are coherent and cost-effective. Instead of retrofitting systems to address vulnerabilities or meet compliance standards, security by design ensures that the necessary controls are seamlessly integrated, reducing potential gaps in defence and bolstering the overall security posture of the organization."
+    strength="++">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-401e03d0bc0f4da483d54895112f96e6.xml#id-401e03d0bc0f4da483d54895112f96e6"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-b1db8ba4db174ff48d42deb1b6b7338b.xml#id-b1db8ba4db174ff48d42deb1b6b7338b"/>
+</archimate:InfluenceRelationship>

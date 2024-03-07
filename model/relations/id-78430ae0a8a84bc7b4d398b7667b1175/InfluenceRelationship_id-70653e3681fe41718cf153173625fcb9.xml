@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-70653e3681fe41718cf153173625fcb9"
+    documentation="Will affect the long term goal to manage all deviations found in the ISAE 3402 Audit, not just the Access Management ones">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-179cea255c734f5fb873c40b34d0c075.xml#id-179cea255c734f5fb873c40b34d0c075"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a7419e9755874953ad7f548119a33c88.xml#id-a7419e9755874953ad7f548119a33c88"/>
+</archimate:InfluenceRelationship>

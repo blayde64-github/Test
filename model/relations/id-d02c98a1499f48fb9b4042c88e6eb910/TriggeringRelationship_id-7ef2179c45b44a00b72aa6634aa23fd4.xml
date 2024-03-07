@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wait for mail"
+    id="id-7ef2179c45b44a00b72aa6634aa23fd4">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-295fe70378114819ba5be73f87a3143d.xml#id-295fe70378114819ba5be73f87a3143d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0147edb4a56b41dbb688c7e6fa5de38f.xml#id-0147edb4a56b41dbb688c7e6fa5de38f"/>
+</archimate:TriggeringRelationship>

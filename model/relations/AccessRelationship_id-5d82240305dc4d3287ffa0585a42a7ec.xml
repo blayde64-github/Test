@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5d82240305dc4d3287ffa0585a42a7ec"
+    documentation="Read risks from coporate risk register"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b1e7e0dafea84ad684ccad273edede40.xml#id-b1e7e0dafea84ad684ccad273edede40"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-457d5a89bf0a4f4591092874fef3f751.xml#id-457d5a89bf0a4f4591092874fef3f751"/>
+</archimate:AccessRelationship>

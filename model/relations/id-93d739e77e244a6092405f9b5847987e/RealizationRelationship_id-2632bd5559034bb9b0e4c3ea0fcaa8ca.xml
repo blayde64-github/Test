@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2632bd5559034bb9b0e4c3ea0fcaa8ca"
+    documentation="The reporting slide generation is completely automated, although the security council slides are created by hand.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c49a528fd7a04ea19b7c1a174569c417.xml#id-c49a528fd7a04ea19b7c1a174569c417"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bcd54abb53b642daa2a4257f0eb5ee79.xml#id-bcd54abb53b642daa2a4257f0eb5ee79"/>
+</archimate:RealizationRelationship>

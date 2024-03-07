@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validates"
+    id="id-571412ae27e843e7a23bde827dc0443d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-8582cee2afb9444aa1b190160e88fab6.xml#id-8582cee2afb9444aa1b190160e88fab6"/>
+</archimate:RealizationRelationship>

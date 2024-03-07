@@ -1,0 +1,613 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Structure of ESA-Dev"
+    id="id-22494570b9e74c318902404310a17fa5">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-a591ee54869847d08a9b6f6e6b8d79aa"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#408080"
+      borderColor="#000000"
+      content="Current Root Level - ESA-Dev">
+    <bounds
+        x="194"
+        y="51"
+        width="618"
+        height="697"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-6157469f762b44808f4d644d71fc050d"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Reference Architectures"
+        notes="Anything here is being referenced by other views in the model."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="402"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c732f074051447ce9bd5dc3538263b72"
+        targetConnections="id-c9377aa269b6424686f819f30a1e8e09"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        alpha="200"
+        content="Navigation"
+        notes="Does not serve a purpose in ESA-Dev. Moved to Unused."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="241"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-045646e50cc24d27945788f72e6f4f11"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Motivation &amp; Strategy"
+        notes="Motivation and strategy for the overall company. Does not cover ESA."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="200"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-ef1a1415548c4e959e793e345d9cb6a0"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Misc"
+        notes="Contains miscellaneous views which is hard to place anywhere else. Should be used with restraint."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="156"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-4dd422604cce496897aa12402cb230c9"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Governance"
+        notes="Contains governance pertaining to ESA as a whole, the team, tools and processes"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="108"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-a64d7443bc0149bdb06d65717227f28e"
+        targetConnections="id-d59b4285eff7481f8b53c8db8e98a22f"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff80ff"
+        alpha="200"
+        content="Organization"
+        notes="Any Views related to organization. Contains a lot of QSP which is suggested to move to Unused/Organization."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="282"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-fed5c15412b84ad9af6f8a18080b9ee8"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff80ff"
+        alpha="200"
+        content="Project Specific"
+        notes="Contains a lot of old projects. Suggesting that the underlying project folders all are moved to something like Old Projects and placed in Unused&#xD;&#xA;&#xD;&#xA;Move everything to unused, except &quot;S&amp;C Vulnerability Management development&quot;"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="357"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-dfbb4f02353c4a65b05b7488e2a7b339"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        alpha="200"
+        content="Risk &amp; Security"
+        notes="Move sub-folders here to Reference Architecture and remove the folder"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="445"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c008f302a7f04e3ca4e05988da003e0d"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        alpha="200"
+        content="To Organize"
+        notes="Seems to be very old view. Suggesting this is moved to Unused."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="584"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f8362f6354804d71be49207ec9f61bb0"
+        targetConnections="id-fdf87322ead84cb7b90e6bcc06316477"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        alpha="200"
+        content="2023 Project Views"
+        notes="Suggestion to move this folder to Project Specific"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="63"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-90ac99f1e7ac40939eb6447b46b7060e"
+        targetConnections="id-76931a043d764d7f8277d71c6f674771"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        alpha="200"
+        content="Owen's Designs"
+        notes="Maybe these would fit under Governance?"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="320"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-8515f9322d4e4e7abd0c569d918dfafb"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        alpha="200"
+        content="Security Architecture Review (Old)"
+        notes="Suggestion to move this to Unused"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="488"
+          width="111"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-e0a22d385b824f978c022e3ebc105b34"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ff8080"
+        alpha="200"
+        content="Security Baseline Control"
+        notes="Suggestion to move this to Internal S&amp;C Architecture"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="534"
+          width="111"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-21852ee79b0c40dab88668e1ddc3a307"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#0080ff"
+        alpha="200"
+        content="Unused"
+        notes="A place to place old folders we're not using anymore, but which could be used in the future. Or, we export the folders to another model file.&#xD;&#xA;The important thing is to clean up the folder structure."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="22"
+          y="628"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f139fec43a1b4e47a3561b02f36a8775"
+        fillColor="#ff8040"
+        content="Partly done"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-76931a043d764d7f8277d71c6f674771"
+          source="id-f139fec43a1b4e47a3561b02f36a8775"
+          target="id-90ac99f1e7ac40939eb6447b46b7060e"
+          type="1"/>
+      <bounds
+          x="388"
+          y="312"
+          width="115"
+          height="33"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-6b6acc0b7fbd4764873dd8b47a148ba2"
+      fillColor="#408080"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="21"
+        y="73"
+        width="148"
+        height="158"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-c31d6671dcc24ef4be2960746101cfbc"
+      font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffff95"
+      alpha="200"
+      notes="Contains governance pertaining to ESA as a whole, the team, tools and processes"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="137"
+        y="88"
+        width="25"
+        height="23"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-907f298d4064497ca68854c53fab6c20"
+      fontColor="#ffffff"
+      fillColor="#ffffff"
+      alpha="0"
+      content="Keep"
+      borderColor="#ffffff"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="67"
+        y="86"
+        width="71"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-e52260ef017f471da96c7b73adfaeb81"
+      font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ff8080"
+      alpha="200"
+      notes="Suggestion to move this folder to Project Specific"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="137"
+        y="120"
+        width="25"
+        height="23"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-1dad2e8984a5447f923c87c3b53ebea5"
+      fontColor="#ffffff"
+      fillColor="#ffffff"
+      alpha="0"
+      content="Remove/Move"
+      borderColor="#ffffff"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="38"
+        y="118"
+        width="100"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-9f990aeb4acf42c7883c73e1b99c79bc"
+      font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ff80ff"
+      alpha="200"
+      notes="Contains a lot of old projects. Suggesting that the underlying project folders all are moved to something like "
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="137"
+        y="151"
+        width="25"
+        height="23"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-1975cb9d9d9049649b3cb5380f3f357f"
+      fontColor="#ffffff"
+      fillColor="#ffffff"
+      alpha="0"
+      content="Alter Contents"
+      borderColor="#ffffff"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="38"
+        y="149"
+        width="100"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-c19c685d28d949fa997d2f82be717c6f"
+      font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#0080ff"
+      alpha="200"
+      notes="A place to place old folders we're not using anymore, but which could be used in the future. Or, we export the folders to another model file.&#xD;&#xA;The important thing is to clean up the folder structure."
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="137"
+        y="184"
+        width="25"
+        height="23"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-6012d3462117406b87a4fb62e9e7f27a"
+      fontColor="#ffffff"
+      fillColor="#ffffff"
+      alpha="0"
+      content="Create or Export"
+      borderColor="#ffffff"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="38"
+        y="182"
+        width="100"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-a466a30cb01e461f84c736f435431607"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#408080"
+      borderColor="#000000"
+      content="Future Root Level - ESA-Dev">
+    <bounds
+        x="931"
+        y="51"
+        width="295"
+        height="697"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-dd04f9f2491640ea8b71e994d6ef0271"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Reference Architectures"
+        notes="Anything here is being referenced by other views in the model."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="277"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-3922096cc2c44eff995c8ff50b50a035"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Motivation &amp; Strategy"
+        notes="Motivation and strategy for the overall company"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="144"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-623e14ae6d0c443f867b76a35606e48d"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Misc"
+        notes="Contains miscellaneous views which is hard to place anywhere else. Should be used with restraint."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="100"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-9053593bf1b74892a144605ea769a817"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Governance"
+        notes="Contains governance pertaining to ESA as a whole, the team, tools and processes"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="52"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-4edd4b9ec91143daa98815123184076c"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Organization"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="191"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-0fd67ad72a0342689fe682917f0f7696"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff80"
+        alpha="200"
+        content="Project Specific"
+        notes="Contains a lot of old projects. Suggesting that the underlying project folders all are moved to something like Old Projects and placed in Unused"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="234"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-d1696e5b53bf4a6bb12ff9a349ad5037"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Risk &amp; Security"
+        notes="Unsure how to classify this folder. Was leaning towards Reference Architecture for this one."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="321"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-7466bdf9366d4a28a97271fde49aa675"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff80"
+        alpha="200"
+        content="Unused"
+        notes="A place to place old folders we're not using anymore, but which could be used in the future. Or, we export the folders to another model file.&#xD;&#xA;The important thing is to clean up the folder structure."
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="363"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-7fc1e0bde184448f9f9927d5780caef1"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff80"
+        alpha="200"
+        content="Internal S&amp;C Architecture"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="13"
+          y="409"
+          width="111"
+          height="31"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-f1c98b6abda74511868da8a25d40dc73"
+      fillColor="#ffffff"
+      content="Each folder has a text in notes with Mattias' interpretetation of the content and suggested actions.&#xD;&#xA;&#xD;&#xA;Remove/Move means that the folder is no longer present in the Root level somehow."
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="14"
+        y="269"
+        width="148"
+        height="193"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-814ed3acd5e94cbba2031a9072474f02"
+      fillColor="#d5ff95"
+      content="Done"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="canvas:CanvasModelConnection"
+        id="id-fdf87322ead84cb7b90e6bcc06316477"
+        source="id-814ed3acd5e94cbba2031a9072474f02"
+        target="id-f8362f6354804d71be49207ec9f61bb0"
+        type="1"/>
+    <sourceConnections
+        xsi:type="canvas:CanvasModelConnection"
+        id="id-c9377aa269b6424686f819f30a1e8e09"
+        source="id-814ed3acd5e94cbba2031a9072474f02"
+        target="id-c732f074051447ce9bd5dc3538263b72"
+        type="1"/>
+    <sourceConnections
+        xsi:type="canvas:CanvasModelConnection"
+        id="id-d59b4285eff7481f8b53c8db8e98a22f"
+        source="id-814ed3acd5e94cbba2031a9072474f02"
+        target="id-a64d7443bc0149bdb06d65717227f28e"
+        type="1"/>
+    <bounds
+        x="838"
+        y="113"
+        width="75"
+        height="285"/>
+  </children>
+</canvas:CanvasModel>

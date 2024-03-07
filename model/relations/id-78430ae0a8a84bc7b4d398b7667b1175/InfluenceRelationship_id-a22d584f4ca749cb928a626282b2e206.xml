@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a22d584f4ca749cb928a626282b2e206"
+    documentation="The ESA team sets the rules and ensures compliance"
+    strength="+++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-ae48921126ee4ff4b5ccc021a7f80d68.xml#id-ae48921126ee4ff4b5ccc021a7f80d68"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-e4733e49b5794266a166df8bef3ab23e.xml#id-e4733e49b5794266a166df8bef3ab23e"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4adde54a6c65445abe94d7fef2add123"
+    documentation="SharePoint lists are available through SharePoint">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-94072.xml#id-94072"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-081ae4787ff748c39039168fe986706b.xml#id-081ae4787ff748c39039168fe986706b"/>
+</archimate:CompositionRelationship>

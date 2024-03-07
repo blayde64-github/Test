@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.53.6 Email authetication control"
+    id="id-54b3fc0d89ec4fa58847082cc4d9c097"
+    documentation="Email systems should protect messages by:&#xA;    blocking messages that are considered undesirable (e.g. by using an email blacklist consisting of known undesirable websites or email list servers)&#xA;    using digital signatures to identify if email messages have been modified in transit and encrypting sensitive email messages&#xA;    ensuring non-repudiation of origin of important email messages (e.g. by using digital signatures)&#xA;    providing non-repudiation of receipt of important messages (e.g. by returning a digitally signed receipt message)&#xA;    verifying the source IP address of senders' emails (e.g. using an email validation system such as Sender Policy Framework (SPF), Domain-based Message Authentication, Reporting and Conformance (DMARC) or Sender ID that checks the Domain Name System (DNS)) to limit spoofing.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,24 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal IAM + PAM development"
+    id="id-94419"
+    documentation="Internal Identity &amp; Access Management + Privilege Access Management Development&#xA;&#xA;Capabilities&#xA;&#xA;Privilege Management Infrastructure&#xA;- Identity and Access Management&#xA;- Privilege Usage Management&#xA;- Authentication Services&#xA;&#xA;User Directory Services&#xA;- Active Directory Services&#xA;- LDAP Repositories&#xA;&#xA;Goals&#xA;&#xA;Common IAM Services Enabled for Tietoevry Connect&#xA;- Internal Identity &amp; Access Management taking care internal systems and users&#xA;&#xA;Common Privilege Access to Tietoevry Connect deliveries &#xA;- Common Privilege Access Management solution for Tietoevry employees and 3rd party vendors&#xA;- Password Vaulting is part of Privilege Usage Management Capability&#xA;&#xA;Common Tietoevry Corporate Endpoints secured for Connect&#xA;- Endpoints are the devices, which employees are using to access systems. These needs to be secured in a way, which prevents for example data leakage through endpoints&#xA;&#xA;Analyze and optimize current state portfolio for the capabilities used&#xA;&#xA;Resources&#xA;&#xA;- Project Manager: Ensures resources are there and making sure project is delivering&#xA;&#xA;- Service Architect: Key role who is driving the overall solution towards the goal&#xA;&#xA;- Identity &amp; Access Management Architect: Technical architect who has extensive knowledge of IAM/PAM solutions&#xA;&#xA;- Automation Architect: System is controlling Privilege access to assets thus automation is required for hooking into the processes. Automation of the system itself is also required&#xA;&#xA;- AD Infrastructure Architect: Active Directory repositories are required within IAM/PAM systems&#xA;&#xA;- Cloud Architect: Securing cloud with IAM/PAM is also required thus expertise on cloud (Azure/AWS/Google cloud) is required&#xA;&#xA;- Device Management Architect: Solution needs also to ensure endpoints are secured, therefore expertise on End point devices is required&#xA;&#xA;- Network Infrastructure Architect: Solution will require some networking expertise to realize end-2-end connectivity from endpoint all the way to the managed asset&#xA;&#xA;- Security Solutions Architect: Besides IAM architect, Security Solutions architects are required to bring expertise on topics like MultiFactorAuthentication, Device authentication etc.&#xA;&#xA;- ServiceNow Architect: Solution is integrated to ServiceNow, which is our master database. Therefore, extensive knowledge is required from there, mostly under Data management&#xA;&#xA;&#xA;&#xA;">
+  <properties
+      key="Project Owner"
+      value="Jukka Kuusinen (Head of Security &amp; Compliance Finland)"/>
+  <properties
+      key="Project Manager"
+      value="Pavel Skandera"/>
+  <properties
+      key="Architect"
+      value="Sami Aura"/>
+  <properties
+      key="Start Date"
+      value="2023-01-01"/>
+  <properties
+      key="End Date"
+      value="2023-05-28"/>
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+</archimate:WorkPackage>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.2 BYOD technical device management control"
+    id="id-3bc4084838624e8985a4a2439b163123"
+    documentation="Enforcing the use of technical controls (such as Enterprise Mobility Management (EMM)) to manage applications and device hardware">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.9.2.4 Management of secret authentication information of users"
+    id="id-25fa90f6db0244f0abc0dfee723439c8"
+    documentation="Control The allocation of secret authentication information shall be controlled through a formal management process.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

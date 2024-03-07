@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="There are systems that doesn't support more than 12 character password length"
+    id="id-c8aabe821d724f27ba6e9f7fcc9ccae9"
+    documentation="The vulnerability associated with systems that don't support more than 12-character password lengths lies in their limited password complexity. Shorter passwords are generally easier to crack using brute-force or dictionary attacks. This limitation restricts users from creating more complex, and therefore more secure, passwords. As a result, these systems are more susceptible to being compromised, increasing the risk of unauthorized access and potential data breaches. Longer passwords are a fundamental aspect of robust cybersecurity practices.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

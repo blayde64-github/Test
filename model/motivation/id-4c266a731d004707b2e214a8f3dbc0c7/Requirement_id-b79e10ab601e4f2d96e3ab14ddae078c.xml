@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.54.5 Collaboration platform infrastructure securirity control"
+    id="id-b79e10ab601e4f2d96e3ab14ddae078c"
+    documentation="The security of collaboration platform infrastructure should be improved by:&#xA;    employing a standard configuration for each platform&#xA;    hardening collaboration platform servers (e.g. by locking down the op-erating system and application)&#xA;    configuring firewalls to block the use of unauthorised collaboration platforms (e.g. by blocking known ports).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

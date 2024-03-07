@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.9.4.4 Use of privileged utility programs"
+    id="id-434d987389de40e4bfad491a2cb16205"
+    documentation="Control The use of utility programs that might be capable of overriding system and application controls shall be restricted and tightly controlled.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

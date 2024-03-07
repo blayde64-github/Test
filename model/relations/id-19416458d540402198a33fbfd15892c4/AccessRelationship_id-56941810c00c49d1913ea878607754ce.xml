@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-56941810c00c49d1913ea878607754ce"
+    documentation="Review files are both created and accessed from the document library."
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-39354ea1b27b4fb08ec1462e7e1ade2a.xml#id-39354ea1b27b4fb08ec1462e7e1ade2a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c4404b35371e42b8b71bfe19403aac17.xml#id-c4404b35371e42b8b71bfe19403aac17"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="webdoc.edb.se"
+    id="id-91641"
+    documentation="See RSK-712708. &#xA;&#xA;http://webdoc.edb.se/ is a password manager that holds information needed to access our customers environments. The system holds information about servers running other operating systems than Microsoft Windows such as Linux servers. The system complements PasswordManagerXP in ServiceLan that hold credentials for primarily Windows servers. Its accessible to anyone with POD0 access."/>

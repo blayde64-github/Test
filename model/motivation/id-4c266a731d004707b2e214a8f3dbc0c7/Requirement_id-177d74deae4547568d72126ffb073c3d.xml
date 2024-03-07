@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.68.2 Security Event Management Capability Control"
+    id="id-177d74deae4547568d72126ffb073c3d"
+    documentation="The security event management process should embody a core set of capabilities&#xA;&#xA;a) data collection and correlation (e.g. gathering, normalising and correlating data from logs, threat intelligence&#xA;and other sources whilst continually tuning tools to ensure relevance is maintained)&#xA;&#xA;b) detection (e.g. defining threat scenarios to monitor, developing alerts for anomalous behaviour and establishing&#xA;a mechanism for the receipt of suspicious activity reports from IT practitioners, business users or external parties)&#xA;&#xA;c) monitoring (e.g. reviewing alerts, escalating where appropriate and providing feedback on false positives for&#xA;refinement of correlation rules)&#xA;&#xA;d) security investigation (e.g. gathering additional information to assess whether a potential or actual security incident&#xA;occurred, classifying the incident according to scale, impact and severity and recommending response actions)&#xA;&#xA;e) incident response (e.g. mitigate business impact of security incident through remediation, apply lessons learned&#xA;to enhance future performance and report details of actions taken).&#xA;">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

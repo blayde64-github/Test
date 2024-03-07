@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7eabb42381de422695f85f2f0b2391cf"
+    documentation="Any new Architecture Concern will trigger the Create ESA Work From AC Flow">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4cd29bd21af14aef8e790b3577e836b2.xml#id-4cd29bd21af14aef8e790b3577e836b2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c2fe48d1070f433e87cab8f54514dfa0.xml#id-c2fe48d1070f433e87cab8f54514dfa0"/>
+</archimate:TriggeringRelationship>

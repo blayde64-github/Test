@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-11101b70eaf34c34b0c5e048c42aeb99"
+    documentation="ISO 27002 describes how a control defined in ISO 27001 is implemented."
+    directed="true">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-60fc4b43d9194461a14e608b617d501c.xml#id-60fc4b43d9194461a14e608b617d501c"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a341b9c828944f86bb33833fbe0cf3fd.xml#id-a341b9c828944f86bb33833fbe0cf3fd"/>
+</archimate:AssociationRelationship>

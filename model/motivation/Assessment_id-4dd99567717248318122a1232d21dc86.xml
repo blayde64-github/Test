@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of failed crisis rehearsals"
+    id="id-4dd99567717248318122a1232d21dc86"
+    documentation="Counts the number of tests that did not meet the predefined success criteria. This might include scenarios where communication broke down, response times were too slow, or critical steps were missed.&#xD;&#xA;&#xD;&#xA;Jiri Paloch: What's most important is that the rehearsals take place. What is successful or not will vary a lot and challenging to capture.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

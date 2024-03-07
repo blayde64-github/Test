@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoD Violation is evaluated and an exception is either Approved or Rejected"
+    id="id-b204ab21de5449909fbc9efce0bbd419"
+    documentation="The system has detected a possible SoD (Segregation Of Duties) violation. Meaning that assigning this role to the user could give them access rights that conflict with their existing roles. This is to ensure that no individual has control over all phases of a critical process, reducing the risk of fraud or errors."/>

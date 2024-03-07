@@ -1,0 +1,217 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence Clarification Notes"
+    id="id-0a1ac564c9c14ee48bb205543b7e3676"
+    documentation="It may be complicated for certain stakeholders to understand views where there are negative influence relationships going from a Control to a Vulnerability in conjunction with a negative influence relationship from a Vulnerability towards a Goal.&#xD;&#xA;&#xD;&#xA;This Visual Group Element consists of notes that are easily re-used.">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-14faf466e9304579805ebdc7da74d2ed"
+      name="Influence Clarification"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="106"
+        y="141"
+        width="216"
+        height="162"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-3a9817928a4a4ed5844e46b8f6d3c4af"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        alpha="0"
+        content="Negative Towards Vulnerability"
+        borderType="2">
+      <bounds
+          x="8"
+          y="25"
+          width="199"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-4e3d5af65be0400594006c905536e5b4"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        alpha="0"
+        content="Negative Towards Goal"
+        borderType="2">
+      <bounds
+          x="7"
+          y="94"
+          width="200"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-7a2a7f0236614a12a9ebbb7bd38c63b2"
+        textAlignment="1"
+        alpha="0"
+        content="The likelihood the goal is realized is reduced."
+        borderType="2">
+      <bounds
+          x="7"
+          y="115"
+          width="200"
+          height="38"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-53db6f88486541b393eb9c33b32c1585"
+        textAlignment="1"
+        alpha="0"
+        content="The effect of the vulnerability is reduced.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"
+        borderType="2">
+      <bounds
+          x="8"
+          y="47"
+          width="199"
+          height="48"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-5c9aea688dfe403f9a59c51d2bec4268"
+      name="Influence Clarification"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="393"
+        y="141"
+        width="216"
+        height="106"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-0992f74319044945abe589f94c2b4d77"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        alpha="0"
+        content="Positive Towards Vulnerability"
+        borderType="2">
+      <bounds
+          x="8"
+          y="25"
+          width="199"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-34da1ee1c19447818dfa2428abeccdc3"
+        textAlignment="1"
+        alpha="0"
+        content="The effect of the vulnerability is increased.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"
+        borderType="2">
+      <bounds
+          x="8"
+          y="47"
+          width="199"
+          height="48"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-16e3ca1c035343deb40e2c20c07e7c0d"
+      name="Influence Clarification"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="702"
+        y="164"
+        width="216"
+        height="187"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-ea1d7179ff0f409799c33d2d273762b5"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        alpha="0"
+        content="Positive Towards Vulnerability"
+        borderType="2">
+      <bounds
+          x="8"
+          y="25"
+          width="199"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-218af7ec17d1445c8a840a852866415e"
+        textAlignment="1"
+        alpha="0"
+        content="The effect of the vulnerability is increased.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"
+        borderType="2">
+      <bounds
+          x="8"
+          y="47"
+          width="199"
+          height="48"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-c19bd4529aae45489f24b75f0916591c"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        alpha="0"
+        content="Negative Towards Vulnerability"
+        borderType="2">
+      <bounds
+          x="8"
+          y="94"
+          width="199"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-2eb17ef8864a4657b80e669d295359b5"
+        textAlignment="1"
+        alpha="0"
+        content="The effect of the vulnerability is reduced."
+        borderType="2">
+      <bounds
+          x="8"
+          y="116"
+          width="199"
+          height="48"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-b79e4af582e4442b869dfdf7065cdc96"
+      name="Influence Clarification"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="393"
+        y="262"
+        width="216"
+        height="106"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-0e9a0eb7e86a479999a8625957e7920e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        alpha="0"
+        content="Negative Towards Vulnerability"
+        borderType="2">
+      <bounds
+          x="8"
+          y="25"
+          width="199"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-0a4f596778df4b3ea1e01ca5b3809b73"
+        textAlignment="1"
+        alpha="0"
+        content="The effect of the vulnerability is reduced.&#xD;&#xA;&#xD;&#xA;"
+        borderType="2">
+      <bounds
+          x="8"
+          y="47"
+          width="199"
+          height="48"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

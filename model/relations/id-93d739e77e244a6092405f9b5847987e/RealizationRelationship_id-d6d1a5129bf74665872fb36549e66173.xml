@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d6d1a5129bf74665872fb36549e66173"
+    documentation="The Security Architecture Review guide details exactly which questions we ask for both SAR1 &amp; SAR 2 Reviews. ">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3876117947e04d698e79dc0ee12c9937.xml#id-3876117947e04d698e79dc0ee12c9937"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b976088057c947ce97c24a196d663123.xml#id-b976088057c947ce97c24a196d663123"/>
+</archimate:RealizationRelationship>

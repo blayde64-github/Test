@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.20.2 Application development compliance control"
+    id="id-ed1ff7b7569b4f60a26ef0ea06743a7c"
+    documentation="The system development methodology should ensure that applications are developed to e.g. comply with legal and regulatory (including privacy) requirements, meet contractual requirements (e.g. those relating to external parties such as customers, clients and suppliers) etc">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

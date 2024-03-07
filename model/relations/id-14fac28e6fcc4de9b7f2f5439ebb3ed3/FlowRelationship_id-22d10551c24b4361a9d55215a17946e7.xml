@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BGP Protocol"
+    id="id-22d10551c24b4361a9d55215a17946e7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23f42aedd3964f1bbfd1916c8a478a33.xml#id-23f42aedd3964f1bbfd1916c8a478a33"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-785729e748414264a5c3dabafeea1ba4.xml#id-785729e748414264a5c3dabafeea1ba4"/>
+</archimate:FlowRelationship>

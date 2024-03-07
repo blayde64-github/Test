@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f3b3e0ecf4f849b18017aac5be95ce77"
+    documentation="End of Employment Date is transferred from Workday HCM to AARM">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b9f254e12a7345b49757653e41ab0cc0.xml#id-b9f254e12a7345b49757653e41ab0cc0"/>
+  <target
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-baa077fbf4264dd3af4bf952e27a31bc.xml#id-baa077fbf4264dd3af4bf952e27a31bc"/>
+</archimate:FlowRelationship>

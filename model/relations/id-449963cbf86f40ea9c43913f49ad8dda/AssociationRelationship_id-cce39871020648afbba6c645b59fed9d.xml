@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cce39871020648afbba6c645b59fed9d"
+    documentation="A Pro license is needed to work with Power Bi reports..">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-5df558fb82d84405aa027df7ac686f75.xml#id-5df558fb82d84405aa027df7ac686f75"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-85d8cae45056494a9444632228800857.xml#id-85d8cae45056494a9444632228800857"/>
+</archimate:AssociationRelationship>

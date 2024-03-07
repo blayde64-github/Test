@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of Architectures that contain a threat analysis"
+    id="id-106100"
+    documentation="The metric &quot;Number of Architectures that contain a threat analysis&quot; counts the system designs we've implemented that have undergone a detailed process to identify and evaluate potential security risks. Much like a safety inspection in the physical world, threat analysis in the digital realm involves scrutinizing a system to anticipate potential vulnerabilities that could be exploited by malicious actors. This metric essentially helps us keep track of how many of our systems have been thoroughly vetted for potential threats to ensure the robustness and security of our digital infrastructure.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

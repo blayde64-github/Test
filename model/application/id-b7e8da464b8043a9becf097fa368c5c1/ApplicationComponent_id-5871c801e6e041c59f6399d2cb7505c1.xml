@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Git Website"
+    id="id-5871c801e6e041c59f6399d2cb7505c1"
+    documentation="The website provides download links for Git on macOS, Windows, and Linux/Unix. It also has a section for older releases and the Git source repository on GitHub. Additionally, it lists the latest source release, mentions built-in GUI tools and third-party GUI clients, provides Git logos for use, and explains how to obtain the latest development version of Git via Git itself​1​.">
+  <properties
+      key="URL"
+      value="https://git-scm.com/downloads"/>
+</archimate:ApplicationComponent>

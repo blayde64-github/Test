@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ensure that logs are stored in way that it is possible to forward them to 3rd party constantly"
+    id="id-92610"
+    documentation="As security operator I must ensure that logs are stored in way that it is possible to forward them to 3rd party constantly (collection real time re-direct) or as needed from specified source and time window in commonly supported format. This to enable the Security Monitoring service to use and extend our offering with services from 3rd party vendors."/>

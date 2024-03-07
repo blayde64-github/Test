@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0e62b43bf06d48108b43e55d38b5e500"
+    documentation="We are using the standard Tietoevry solutions provided by corporate ICT and as such they are responsible on the most part for legal and regulatory compliance as no information leaves Tietoevry systems.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-375bbda61d66476ca9b0bc02e98e8924.xml#id-375bbda61d66476ca9b0bc02e98e8924"/>
+</archimate:RealizationRelationship>

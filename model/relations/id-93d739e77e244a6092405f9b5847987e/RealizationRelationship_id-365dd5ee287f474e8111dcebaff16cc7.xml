@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-365dd5ee287f474e8111dcebaff16cc7"
+    documentation="Used for easy editing of architecture reviews, the power app is only available to ESA Architects.">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-b6c96760caf54e12a26677f22eaeb0a8.xml#id-b6c96760caf54e12a26677f22eaeb0a8"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-3425aeb5b9144348ba304a9dbdad4e80.xml#id-3425aeb5b9144348ba304a9dbdad4e80"/>
+</archimate:RealizationRelationship>

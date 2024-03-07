@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-391b575403cc4b9ca1ea0def8c2739a1"
+    documentation="Provide security architectural direction by understanding business needs and designing, implementing and executing security framework">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-09d43b47120f45978a45c91601632326.xml#id-09d43b47120f45978a45c91601632326"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c58406c90a884a1db840fb542686b563.xml#id-c58406c90a884a1db840fb542686b563"/>
+</archimate:RealizationRelationship>

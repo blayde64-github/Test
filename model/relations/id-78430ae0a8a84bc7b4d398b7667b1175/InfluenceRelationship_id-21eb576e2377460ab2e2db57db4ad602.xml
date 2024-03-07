@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-21eb576e2377460ab2e2db57db4ad602"
+    documentation="Clear expectations set within the Security Architecture Review Process will increase knowledge"
+    strength="--">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b976088057c947ce97c24a196d663123.xml#id-b976088057c947ce97c24a196d663123"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-2428e44fd1ab4828ab03a1f02c385c73.xml#id-2428e44fd1ab4828ab03a1f02c385c73"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b7c5f96c99ff40a7a7ef556e29c8718f"
+    documentation="The business need for this solution is defined in the view titled &quot;Why Do Security By Design? Stakeholder View&quot;, which shows how this benefits the Tietoevry LT.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-7ddfd15c7f274541bc509f308b79697d.xml#id-7ddfd15c7f274541bc509f308b79697d"/>
+</archimate:RealizationRelationship>

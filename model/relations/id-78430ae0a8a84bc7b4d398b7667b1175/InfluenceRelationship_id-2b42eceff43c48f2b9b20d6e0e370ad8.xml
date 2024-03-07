@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2b42eceff43c48f2b9b20d6e0e370ad8"
+    documentation="The CISO maintains the strategic view of Tech services and influences our security architecture accordingly. ">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-cf93605603724c88b29bc90e19a63082.xml#id-cf93605603724c88b29bc90e19a63082"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-8b48243609e441259db1f3fa78937bd3.xml#id-8b48243609e441259db1f3fa78937bd3"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b5eab57c370b40af946bb2368c953698"
+    documentation="Any Enterprise Security Architect needs a Power Apps Premium license to perform a SAR2 review.">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-474f0d3814314c9eb8c834d12e643ec7.xml#id-474f0d3814314c9eb8c834d12e643ec7"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-495c72ebd75c47688bbb358d81b22779.xml#id-495c72ebd75c47688bbb358d81b22779"/>
+</archimate:AssociationRelationship>

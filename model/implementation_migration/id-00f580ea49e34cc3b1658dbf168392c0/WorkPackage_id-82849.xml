@@ -1,0 +1,18 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S&amp;C Privilege Management Infrastructure Capability development"
+    id="id-82849"
+    documentation="Collection project for activities within Privilege Management Infrastructure Capability. &#xA;&#xA;Capabilities&#xA;&#xA;Privilege Management Infrastructure&#xA;- Identity and Access Management&#xA;- Privilege Usage Management&#xA;- Authentication Services&#xA;&#xA;User Directory Services&#xA;- Active Directory Services&#xA;- LDAP Repositories&#xA;&#xA;This area is big which is why it is sliced to two sub-projects - one aiming towards Internal Identity &amp; Access Management + Priviledge Access Management and another which is for External Identity Management, which is required for example by ServiceNow&#xA;&#xA;Solutions used to realize the deliverables are overlapping thus tight coordination between the sub-projects must be kept!&#xA;&#xA;Roles required in this project: &#xA;&#xA;Project Manager(s) taking care of sub-projects&#xA;Service Architect(s) taking care of sub-projects&#xA;&#xA;">
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+  <properties
+      key="Architect"
+      value="Sami Aura"/>
+  <properties
+      key="Project Manager"
+      value="Pavel Skandera"/>
+  <properties
+      key="Stakeholder"
+      value="Jukka Kuusinen (Head of Security &amp; Compliance Finland)"/>
+</archimate:WorkPackage>

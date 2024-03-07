@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governs"
+    id="id-85548"
+    documentation="The Architecture Viewpoint Approval Document defines the viewpoints that must be followed when creating architecture views."
+    directed="true">
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_id-85543.xml#id-85543"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_id-85544.xml#id-85544"/>
+</archimate:AssociationRelationship>

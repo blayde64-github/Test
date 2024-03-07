@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BA.2.1.9: Testing of critical EUDA should be supplemented by the use of automated tools (e.g. macros, defined routines and scanning tools) to examine the integrity of formulae and code, and a suitably experienced IT management representative should sign off the results of code reviews."
+    id="id-c8e16d599d8546f585d5c2c4f7017bb5"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="BA.2.1.9"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

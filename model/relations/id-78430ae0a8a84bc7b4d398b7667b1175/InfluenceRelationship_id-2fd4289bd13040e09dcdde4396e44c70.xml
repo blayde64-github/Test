@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2fd4289bd13040e09dcdde4396e44c70"
+    documentation="A guide can be used as easy reference on the terms we are using and our expectations, and can help answer questions that we will get asked a lot. "
+    strength="--">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-3c5f7159cee242dab74165cc22391f54.xml#id-3c5f7159cee242dab74165cc22391f54"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-3ee8051eea6e49f1a875138224b6d734.xml#id-3ee8051eea6e49f1a875138224b6d734"/>
+</archimate:InfluenceRelationship>

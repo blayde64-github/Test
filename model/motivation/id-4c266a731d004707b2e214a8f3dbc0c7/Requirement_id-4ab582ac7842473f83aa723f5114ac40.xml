@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.17.3 Industrial control systems threats &amp; vulnerabilities control"
+    id="id-4ab582ac7842473f83aa723f5114ac40"
+    documentation="A common understanding should be established, documented and agreed between ICS experts, information security specialists and IT practitioners about the organisation's use of ICS (i.e. type and purpose) and the nature of the environments in which they operate&#xA;Threats and vulnerabilities associated with IT that were traditionally used only in enterprise IT environments, but are now also used in ICS environments">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

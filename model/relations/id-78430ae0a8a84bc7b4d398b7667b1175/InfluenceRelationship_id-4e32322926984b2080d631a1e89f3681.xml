@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4e32322926984b2080d631a1e89f3681"
+    documentation="Not having these practices makes it harder for us to identify where design should happen, and hard for us to build more detailed guidelines as to how to work. &#xD;&#xA;&#xD;&#xA;We cannot describe how we ensure a design is secure to a detailed level without understanding the methods used or speaking a common vocabulary. &#xD;&#xA;&#xD;&#xA;Security should be integrated into architecture practice. Without an architecture practice and repository, it is hard to make things traceable and apply control.&#xA;Not having these practices makes it harder for us to identify where design should happen, and hard for us to build more detailed guidelines as to how to work. &#xD;&#xA;&#xD;&#xA;We cannot describe how we ensure a design is secure to a detailed level without understanding the methods used or speaking a common vocabulary. &#xD;&#xA;&#xD;&#xA;Security should be integrated into architecture practice. Without an architecture practice and repository, it is hard to make things traceable and apply control."
+    strength="--">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-269887726dc5478892bb8c323e28f1e5.xml#id-269887726dc5478892bb8c323e28f1e5"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

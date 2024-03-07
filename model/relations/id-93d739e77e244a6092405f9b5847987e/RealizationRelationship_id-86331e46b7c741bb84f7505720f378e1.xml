@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-86331e46b7c741bb84f7505720f378e1"
+    documentation="These requirements are met by the standard M365 technology.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-4c8c303c7a0840df86b881b85fb7b6fa.xml#id-4c8c303c7a0840df86b881b85fb7b6fa"/>
+</archimate:RealizationRelationship>

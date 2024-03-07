@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.9 BYOD minimum configuration control"
+    id="id-c7441fa8080e4b4495b12f88791a4f8c"
+    documentation="Employee-owned devices attempting to connect to corporate networks and business applications should meet minimum configuration requirements, which specify that: &#xA;the device has not been tampered with (e.g. jailbroken) &#xA;the device is running the latest approved version of the operating system &#xA;smartphones and tablets are protected by an Enterprise Mobility Management (EMM) system.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

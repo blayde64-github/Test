@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contains Security Baseline v3 content."
+    id="id-19c4ac60e3604c99a95061361e656975"
+    documentation="Will request input from the Security Managers on the existing Security Baseline web content.&#xD;&#xA;&#xD;&#xA;Mikael Lingskog informed Mattias Dahlberg 9/6 that we should put off doing anything with SBv3 content until further notice.">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+</archimate:Requirement>

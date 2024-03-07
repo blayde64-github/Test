@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.61.4 Intrusion detection networking control"
+    id="id-3e33210a1b10427abb3a4d193030f51e"
+    documentation="Network intrusion detection sensors (i.e. specialist hardware used to identify unauthorised activity in network traffic) should be protected against attack (e.g. by preventing the transmission of any outbound network traffic, or by using a network tap to hide the presence of the sensor).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

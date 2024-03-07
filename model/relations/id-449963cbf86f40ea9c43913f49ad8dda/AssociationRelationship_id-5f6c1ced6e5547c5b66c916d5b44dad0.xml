@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manually Published"
+    id="id-5f6c1ced6e5547c5b66c916d5b44dad0"
+    documentation="Right now we periodically manually publish html exports int the ESAWeb Web App, using SFTP. This is bad. There are a couple of better ways of doing it:&#xD;&#xA;&#xD;&#xA;1. Docker Container. We can containerize the HTML generation in docker. It requires a bit of time to configure, as the scripts i was using before are out of date.&#xD;&#xA;2. We could fix one click deployment through the web app. This would require us to recreate the web app, and the problem we have with that is it VERY difficult to get the resources from service desk to be helpful. Frustration overload.&#xD;&#xA;3. We could use site pages in github. I toyed with this idea but had very poor access control- becuase of how we have github enterprise configured everyone in the org has access.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cd68feac69a5405e802c9bb5c1492a0e.xml#id-cd68feac69a5405e802c9bb5c1492a0e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1ed4e97ead4447aa9d77e95f1c342d5d.xml#id-1ed4e97ead4447aa9d77e95f1c342d5d"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.15.1 Workstation configuration documentation control"
+    id="id-0c3d91838fb744e290a54acd300566eb"
+    documentation="Workstation computers should be supported by documented standards/procedures e.g. system configuration (e.g. employing standard builds), provision of security management software (e.g. system management tools, access control mechanisms, malware protection software and encryption capabilities)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

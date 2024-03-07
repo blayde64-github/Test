@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.24.7 System Design Security Principles Control"
+    id="id-a4e53a3f9fec4d7aa3d170fc3c3d98a9"
+    documentation="The system design phase should involve  the use of security architecture principles, including 'secure by design', 'defence in depth', 'secure by default', 'default deny', 'fail secure', 'distrust input from external applications', 'secure in deployment' and 'usability and manageability'">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

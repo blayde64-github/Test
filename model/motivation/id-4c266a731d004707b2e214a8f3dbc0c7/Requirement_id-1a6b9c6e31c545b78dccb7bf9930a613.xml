@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.72.1 Emergency fixing standards &amp; procedures control"
+    id="id-1a6b9c6e31c545b78dccb7bf9930a613"
+    documentation="There should be documented standards/procedures for applying emergency fixes to information, business applications and technical infrastructure (including systems software and computer equipment).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

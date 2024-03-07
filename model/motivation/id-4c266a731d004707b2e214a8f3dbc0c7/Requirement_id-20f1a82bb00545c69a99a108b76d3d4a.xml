@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.32.5 Web API deployment management control"
+    id="id-20f1a82bb00545c69a99a108b76d3d4a"
+    documentation="Web APIs should be managed by deploying an API management tool to centralise the creation, testing, configuration and ongoing support, or using an API gateway offered by third parties.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

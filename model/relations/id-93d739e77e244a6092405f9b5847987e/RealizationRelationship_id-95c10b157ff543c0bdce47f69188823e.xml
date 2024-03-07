@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-95c10b157ff543c0bdce47f69188823e"
+    documentation="SAR2 reviews start with self assessments that are automated using power automate. There is a deliberate need for Enterprise Security Architects to manually work with SAR Users as part of the review process. However this utilises further power automate scripting to automatically generate word files.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b734b6d56cd74154989aa6805b1481a6.xml#id-b734b6d56cd74154989aa6805b1481a6"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bcd54abb53b642daa2a4257f0eb5ee79.xml#id-bcd54abb53b642daa2a4257f0eb5ee79"/>
+</archimate:RealizationRelationship>

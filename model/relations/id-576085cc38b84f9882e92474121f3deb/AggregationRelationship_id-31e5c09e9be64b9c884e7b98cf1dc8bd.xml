@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guest For Process Related"
+    id="id-31e5c09e9be64b9c884e7b98cf1dc8bd">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-e4693f7d301344c799ca7ce1221a9216.xml#id-e4693f7d301344c799ca7ce1221a9216"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-cb6b9f43c6c9475dab3d22ec763483c5.xml#id-cb6b9f43c6c9475dab3d22ec763483c5"/>
+</archimate:AggregationRelationship>

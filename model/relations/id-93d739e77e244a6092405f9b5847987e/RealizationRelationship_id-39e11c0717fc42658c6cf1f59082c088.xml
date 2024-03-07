@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-39e11c0717fc42658c6cf1f59082c088"
+    documentation="The security architecture community teams site offers a place for anyone wanting to know anything about security by design to come together, with the help of the Enterprise Security Architecture Team">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c7fa36738184be18c63aa5c2d2f343f.xml#id-3c7fa36738184be18c63aa5c2d2f343f"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-2a1ee71e6b194bfb99142d5b7808c00c.xml#id-2a1ee71e6b194bfb99142d5b7808c00c"/>
+</archimate:RealizationRelationship>

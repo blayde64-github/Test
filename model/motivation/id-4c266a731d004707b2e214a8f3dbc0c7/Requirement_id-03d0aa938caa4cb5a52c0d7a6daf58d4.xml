@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.8 Firewall rule control"
+    id="id-03d0aa938caa4cb5a52c0d7a6daf58d4"
+    documentation="Filtering of network traffic should be based on predefined rules">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

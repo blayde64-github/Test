@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4e68e43e783947b4928a6659fda2e36e"
+    documentation="The ESA Team Meeting SAR Process happens within ">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-b410107edc5840b19ec7427084ac03d0.xml#id-b410107edc5840b19ec7427084ac03d0"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-542d051195a8401380da4c29b0f9e9cb.xml#id-542d051195a8401380da4c29b0f9e9cb"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e41228bbbd1d405b90721fa6ee4d9da0"
+    documentation="Not having a design leads to weak solutions. ">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-fa950274833c45c2b2318b7d9c9b1720.xml#id-fa950274833c45c2b2318b7d9c9b1720"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-a646856ee8de4947949a6d9a87d7a40c.xml#id-a646856ee8de4947949a6d9a87d7a40c"/>
+</archimate:TriggeringRelationship>

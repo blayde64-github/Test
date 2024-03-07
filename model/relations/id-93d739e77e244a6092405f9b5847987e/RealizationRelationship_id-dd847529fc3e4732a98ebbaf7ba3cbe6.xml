@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dd847529fc3e4732a98ebbaf7ba3cbe6"
+    documentation="The security council provide an important role in the Architecture Review  Service. The Enterprise Security Architecture Team can provide reviews, and information to enable the leadership team to make strategic decisions based on the state of architecture and security architecture within the organization. ">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-e7a0b18429c54cd4b2807153e2413fe4.xml#id-e7a0b18429c54cd4b2807153e2413fe4"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+</archimate:RealizationRelationship>

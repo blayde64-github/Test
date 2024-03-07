@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-100372"
+    documentation="We need to design to protect the information within the repository. The key here is to clearly segregate public and internal information, so the users do not share confidential information by accident.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-100364.xml#id-100364"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89666.xml#id-89666"/>
+</archimate:RealizationRelationship>

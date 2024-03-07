@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-629dc3083c2045529c5e7063eec40395"
+    documentation="Template files are kept in the document library."
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-39354ea1b27b4fb08ec1462e7e1ade2a.xml#id-39354ea1b27b4fb08ec1462e7e1ade2a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b4df1622f19348f09f60dab30c2d6389.xml#id-b4df1622f19348f09f60dab30c2d6389"/>
+</archimate:AccessRelationship>

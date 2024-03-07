@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow posts inappropriate content"
+    id="id-4095175a50424202b600ebbbd3ef13fb"
+    documentation="This refers to the activity of posting harmful or unauthorized content, such as sending emails with various types of content, instead of carrying out the intended task of updating the lists. This event can potentially disrupt the normal operation of the SharePoint lists and compromise integrity of the system.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

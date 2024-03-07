@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sync Models"
+    id="id-c29e39039ba444cbb0a18bbdb43ff244"
+    documentation="the coArchi plugin effectively acts as an interface between Archi and Github. Users can push/pull and do all manner of other github black magic through coArchi.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-110414.xml#id-110414"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-110401.xml#id-110401"/>
+</archimate:FlowRelationship>

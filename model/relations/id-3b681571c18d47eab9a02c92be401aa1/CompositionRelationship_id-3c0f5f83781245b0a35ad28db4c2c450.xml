@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3c0f5f83781245b0a35ad28db4c2c450"
+    documentation="The Power App is run from the Power Apps service">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84781.xml#id-84781"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5fa3a5b990ad4e5592b134159e57884b.xml#id-5fa3a5b990ad4e5592b134159e57884b"/>
+</archimate:CompositionRelationship>

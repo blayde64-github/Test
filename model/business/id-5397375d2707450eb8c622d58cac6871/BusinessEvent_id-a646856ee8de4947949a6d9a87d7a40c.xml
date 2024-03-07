@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solutions put in place that have gaps and lack security control"
+    id="id-a646856ee8de4947949a6d9a87d7a40c"
+    documentation="Solutions are put in place, but the focus is on the immediate need at hand. They focus on fixing one issue rather than looking at the whole problem, and often the quick fixes are not considering all requirements, just ones relevant to the direct issue. For example, if we make a change to an active directory to fix an issue in an active directory, we do not always understand the impact that change may have had on legal and compliancy issues, because we do not have things architecturally modelled and we have no easy way to check.">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

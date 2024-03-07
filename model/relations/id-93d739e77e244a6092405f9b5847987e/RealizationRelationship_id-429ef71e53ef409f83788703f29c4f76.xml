@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-429ef71e53ef409f83788703f29c4f76"
+    documentation="There is no formal place to meet the requirements in SD2.1.8d. Although it is a good idea to implement this fully, the organization doesn’t have the appetite to meet this requirement, and the cost vs benefit would be questionable. As a reasonable compromise however, we could address this within the Security Architecture Community">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c7fa36738184be18c63aa5c2d2f343f.xml#id-3c7fa36738184be18c63aa5c2d2f343f"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-55efcce104374c668feee32bb28aac34.xml#id-55efcce104374c668feee32bb28aac34"/>
+</archimate:RealizationRelationship>

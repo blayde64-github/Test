@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-41eadaf8bffd4f1b80641f88ddf19ec1"
+    documentation="Providing an interface to leadership will enable them to see and react on the current state of architecture. Leadership mandate and engagement is the only way this requirement can be met.">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f28656ce92d348ffb11b99d9d21a2bda.xml#id-f28656ce92d348ffb11b99d9d21a2bda"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-8a60209acbe54f97ad2fa34392833628.xml#id-8a60209acbe54f97ad2fa34392833628"/>
+</archimate:RealizationRelationship>

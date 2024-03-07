@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SM.2.3.6b: b) achieve appropriate technical visibility, such as through placement of sensors, data collection and correlation, use of specialist tools (e.g. SIEM, Security Orchestration, Automation and Response (SOAR) platform or deception technology) and analysis of security-related events from a variety of logs (including those from cloud service providers (CSPs))"
+    id="id-ea7f49a8e4fb46b7a55d3dc20cb48604"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SM.2.3.6b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

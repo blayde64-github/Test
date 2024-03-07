@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="There are systems that are not managed through a standard or approved IAM Service"
+    id="id-4d200836cec4492088c0131034ef2628"
+    documentation="The vulnerability of having systems not managed through standard or approved IAM services lies in the lack of centralized control and oversight. This can lead to inconsistent access management, increased risk of unauthorized access, and difficulty in tracking and auditing user activities. &#xD;&#xA;&#xD;&#xA;Such systems may not comply with established security policies, making them more susceptible to breaches and cyber threats, and complicating compliance with regulatory requirements.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Password reset"
+    id="id-b367e65a1e4c4aceba9c502e56ab4aff"
+    documentation="Using the One-Time Password, the password is reset">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-be83c30ef40541c5bb7b1b78814d883b.xml#id-be83c30ef40541c5bb7b1b78814d883b"/>
+  <target
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-7a94387f2ece4b9691d3e37517212709.xml#id-7a94387f2ece4b9691d3e37517212709"/>
+</archimate:TriggeringRelationship>

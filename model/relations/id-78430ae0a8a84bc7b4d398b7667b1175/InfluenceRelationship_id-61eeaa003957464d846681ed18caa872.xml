@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-61eeaa003957464d846681ed18caa872"
+    documentation="Changing talent setup does not come cheap."
+    strength="+++">
+  <source
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-492462f1bb5447b49e157ce5d8878655.xml#id-492462f1bb5447b49e157ce5d8878655"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-49b8d580c6c5420ea22490f263dd37f4.xml#id-49b8d580c6c5420ea22490f263dd37f4"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1ad55e6143b846e68c6311b4be0d8972"
+    documentation="This design is a simple design for providing standard architecture reviews based on long standing standards such as ISO42010 and ISO27k. The need for ISO27k support will not go away, and this design can be easily adapted to support further standards should need be.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bea73ce5ce1d45fda66177b1d90a58c7.xml#id-bea73ce5ce1d45fda66177b1d90a58c7"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-58692b38cb38497daf2dbe40e48ebe35"
+    documentation="The Architecture Concerns dashboard is represented by a page in the Architecture Concerns Report">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d50a7e68fbda46f99ab48bceff366b5a.xml#id-d50a7e68fbda46f99ab48bceff366b5a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f74d052df2f24c3da6c2354aced08a5e.xml#id-f74d052df2f24c3da6c2354aced08a5e"/>
+</archimate:CompositionRelationship>

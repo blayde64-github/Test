@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.6 Infosec security coordination control"
+    id="id-b1834ea4bc734cb58065fc7e91b1f41c"
+    documentation="Coordinate information security activities throughout the organization">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

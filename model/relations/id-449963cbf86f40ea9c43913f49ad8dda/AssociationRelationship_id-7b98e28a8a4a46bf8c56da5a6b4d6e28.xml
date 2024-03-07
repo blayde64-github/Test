@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implements"
+    id="id-7b98e28a8a4a46bf8c56da5a6b4d6e28"
+    documentation="The Security  Architecture Review Control Service implements the latest version of the Tech Services Architecture Principles as of 2023-10-22.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-8e9f090cc5e041c295b00f852c9f06de.xml#id-8e9f090cc5e041c295b00f852c9f06de"/>
+</archimate:AssociationRelationship>

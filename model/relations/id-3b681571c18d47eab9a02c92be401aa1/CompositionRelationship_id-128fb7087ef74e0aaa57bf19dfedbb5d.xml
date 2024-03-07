@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-128fb7087ef74e0aaa57bf19dfedbb5d"
+    documentation="Implemented using standard Power Automate functionality.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cbacc822e9594dc4882d9ad463f530b1.xml#id-cbacc822e9594dc4882d9ad463f530b1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79a5f8daa42540fc973fcfdf602c33da.xml#id-79a5f8daa42540fc973fcfdf602c33da"/>
+</archimate:CompositionRelationship>

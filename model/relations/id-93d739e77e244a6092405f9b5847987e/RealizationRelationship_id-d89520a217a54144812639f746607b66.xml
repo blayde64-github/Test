@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d89520a217a54144812639f746607b66"
+    documentation="The SAR1 Form Posting power automate flow automatically takes care of sending results directly to the SAR User rather than giving access to our data sources.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79a5f8daa42540fc973fcfdf602c33da.xml#id-79a5f8daa42540fc973fcfdf602c33da"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-76e6d031187e4ea8908d2f436b9df0fa.xml#id-76e6d031187e4ea8908d2f436b9df0fa"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.16.2 Portable storage devices permitted control"
+    id="id-eb2901e4024d4981a48e4cafa326a107"
+    documentation="Users of portable storage devices should be informed of the types of portable storage device permitted for storing information (e.g. portable storage devices that are issued or approved by the organization)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

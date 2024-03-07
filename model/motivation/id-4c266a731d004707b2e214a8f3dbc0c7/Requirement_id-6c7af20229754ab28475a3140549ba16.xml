@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.2 Firewall standards and procedures control"
+    id="id-6c7af20229754ab28475a3140549ba16"
+    documentation="There should be documented standards/procedures for managing firewalls (or similar devices capable of filtering network traffic, such as switches and routers),">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-85474"
+    documentation="As time goes on we are called upon to create more with less. Throwing resources at a problem no longer is a solution for it, we are expected to build better more agile businesses and cannot afford for one part of the organization to be duplicating work in another or to have cost overheads.&#xA;Systems and architecture need to be designed and efficient. More competent architects need to be leading the newer developers, and we need to be making better use of our resources.&#xA;In addition, more demands permeate from the outside world. In 2019 the cyber security act was published in Parliament laying down the law for cyber security in years to come. The Finnish government have responded with their own security Laws, and ENISA was tasked to find a define a framework to protect the consumers of our modern IT ecosystems. As this maturity grows so do customer expectations. We have already had public sector bids in Finland insisting that we provide full architectures as part of the RFP Process. &#xA;This view shows the starting challenge we had when we embarked on the journey to implement a new process. The assessment comes from personal experience of the Security domain and many of these assessments have also been made by other professionals in both Enterprise Architecture and security areas. &#xA;&#xA;"
+    strength="++">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-85493.xml#id-85493"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-85494.xml#id-85494"/>
+</archimate:InfluenceRelationship>

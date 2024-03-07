@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-579df3bb16a44d8ab0acc55aaf9899db"
+    documentation="SAR2 review data is fetched by the SAR2 Work Replication Flow when triggered"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71d66413e15544ea9217f9f25af7c1a0.xml#id-71d66413e15544ea9217f9f25af7c1a0"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-541ff5da6e7641a9b9527a759e420166.xml#id-541ff5da6e7641a9b9527a759e420166"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.68.1 Security event management control"
+    id="id-71f2f6b0db4e4f84ac58b5ed4731cdb9"
+    documentation="A security event management process should be established to identify, investigate, and help respond to security-related events (including indicators of compromise (IOC)) which may be supported by a Security Operations Centre (SOC) or equivalent.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.78.1 Critical business process application &amp; infrastructure control"
+    id="id-7fbac02363ee4f51864a5a4c515e5d0b"
+    documentation="Critical business processes should be supported by business applications and technical infrastructure (e.g. information systems, networks) that use robust, reliable hardware and software, and are supported by alternative or duplicate facilities">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

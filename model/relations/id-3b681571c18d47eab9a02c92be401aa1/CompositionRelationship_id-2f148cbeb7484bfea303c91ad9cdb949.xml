@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2f148cbeb7484bfea303c91ad9cdb949"
+    documentation="Utilizing standard Microsoft Teams functionality.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-64399b0092054d879b050733d5d8dd7a.xml#id-64399b0092054d879b050733d5d8dd7a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e396f6b60c7d4e15988ebc7e2890d2ff.xml#id-e396f6b60c7d4e15988ebc7e2890d2ff"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of owners per security control"
+    id="id-3f59096e43d6421eabfb70e86ca2abc1"
+    documentation="The &quot;Number of Owners per Security Control&quot; metric measures the count of individual owners assigned to each security control within our system or infrastructure. This metric focuses on the distribution of ownership responsibilities, indicating how many individuals or teams are accountable for the implementation, monitoring, and remediation of a specific security control. By tracking this metric, we can assess the level of collaboration and coordination among owners, ensuring that there is an appropriate balance of responsibilities for effective control management. It helps us identify any potential issues such as control fragmentation or gaps in ownership, enabling us to allocate ownership more efficiently and foster better collaboration among owners to ensure comprehensive and cohesive security control management.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

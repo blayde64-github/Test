@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7d136804c3114090a7cd49012e90851f"
+    documentation="Security &amp; Compliance is leading the risk management and mitigation work through Tech Services">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9584f46968764af2910a012be2e01168.xml#id-9584f46968764af2910a012be2e01168"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-857333c5e4aa4865bda888e363726bf3.xml#id-857333c5e4aa4865bda888e363726bf3"/>
+</archimate:RealizationRelationship>

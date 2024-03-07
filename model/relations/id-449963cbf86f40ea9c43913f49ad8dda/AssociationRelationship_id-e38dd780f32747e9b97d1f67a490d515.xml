@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e38dd780f32747e9b97d1f67a490d515"
+    documentation="coArchi gets access to the repositories indirectly via GitHub.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-110414.xml#id-110414"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-7b5c0e409051499e97cdd97b8d23a9c5.xml#id-7b5c0e409051499e97cdd97b8d23a9c5"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Norwegian"
+    id="id-6efc84431d694ebb922d4a5b7f64cf4b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2f0e971347064429ae7c9cf8d340a54b.xml#id-2f0e971347064429ae7c9cf8d340a54b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0101df9bd41844248be6dbd42f79664a.xml#id-0101df9bd41844248be6dbd42f79664a"/>
+</archimate:AccessRelationship>

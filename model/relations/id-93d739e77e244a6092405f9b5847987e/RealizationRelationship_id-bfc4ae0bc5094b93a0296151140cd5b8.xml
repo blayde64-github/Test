@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bfc4ae0bc5094b93a0296151140cd5b8"
+    documentation="Collaborative platform providing strong document management and communication mechanisms.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84202.xml#id-84202"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-cdbda1a6ddb4409c9e40394079ad2369.xml#id-cdbda1a6ddb4409c9e40394079ad2369"/>
+</archimate:RealizationRelationship>

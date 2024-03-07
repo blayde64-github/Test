@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.51.2 External network design controls"
+    id="id-e4284fea3a124d9c9298d994d4fb6bad"
+    documentation="Information systems and networks accessible by external connections should be designed to:&#xA;* use an agreed set of security controls for information formats and communications protocols&#xA;* conceal computer or network names and topologies from external parties (e.g. by using dual or split network di-rectories/name servers)&#xA;* protect sensitive information stored on information systems and transmitted to external party locations (e.g. using encryption).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

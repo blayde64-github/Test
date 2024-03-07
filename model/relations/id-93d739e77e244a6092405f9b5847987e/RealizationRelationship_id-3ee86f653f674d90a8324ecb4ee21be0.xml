@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3ee86f653f674d90a8324ecb4ee21be0"
+    documentation="The review guide gives detailed instructions on what questions mean and why they exist. It makes it as easy as we can to understand the review questions.">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3876117947e04d698e79dc0ee12c9937.xml#id-3876117947e04d698e79dc0ee12c9937"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-17c939ffa8764ef494058889a3bdb6a1.xml#id-17c939ffa8764ef494058889a3bdb6a1"/>
+</archimate:RealizationRelationship>

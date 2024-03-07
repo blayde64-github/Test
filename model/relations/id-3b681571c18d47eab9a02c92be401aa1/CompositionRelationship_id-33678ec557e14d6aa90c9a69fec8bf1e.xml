@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-33678ec557e14d6aa90c9a69fec8bf1e"
+    documentation="Part of the Power BI Service">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-96985.xml#id-96985"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-83f28bce2d6d499487102f4e695fc413.xml#id-83f28bce2d6d499487102f4e695fc413"/>
+</archimate:CompositionRelationship>

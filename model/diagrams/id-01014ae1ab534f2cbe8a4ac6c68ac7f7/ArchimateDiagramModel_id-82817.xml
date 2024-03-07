@@ -1,0 +1,1185 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S&amp;C Product motivation - Tietoevry Group"
+    id="id-82817"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94492"
+      targetConnections="id-94498"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94543"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94492"
+        target="id-94496">
+      <bendpoints
+          startX="97"
+          startY="116"
+          endX="-813"
+          endY="3"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94544.xml#id-94544"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94516"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94492"
+        target="id-94580">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94517.xml#id-94517"/>
+    </sourceConnections>
+    <bounds
+        x="45"
+        y="505"
+        width="233"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-94493.xml#id-94493"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94496"
+      targetConnections="id-94556 id-94543 id-94566"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <bounds
+        x="738"
+        y="618"
+        width="667"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-94497.xml#id-94497"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94500"
+      targetConnections="id-94541"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94498"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94500"
+        target="id-94492">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94499.xml#id-94499"/>
+    </sourceConnections>
+    <bounds
+        x="45"
+        y="98"
+        width="333"
+        height="347"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94506"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127443"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Ari Järvelä">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94507.xml#id-94507"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94518"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="173"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127454"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Christian Pedersen">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94519.xml#id-94519"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94520"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="173"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127432"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Christian Segersven">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94521.xml#id-94521"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94524"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="200"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127457"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Ari Järvelä">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94525.xml#id-94525"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94504"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="173"
+          y="200"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127428"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Satu Kiiskinen">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94505.xml#id-94505"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94522"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="274"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127456"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Malin Fors-Skjæveland">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94523.xml#id-94523"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94510"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="173"
+          y="274"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127446"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Tomi Hyrylainen">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94511.xml#id-94511"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94512"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127426"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Johan Torstensson">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94513.xml#id-94513"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-94501.xml#id-94501"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94526"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94545"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94526"
+        target="id-94502">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94546.xml#id-94546"/>
+    </sourceConnections>
+    <bounds
+        x="725"
+        y="98"
+        width="327"
+        height="347"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94508"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="13"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127461"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Jon Bremnes">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94509.xml#id-94509"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94537"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="166"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127441"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="René Felber">
+        <bounds
+            x="14"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94538.xml#id-94538"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94514"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="13"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127463"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Jussi Tokola">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94515.xml#id-94515"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94530"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="13"
+          y="194"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127460"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Jari Pirhonen">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94531.xml#id-94531"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94534"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="166"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127464"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Oddbjørn Steffensen">
+        <bounds
+            x="14"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-7b967e1a00f044bdb040ac4b009b8b49.xml#id-7b967e1a00f044bdb040ac4b009b8b49"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94535"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="166"
+          y="194"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127452"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Markus Mannio">
+        <bounds
+            x="14"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94536.xml#id-94536"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94532"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="13"
+          y="267"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127462"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Magnus Mühlenbock">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94533.xml#id-94533"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-94527.xml#id-94527"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94494"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94541"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94494"
+        target="id-94500">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94542.xml#id-94542"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94556"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94494"
+        target="id-94496">
+      <bendpoints
+          startX="123"
+          startY="110"
+          endX="-493"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94557.xml#id-94557"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94572"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94494"
+        target="id-94554">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94573.xml#id-94573"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94562"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94494"
+        target="id-94580">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94563.xml#id-94563"/>
+    </sourceConnections>
+    <bounds
+        x="285"
+        y="505"
+        width="340"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-94495.xml#id-94495"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94502"
+      targetConnections="id-94545 id-94576 id-94574"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94578"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94502"
+        target="id-94580">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94579.xml#id-94579"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94566"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94502"
+        target="id-94496">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94567.xml#id-94567"/>
+    </sourceConnections>
+    <bounds
+        x="631"
+        y="505"
+        width="773"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-94503.xml#id-94503"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94547"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94574"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94547"
+        target="id-94502">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94575.xml#id-94575"/>
+    </sourceConnections>
+    <bounds
+        x="1065"
+        y="98"
+        width="340"
+        height="347"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94549"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127436"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Mikael Lingskog">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-7b967e1a00f044bdb040ac4b009b8b49.xml#id-7b967e1a00f044bdb040ac4b009b8b49"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94550"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127466"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Susanne Lindström">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-93092.xml#id-93092"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94551"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="180"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127469"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Jukka Kuusinen (FI)">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94552.xml#id-94552"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94553"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="180"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127471"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Tore Fevolden (NO)">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94552.xml#id-94552"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94539"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="180"
+          y="194"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127459"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Owen Richardson">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94540.xml#id-94540"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-94548.xml#id-94548"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94554"
+      targetConnections="id-94572"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-94576"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        source="id-94554"
+        target="id-94502">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-94577.xml#id-94577"/>
+    </sourceConnections>
+    <bounds
+        x="385"
+        y="98"
+        width="333"
+        height="347"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94570"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127483"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Přemysl Soldán">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94571.xml#id-94571"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94568"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127481"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Emelie Helling Gratton">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94569.xml#id-94569"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94558"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="20"
+          y="194"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127473"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Toni Pakarinen">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94559.xml#id-94559"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94560"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="173"
+          y="194"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127476"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Toni Pakarinen">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94561.xml#id-94561"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94564"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="173"
+          y="120"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127479"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Mikel Echegoyen">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94565.xml#id-94565"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94528"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#000000"
+        fillColor="#d9cfff">
+      <bounds
+          x="173"
+          y="47"
+          width="147"
+          height="67"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-127449"
+          font="1|Calibri Light|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light"
+          lineColor="#000000"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Susanne Lindström">
+        <bounds
+            x="13"
+            y="40"
+            width="120"
+            height="20"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-94529.xml#id-94529"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-94555.xml#id-94555"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94580"
+      targetConnections="id-94578 id-94562 id-94516"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|300|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#000000"
+      fillColor="#d9cfff">
+    <bounds
+        x="45"
+        y="705"
+        width="667"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-82789.xml#id-82789"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c80f4b461e3045b48a3cc6a616a6661c"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="34"
+        y="10"
+        width="439"
+        height="85"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b3bd3b160b004f518f07acef19d4f0c7"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="S&amp;C Product motivation - Tietoevry Group"
+      borderType="2">
+    <bounds
+        x="124"
+        y="22"
+        width="325"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-eed4e786c41c49afbe2bb8dab6902eaa"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="124"
+        y="58"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8812ad2e5e43430e8dfe7f798b2ecdb1"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-04-12"
+      borderType="2">
+    <bounds
+        x="196"
+        y="58"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9266eb8c491a453999004ec5926e2eaa"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="337"
+        y="58"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e2fb1ee7eca4410182670bacbf388997"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      fillColor="#ffabab"
+      content="Outdated"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="46"
+        y="22"
+        width="67"
+        height="61"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-42fbbf19a13a4786ad739cd45baadbce"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="256"
+        y="58"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <properties
+      key="View Status"
+      value="Outdated"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Architect"
+      value="Owen Richardson"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Need a process where vulnerabilities are prioritized according to criticality of the gap and mapped against functional role and owner of the component"
+    id="id-99720"
+    documentation="As the TEMA Business Owner I need to ensure that the scanning service and processes are in place where vulnerabilities are prioritized according to criticality of the gap and mapped against functional role and owner of the component, not just a hostname/IP address. Critical vulnerabilities shall be reported in a way that communicates the actual security posture of the environment (i.e. not letting a single critical vulnerability get lost in a long, long list of gaps) enabling regular communication with key stakeholders in TEMA, including internal users, customers, auditors, etc. This is to ensure that processes are in place for exposure management"/>

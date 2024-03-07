@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACC004 Loss of information systems"
+    id="id-c9e312f2d4734ae0887053ed1c9f8223"
+    documentation="Staff or external individuals (e.g. consultants, contractors or employees of external parties) lose or misplace information systems or equipment containing the organisation’s information assets.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;Information systems or equipment that can be lost or misplaced typically includes laptops, tablets, smartphones, portable storage devices and physical authentication devices, such as tokens and smartcards.&#xD;&#xA;&#xD;&#xA;At lower levels of threat strength (i.e. individuals with limited or no access privileges), it is assumed that such individuals would have access to limited sensitive/critical information on their devices, and as a result the loss of such a device would be of lesser impact to the organisation.&#xD;&#xA;&#xD;&#xA;At higher levels of threat strength (i.e. individuals that have been assigned privileged access such as executives or administrators), it is assumed that such individuals would have greater access to sensitive/critical information on their devices, and as a result the loss of such a device would be of greater impact to the organisation.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

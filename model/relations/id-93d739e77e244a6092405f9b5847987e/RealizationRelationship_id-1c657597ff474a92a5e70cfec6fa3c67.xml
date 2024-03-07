@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1c657597ff474a92a5e70cfec6fa3c67"
+    documentation="Head of Enterprise Security architecture is acknowledged by Esa Kauppi, Head of EA as being the EA responsible for the security architecture area. The defined Security Architecture Review Control Service will be provided to EA team for review as well as the Security Architecture Community.">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-005f2fa6920340b1a86ba23891931982.xml#id-005f2fa6920340b1a86ba23891931982"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-65bfdea98f724930a2c25e362eb3e70a.xml#id-65bfdea98f724930a2c25e362eb3e70a"/>
+</archimate:RealizationRelationship>

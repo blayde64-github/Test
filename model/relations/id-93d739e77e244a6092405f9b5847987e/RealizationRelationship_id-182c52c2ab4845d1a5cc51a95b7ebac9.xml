@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-182c52c2ab4845d1a5cc51a95b7ebac9"
+    documentation="The dashboard makes management reporting simple. It only requires refreshing on a slide.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-38f14175857a4e609437856c930cc453.xml#id-38f14175857a4e609437856c930cc453"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-fb23e7c84191499ea0ed178964797190.xml#id-fb23e7c84191499ea0ed178964797190"/>
+</archimate:RealizationRelationship>

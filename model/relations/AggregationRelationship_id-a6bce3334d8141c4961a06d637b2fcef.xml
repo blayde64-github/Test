@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a6bce3334d8141c4961a06d637b2fcef"
+    documentation="Merge with another query">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-33135d4f406a4a57a24a5aa49fe13b05.xml#id-33135d4f406a4a57a24a5aa49fe13b05"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2afe2edb123e43b78c7a8eb7573da027.xml#id-2afe2edb123e43b78c7a8eb7573da027"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-110834"
+    documentation="We can ensure feasibility of the gap analysis by TELOS assessing the provided recommendations.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-110805.xml#id-110805"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89588.xml#id-89588"/>
+</archimate:RealizationRelationship>

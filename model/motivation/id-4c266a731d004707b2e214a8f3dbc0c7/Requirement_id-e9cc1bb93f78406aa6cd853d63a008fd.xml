@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.32.4 Web API configuration control"
+    id="id-e9cc1bb93f78406aa6cd853d63a008fd"
+    documentation="Web Application Programming Interfaces (APIs) should be securely configured">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

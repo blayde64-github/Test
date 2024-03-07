@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-51cff24d31bb45cead012ab2750a0dbf"
+    documentation="Ensure oversight to business recovery planning (BRP), business continuity planning (BCP) and supporting Crisis Management team.">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9584f46968764af2910a012be2e01168.xml#id-9584f46968764af2910a012be2e01168"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-4624df6b5b8742548b8d72eff866a0c8.xml#id-4624df6b5b8742548b8d72eff866a0c8"/>
+</archimate:RealizationRelationship>

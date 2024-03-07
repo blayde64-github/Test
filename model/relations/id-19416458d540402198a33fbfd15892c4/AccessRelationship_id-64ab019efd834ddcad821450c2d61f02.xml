@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finnish"
+    id="id-64ab019efd834ddcad821450c2d61f02">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-65d1473979fb46c193c2d9ab35d95043.xml#id-65d1473979fb46c193c2d9ab35d95043"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0101df9bd41844248be6dbd42f79664a.xml#id-0101df9bd41844248be6dbd42f79664a"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAC Risk assessment"
+    id="id-6ad59c455dce4439884279dcb5a649e2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-15714afc73e94e3b8a5daf74fda49e5f"
+      textPosition="1">
+    <bounds
+        x="213"
+        y="224"
+        width="253"
+        height="103"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-1014a8bbc97d43d1909e0d0a9171a839.xml#id-1014a8bbc97d43d1909e0d0a9171a839"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a38045ce8685492481b220d6ba8bb47a"
+      textPosition="1">
+    <bounds
+        x="19"
+        y="392"
+        width="183"
+        height="75"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-db6db920198144ef8535066e73383a78.xml#id-db6db920198144ef8535066e73383a78"/>
+  </children>
+</archimate:ArchimateDiagramModel>

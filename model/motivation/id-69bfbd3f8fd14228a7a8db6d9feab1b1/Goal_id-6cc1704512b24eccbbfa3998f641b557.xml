@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIS Controls v8"
+    id="id-6cc1704512b24eccbbfa3998f641b557"
+    documentation="The Center for Internet Security Controls are a set of action items for cyber defense that provide specific and actionable ways to thwart the most pervasive attacks. Version 8 is the latest iteration, focusing on modern systems and IT environments.&#xD;&#xA;&#xD;&#xA;Center for Internet Security is a non-profit entity that provides cybersecurity tools and resources to help organizations improve their cybersecurity posture.">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

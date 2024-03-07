@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.2.1 Information risk assessment documentation control"
+    id="id-95f90b4ff3694043b9bc2d2e2780485e"
+    documentation="There should be documented standards/procedures for managing information risk assessments, which apply across the organization.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

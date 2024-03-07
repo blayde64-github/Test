@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The Service Provider (Tietoevry) has Access to the Environment"
+    id="id-c654c72081704063a74a60340e546984"
+    documentation="Tietoevry, as the service provider, has access to the operational environment. This means they can potentially view or interact with data and systems within the environment, raising concerns about privacy and unauthorized data access.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

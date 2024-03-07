@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.80.3 BCP Obligations control"
+    id="id-0e4bff204a9b4b8cbc54f97ff747a8cd"
+    documentation="Individuals should be informed of their responsibilities regarding the business continuity plan and provided with relevant training/tools to fulfil them.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

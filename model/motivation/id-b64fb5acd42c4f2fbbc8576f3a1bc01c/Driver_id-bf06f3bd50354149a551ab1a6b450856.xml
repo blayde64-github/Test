@@ -1,0 +1,5 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tietoevry Banking needs to secure PCI-DSS / Swift deliveries worth of 1,5BN NOK / 140M€"
+    id="id-bf06f3bd50354149a551ab1a6b450856"
+    documentation="Tietoevry Connect is acting as an elabler for Tietoevry Banking. Connect is providing hosting location for banking applications and therefore the delivery environment must bee the PCI-DSS + SWIFT compliancy. One of the key requirements on PCI-DSS is vulnerability management.&#xD;&#xA;&#xD;&#xA;The problem is the same as with the &quot;Customer 3rd party penetration test on Tietoevry Connect Norway delivery raised several issues which needs to be mitigated&quot; - service relation and ownership for the asset is not clarified and therefore the problems cannot be fixed&#xD;&#xA;&#xD;&#xA;Robert: &quot;If Banking/Connect loose PCI/DSS certification then Banking will take a loss of some 1,5 bn nok revenue loss. But probably more over time.  I can't find any penalties linked to this in the MSA yet, I guess it's just not to be contemplated.&quot;"/>

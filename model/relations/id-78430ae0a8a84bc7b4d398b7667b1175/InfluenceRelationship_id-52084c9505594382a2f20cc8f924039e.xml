@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-52084c9505594382a2f20cc8f924039e"
+    documentation="Architects have influenced the mechanisms we are putting in place quite significantly. As architects are Security Architecture Review users, we need to consider their needs. "
+    strength="+++">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-3d0f9c93cdb0448ea2556fce6f0c46c1.xml#id-3d0f9c93cdb0448ea2556fce6f0c46c1"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

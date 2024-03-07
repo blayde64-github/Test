@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2e741737f330443ca13dff517e358c61"
+    documentation="The SharePoint list has restricted access. The only direct access to the list is via the security architecture team.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d74a519cd412488f83546b16eed119f1.xml#id-d74a519cd412488f83546b16eed119f1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-76e6d031187e4ea8908d2f436b9df0fa.xml#id-76e6d031187e4ea8908d2f436b9df0fa"/>
+</archimate:RealizationRelationship>

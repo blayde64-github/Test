@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b420ce71008c4b1492f5aaeb0b555056"
+    documentation="This system is does not include system building and release management, as these concepts do not exist in the traditional way within Office 365 and the technologies we use. We utilize standard logic builder components with technologies such as power automate.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b492c070c72e4e9c91170edc33a7d903.xml#id-b492c070c72e4e9c91170edc33a7d903"/>
+</archimate:CompositionRelationship>

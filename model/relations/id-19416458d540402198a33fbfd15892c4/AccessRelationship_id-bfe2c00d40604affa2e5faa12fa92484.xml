@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Disabling"
+    id="id-bfe2c00d40604affa2e5faa12fa92484">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-bbdf44e5b715419ea7c303d0559e5135.xml#id-bbdf44e5b715419ea7c303d0559e5135"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-25d0ce5c197a4141866b97a704f5d984.xml#id-25d0ce5c197a4141866b97a704f5d984"/>
+</archimate:AccessRelationship>

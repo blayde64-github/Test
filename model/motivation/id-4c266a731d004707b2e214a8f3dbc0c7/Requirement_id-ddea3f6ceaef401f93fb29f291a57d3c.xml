@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.67.1 Security event logging standards &amp; procedures control"
+    id="id-ddea3f6ceaef401f93fb29f291a57d3c"
+    documentation="There should be documented standards/procedures for security event logging&#xA;&#xA;a) identification of systems or devices on which event logging should be enabled (e.g. critical business applications&#xA;and systems that have previously experienced a major information security incident, or systems that are subject&#xA;to legal or regulatory obligations) to help identify security-related events&#xA;b) configuration of systems or devices to generate security-related events (including event types such as user login&#xA;attempts; service creation; system crashes; and creation, modification or deletion of user accounts) and event&#xA;attributes associated with each event (e.g. date, time, source, destination IP addresses and User ID)&#xA;c) storage of security-related events within event logs (e.g. using local systems, central servers, or by using storage&#xA;provided by an external service provider)&#xA;d) protection of security-related event logs (e.g. via encryption, access control and backup)&#xA;e) retention of security-related event logs (e.g. to meet record retention requirements and support possible&#xA;forensic investigations).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

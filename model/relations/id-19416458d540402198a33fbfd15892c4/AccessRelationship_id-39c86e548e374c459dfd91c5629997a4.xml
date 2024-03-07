@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implements"
+    id="id-39c86e548e374c459dfd91c5629997a4"
+    documentation="The ESA Team is responsable for maintaining and implementing the Tech Services Security Architecture Principles. "
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-eb061b7b1e634f2780dac7eff11c5eee.xml#id-eb061b7b1e634f2780dac7eff11c5eee"/>
+</archimate:AccessRelationship>

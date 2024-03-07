@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1f13f8805e824489bf77048b77ad1038"
+    documentation="Its impossible to get tech specialists to do training without mandating it. ">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-7ca36462a5874370a57575d0523ca566.xml#id-7ca36462a5874370a57575d0523ca566"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-52efbfa53feb4e5db5348a320fde0946.xml#id-52efbfa53feb4e5db5348a320fde0946"/>
+</archimate:TriggeringRelationship>

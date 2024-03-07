@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d1d5ed5b78504003a783709b86d71c1a"
+    documentation="Written via Microsoft Exchange and the Outlook Connector">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-00dfad83e173424dbc204768a43326c9.xml#id-00dfad83e173424dbc204768a43326c9"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-06a200e7e8544d8da3884f3da4345106.xml#id-06a200e7e8544d8da3884f3da4345106"/>
+</archimate:AccessRelationship>

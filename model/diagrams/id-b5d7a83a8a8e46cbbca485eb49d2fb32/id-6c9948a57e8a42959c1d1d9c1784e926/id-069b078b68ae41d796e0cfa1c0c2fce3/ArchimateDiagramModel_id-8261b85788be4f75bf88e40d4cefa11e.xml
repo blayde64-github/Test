@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability Alert Mailbox"
+    id="id-8261b85788be4f75bf88e40d4cefa11e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3948960fb09b446fb411c1a775f74030"
+      textPosition="1">
+    <bounds
+        x="195"
+        y="364"
+        width="170"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-b38d9d6b5ad74e9da80ca35e53467367.xml#id-b38d9d6b5ad74e9da80ca35e53467367"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A Person's Manager Is Changed"
+    id="id-c42da36a8b6a41a88e228fb5dee3e86b"
+    documentation="Manager change attestation is triggered by the Person update event when manager field has changed."/>

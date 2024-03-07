@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TM.1.3.12c: c) establishing the scale, impact and severity of actual security incidents so that an appropriate classification can be assigned, which may entail root-cause analysis (sometimes known as 'attribution'), their intent, how the incident happened, where it initiated, what else has been affected, the timeline of the attack and next steps required"
+    id="id-02c86c5bdf524414acf5e49d51580482"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="TM.1.3.12c"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

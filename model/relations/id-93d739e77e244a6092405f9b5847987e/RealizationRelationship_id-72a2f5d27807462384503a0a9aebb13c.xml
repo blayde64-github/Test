@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-72a2f5d27807462384503a0a9aebb13c"
+    documentation="The solution follows internal security policy around information classification, no other policy has been explicitly specified.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-80fd4042f29e42b3ba9d75f4270ed8dd.xml#id-80fd4042f29e42b3ba9d75f4270ed8dd"/>
+</archimate:RealizationRelationship>

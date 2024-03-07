@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.33.3 Database isolation control"
+    id="id-f91084dbda774143a8a04584f0862d77"
+    documentation="Critical databases should be protected by storing them on a central server, limiting access, using only approved versions etc.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

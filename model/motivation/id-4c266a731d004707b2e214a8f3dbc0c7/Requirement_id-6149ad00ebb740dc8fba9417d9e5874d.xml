@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.10.3 Security awareness testing control"
+    id="id-6149ad00ebb740dc8fba9417d9e5874d"
+    documentation="Testing the current employee awareness and understanding to better design and tailor the program&#xA;- eg defining expected security-related behavior (e.g. considering risks before acting, consulting others for help, protecting critical and sensitive information and maintaining a clear desk)">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

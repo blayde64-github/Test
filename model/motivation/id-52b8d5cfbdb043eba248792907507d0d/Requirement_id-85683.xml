@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure that services that are onboarded to SIEM process provide Threat Scenarios &amp; Use Cases"
+    id="id-85683"
+    documentation="Control 4.68.4 in the security baseline requires that SIEM services are based on threat analysis and use cases, rather than generic analysis of logfiles. To facilitate targetting of specific threat scenarios, it is essential to understand potential threats to any system that is being onboarded to SIEM.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;"/>

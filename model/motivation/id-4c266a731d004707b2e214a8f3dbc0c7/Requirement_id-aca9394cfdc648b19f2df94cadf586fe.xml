@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.53.5 Email scanning control"
+    id="id-aca9394cfdc648b19f2df94cadf586fe"
+    documentation="Email messages should be scanned for:&#xA;    attachments that could contain malicious code (e.g. malicious code hid-den in self-extracting zip files, Adobe PDF documents or embedded mac-ros)&#xA;    prohibited words or phrases (e.g. those that are racist, offensive, libel-lous or obscene)&#xA;    phrases associated with malware (e.g. those commonly used in phish-ing, hoax viruses or chain letters).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

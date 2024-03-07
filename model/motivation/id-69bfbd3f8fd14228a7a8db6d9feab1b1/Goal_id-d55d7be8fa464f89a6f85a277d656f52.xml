@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify scope and motivation behind ISAE 3402 audit"
+    id="id-d55d7be8fa464f89a6f85a277d656f52"
+    documentation="Properly Determine Scope&#xD;&#xA;Why are we doing this audit for group? It has an associated cost and workload.&#xD;&#xA;Who deemed it essential for customers and their auditors?&#xD;&#xA;If we have to do this for group which customers/industries have made it necessary?&#xD;&#xA;Given that the processes that are in scope are so comprehensive could we create a security zone around these, so our entire environment is not subject to audit? &#xD;&#xA;e.g. if this audit requirement originated from exEVRY is it possible we could limit the scope of control for access management to COS/IDAR? ">
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

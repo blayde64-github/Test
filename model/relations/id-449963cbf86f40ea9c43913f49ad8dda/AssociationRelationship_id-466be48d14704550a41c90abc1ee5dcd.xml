@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Removed"
+    id="id-466be48d14704550a41c90abc1ee5dcd"
+    documentation="Norway cyber security uplift program was removed from security &amp; compliance because it wasnt so much a project as a collection of tasks, and the responsabilties for those tasks laid within Security Tools &amp; Platforms, which was outscoped.">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_id-043ebff116d44d33a446300c85ba5501.xml#id-043ebff116d44d33a446300c85ba5501"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-554c41118c094637a0912485917f602a.xml#id-554c41118c094637a0912485917f602a"/>
+</archimate:AssociationRelationship>

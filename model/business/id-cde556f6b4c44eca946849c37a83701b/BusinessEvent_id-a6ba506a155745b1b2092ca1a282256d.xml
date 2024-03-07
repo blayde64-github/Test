@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV002 Unauthorised access to legitimate authentication credentials"
+    id="id-a6ba506a155745b1b2092ca1a282256d"
+    documentation="The threat obtains unauthorised access to legitimate authentication credentials and uses these to gain access to an organisation’s information systems.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;Authentication information can be obtained in numerous ways, including: &#xD;&#xA;- leak of authentication information&#xD;&#xA;- insecure storage of authentication information&#xD;&#xA;- conducting brute force login attempts/password guessing attacks. &#xD;&#xA;&#xD;&#xA;The threat may combine this information with exploits including:&#xD;&#xA;- exploiting unencrypted or poorly encrypted information&#xD;&#xA;- determining ‘weak’ passwords by valid system users.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

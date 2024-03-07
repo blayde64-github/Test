@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organization"
+    id="id-03224d27c9614a9bb2e779e3c5c01e90"
+    documentation="A view with links to other views only">
+  <properties
+      key="MoSCoW"
+      value="Should Have"/>
+  <profiles
+      href="folder.xml#id-a056d976b7844f27931f5aacde337498"/>
+</archimate:DataObject>

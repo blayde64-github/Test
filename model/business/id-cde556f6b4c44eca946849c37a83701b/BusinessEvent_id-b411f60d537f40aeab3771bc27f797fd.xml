@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV003 Exploit vulnerable authorisation mechanisms"
+    id="id-b411f60d537f40aeab3771bc27f797fd"
+    documentation="The threat exploits vulnerabilities in the authorisation mechanisms of an organisation’s information systems in order to gain access to sensitive functions and information assets.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;This threat event can manifest in a number of ways, including:&#xD;&#xA;ԉ      bypassing authorisation checks&#xD;&#xA;ԉ      privilege escalation attacks&#xD;&#xA;ԉ      forced browsing/navigation">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

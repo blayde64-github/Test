@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d4018027eb044d939fb93e707edf079d"
+    documentation="Aki had a &quot;the gloves are off&quot; approach (Architects' interpretation of Aki's stance, not a literal quote) in the meeting, and very passionately talked about enforcing training."
+    strength="+">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-5df327a721bd4bbc9706d18af48ea19b.xml#id-5df327a721bd4bbc9706d18af48ea19b"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-e4733e49b5794266a166df8bef3ab23e.xml#id-e4733e49b5794266a166df8bef3ab23e"/>
+</archimate:InfluenceRelationship>

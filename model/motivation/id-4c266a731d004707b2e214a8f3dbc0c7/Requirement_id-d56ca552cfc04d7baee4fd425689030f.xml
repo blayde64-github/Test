@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.6.2 Asset register maintenance and access control"
+    id="id-d56ca552cfc04d7baee4fd425689030f"
+    documentation="Asset registers should be kept in a format that is easy to maintain and access">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

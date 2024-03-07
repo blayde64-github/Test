@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utilizes"
+    id="id-810a555fe596427eac39596a0c6fd71b"
+    documentation="The Security Architecture Review Guide is an essential document for educating resources in the how and why of the Security Architecture Review Process.">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-6750e39f47fc401096fa524477532109.xml#id-6750e39f47fc401096fa524477532109"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3876117947e04d698e79dc0ee12c9937.xml#id-3876117947e04d698e79dc0ee12c9937"/>
+</archimate:AssociationRelationship>

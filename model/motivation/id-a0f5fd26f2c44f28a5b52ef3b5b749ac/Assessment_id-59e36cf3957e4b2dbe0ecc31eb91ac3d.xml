@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blacklisted IP addresses are injected as whitelisted"
+    id="id-59e36cf3957e4b2dbe0ecc31eb91ac3d"
+    documentation="CleanPipe system could be used to inject bad actor IP addresses as whitelisted address to Tietoevry routers. This would allow by-passing the security control&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

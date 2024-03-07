@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-edc20187fbe44a03a0d3004939ed1904"
+    documentation="The Daily User list is transferred to AARM2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b9f254e12a7345b49757653e41ab0cc0.xml#id-b9f254e12a7345b49757653e41ab0cc0"/>
+  <target
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-028e295ab6644e0e8299829d0a795a72.xml#id-028e295ab6644e0e8299829d0a795a72"/>
+</archimate:FlowRelationship>

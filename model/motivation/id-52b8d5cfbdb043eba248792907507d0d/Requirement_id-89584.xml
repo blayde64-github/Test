@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tightly define architecture scopes"
+    id="id-89584"
+    documentation="Architecture design must be clearly scoped. Other architects in other teams are responsible for their own service architecture, and TEMA does not have responsibility to review it. However, the interfaces between the TEMA design and the designs of the services must be designed, and it must be shown which services or components meet the requirements that the TEMA architecture places on them."/>

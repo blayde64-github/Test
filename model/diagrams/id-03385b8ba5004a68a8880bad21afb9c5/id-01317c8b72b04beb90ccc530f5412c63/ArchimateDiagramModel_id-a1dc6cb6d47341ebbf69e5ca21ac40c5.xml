@@ -1,0 +1,265 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mikaela Kemppi's role Split"
+    id="id-a1dc6cb6d47341ebbf69e5ca21ac40c5"
+    documentation="This is the current understanding of the roles assigned to Mikaela Kemppi.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-67d1fd08bebf4fbca258f752df4834db"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-999bfa0299e64a69ad00f959ec2f0ede"
+        source="id-67d1fd08bebf4fbca258f752df4834db"
+        target="id-c52bd7f595544e46acf7579e40f894d3">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-338746956f9f4635ab02004afe02f04c.xml#id-338746956f9f4635ab02004afe02f04c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-87ee286392054cba998369b99ae05df9"
+        source="id-67d1fd08bebf4fbca258f752df4834db"
+        target="id-d3aed20472344f60bc733941c9b0f617">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-434e5a2270864d2fa81185a418ef74eb.xml#id-434e5a2270864d2fa81185a418ef74eb"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7d85f9a9efa2429893572e6c2a6553e1"
+        source="id-67d1fd08bebf4fbca258f752df4834db"
+        target="id-7116adf8ed7b4542864e3266119a9e3e">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-99a225aceb714b7fa057acaab977ab24.xml#id-99a225aceb714b7fa057acaab977ab24"/>
+    </sourceConnections>
+    <bounds
+        x="10"
+        y="239"
+        width="606"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-f1d173689df1449b96b8b7e993aa5142.xml#id-f1d173689df1449b96b8b7e993aa5142"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c52bd7f595544e46acf7579e40f894d3"
+      targetConnections="id-999bfa0299e64a69ad00f959ec2f0ede"
+      textPosition="1">
+    <bounds
+        x="228"
+        y="120"
+        width="170"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-ff5204c6773b411f82a6a0815be4acf7.xml#id-ff5204c6773b411f82a6a0815be4acf7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d3aed20472344f60bc733941c9b0f617"
+      targetConnections="id-87ee286392054cba998369b99ae05df9"
+      textPosition="1">
+    <bounds
+        x="10"
+        y="120"
+        width="170"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-52b6472232234118810d30c0ad00d1fc.xml#id-52b6472232234118810d30c0ad00d1fc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7116adf8ed7b4542864e3266119a9e3e"
+      targetConnections="id-7d85f9a9efa2429893572e6c2a6553e1"
+      textPosition="1">
+    <bounds
+        x="446"
+        y="120"
+        width="170"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-d00f6db2a1914f04b641d457074b48b6.xml#id-d00f6db2a1914f04b641d457074b48b6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d4b3cbc6da2b4f9c9208fa685e9e9093"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="10"
+        y="10"
+        width="619"
+        height="91"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-749db11198b74b05ac2328489b23756e"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Mikaela Kemppi's role Split"
+      borderType="2">
+    <bounds
+        x="100"
+        y="16"
+        width="517"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-09114c3b0ecb4862bab0634c6279f0e8"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="100"
+        y="46"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-42bb66fecd92469dbe48d0c8394bc65e"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2024-01-07"
+      borderType="2">
+    <bounds
+        x="172"
+        y="46"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b1e0316824e14a0abb3e74d90d06f8a5"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="490"
+        y="70"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-00ea660d0a744e3794d0ff93458d6dfd"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      fillColor="#bffcc6"
+      content="Architect Approved"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="22"
+        y="22"
+        width="67"
+        height="67"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2f5d6ad8eeab471dbd2ab73bc2553171"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="238"
+        y="46"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d91b56eb8c26482b92ec80eadc5e3c3a"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#df80ff"
+      textAlignment="1"
+      content="Proposal for Mikaela Kemppi (Head of S&amp;C) on 2024-01-07"
+      borderType="2">
+    <bounds
+        x="100"
+        y="67"
+        width="391"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$STAKEHOLDER"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Owen Richardson"/>
+  <properties
+      key="View Status"
+      value="Approved"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Status Change Date"
+      value="2023-06-29"/>
+  <properties
+      key="View Date"
+      value="2024-01-07"/>
+  <properties
+      key="Stakeholder"
+      value="Mikaela Kemppi (Head of S&amp;C)"/>
+  <properties
+      key="Stakeholder Status"
+      value="Proposal"/>
+  <properties
+      key="Stakeholder Date"
+      value="2024-01-07"/>
+</archimate:ArchimateDiagramModel>

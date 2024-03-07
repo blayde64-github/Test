@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR.1.3.3: A standardised list of threats relevant to the organisation should be maintained and organised into categories such as adversarial (e.g. nation state, organised criminal groups or terrorist groups), accidental (e.g. inexperienced employees, customers or vendors) or environmental (e.g. earthquakes, fires or floods)."
+    id="id-0d3c4719ad5c47d58dd18f1c04cbb9e2"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="IR.1.3.3"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

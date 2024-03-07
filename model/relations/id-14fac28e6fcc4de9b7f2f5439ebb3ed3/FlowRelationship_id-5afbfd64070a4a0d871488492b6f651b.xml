@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5afbfd64070a4a0d871488492b6f651b"
+    documentation="A summary of the form responses and link to the SharePoint list item is posted.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79a5f8daa42540fc973fcfdf602c33da.xml#id-79a5f8daa42540fc973fcfdf602c33da"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e396f6b60c7d4e15988ebc7e2890d2ff.xml#id-e396f6b60c7d4e15988ebc7e2890d2ff"/>
+</archimate:FlowRelationship>

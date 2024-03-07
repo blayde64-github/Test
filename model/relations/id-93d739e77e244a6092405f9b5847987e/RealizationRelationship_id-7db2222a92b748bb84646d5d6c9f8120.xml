@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7db2222a92b748bb84646d5d6c9f8120"
+    documentation="This service defines the formal security architecture review process and demonstrates how it meets the security architecture principles. ">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-d8ec3875f8f843cab69f2b2184c033ef.xml#id-d8ec3875f8f843cab69f2b2184c033ef"/>
+</archimate:RealizationRelationship>

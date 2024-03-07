@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d3e22011dee341d1bc6718088a01483d"
+    documentation="As one of two people in the team with the knowledge of editing and creating Apps in Power Apps, the head of EA needs a Premium license to make changes to the Power App used in the SAR design.&#xD;&#xA;&#xD;&#xA;In rare cases, the head of ESA may also perform a SAR2 review.">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-474f0d3814314c9eb8c834d12e643ec7.xml#id-474f0d3814314c9eb8c834d12e643ec7"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-005f2fa6920340b1a86ba23891931982.xml#id-005f2fa6920340b1a86ba23891931982"/>
+</archimate:AssociationRelationship>

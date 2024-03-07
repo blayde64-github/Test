@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-58fa0cbb2ffe41d6a2d9f853616ad586"
+    documentation="The Security Architecture Review Guide has every question documented, as well as the criteria assessing them as complete and is very useful for understanding each question and how we assess it.">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3876117947e04d698e79dc0ee12c9937.xml#id-3876117947e04d698e79dc0ee12c9937"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8f961ef4e6c342c9802825bce8f4b511.xml#id-8f961ef4e6c342c9802825bce8f4b511"/>
+</archimate:AssociationRelationship>

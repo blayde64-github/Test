@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9ffe1dfb4a0a4313b8f0be76ffac00ef"
+    documentation="SAR1 is completely automated end to end. It allows self assessment and requires no resources to operate it, beyond the weekly QA checks.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3934ea64f9284c7d9fa50b9a44a712d9.xml#id-3934ea64f9284c7d9fa50b9a44a712d9"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bcd54abb53b642daa2a4257f0eb5ee79.xml#id-bcd54abb53b642daa2a4257f0eb5ee79"/>
+</archimate:RealizationRelationship>

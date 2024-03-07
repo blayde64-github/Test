@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mail Too Complicated"
+    id="id-0900294250fe4a209a5f3fb0d1fff6b3">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-959f1a84b20245c79c5a8aefd18cb4fc.xml#id-959f1a84b20245c79c5a8aefd18cb4fc"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-00781bfc5d2440c1a58a29e14f5db6b0.xml#id-00781bfc5d2440c1a58a29e14f5db6b0"/>
+</archimate:TriggeringRelationship>

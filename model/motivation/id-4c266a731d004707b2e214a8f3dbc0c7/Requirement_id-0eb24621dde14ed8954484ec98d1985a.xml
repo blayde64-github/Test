@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.34.2 Authorization checking control"
+    id="id-0eb24621dde14ed8954484ec98d1985a"
+    documentation="Authorizations should be checked to confirm access privileges are appropriate">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

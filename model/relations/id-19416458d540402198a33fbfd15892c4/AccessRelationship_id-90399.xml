@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Updating standard users"
+    id="id-90399">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-90365.xml#id-90365"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-90251.xml#id-90251"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-599711ecfcf841be950f5c1dc3be0cc9"
+    documentation="Formal architecture methodology is seen as boring and unnecessary. ">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-7ca36462a5874370a57575d0523ca566.xml#id-7ca36462a5874370a57575d0523ca566"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-4de56992c16d40fcbab6fdfcf3e58edd.xml#id-4de56992c16d40fcbab6fdfcf3e58edd"/>
+</archimate:TriggeringRelationship>

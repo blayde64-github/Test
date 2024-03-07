@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.62.1 Data leakage prevention control"
+    id="id-3acbce39d1dc4e13a36b7dac5093df59"
+    documentation="A DLP program should be established and applied to devices, systems and networks that process, store and transmit sensitive information (e.g. market strategies, payment card information, personal health information, source code, product designs and employee data).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

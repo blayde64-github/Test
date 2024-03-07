@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a60b709012e04fe2b9baaf82577556ef"
+    documentation="The script creates the file. ">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e68bdf432c0b493592841608e06e2571.xml#id-e68bdf432c0b493592841608e06e2571"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c4404b35371e42b8b71bfe19403aac17.xml#id-c4404b35371e42b8b71bfe19403aac17"/>
+</archimate:AccessRelationship>

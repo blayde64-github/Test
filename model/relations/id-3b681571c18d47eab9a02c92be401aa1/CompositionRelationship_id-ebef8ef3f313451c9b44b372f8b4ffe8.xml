@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ebef8ef3f313451c9b44b372f8b4ffe8"
+    documentation="This is not a service or offering according to Tietoevry offerings vocabulary. It is an internal service which is not customer facing.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-98901c765ab7443d971ffd2bdc0a756e.xml#id-98901c765ab7443d971ffd2bdc0a756e"/>
+</archimate:CompositionRelationship>

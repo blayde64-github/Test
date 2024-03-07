@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAR Users are warned with text in red about the review information's sensitive nature"
+    id="id-fc9cf2fb775e487f955e1521c73d72ff"
+    documentation="It's easy to forget how sensitive the SAR results actually are. We therefore need to remind the SAR Users as much as is feasible.&#xD;&#xA;The text is made red to increase the chance of catching the user's attention.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

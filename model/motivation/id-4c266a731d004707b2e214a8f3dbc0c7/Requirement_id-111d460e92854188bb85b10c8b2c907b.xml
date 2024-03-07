@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.76.1 Physical protection of critical facilities control"
+    id="id-111d460e92854188bb85b10c8b2c907b"
+    documentation="There should be documented standards/procedures for the physical protection of critical facilities (including locations that house critical technical infrastructure, industrial control systems and specialised equipment) throughout the organisation.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

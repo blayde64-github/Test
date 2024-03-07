@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Temporary Folder On Local Device"
+    id="id-2f2e9267f6654d378016a25161440df9">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5095e90aa6e040008342662832912dee.xml#id-5095e90aa6e040008342662832912dee"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-dff5021cfbcf4bd5b59691c014d8f735.xml#id-dff5021cfbcf4bd5b59691c014d8f735"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-091fc74edc794210ab319056c1d5d4aa"
+    documentation="Please see SAR Roles for details on who the developers are.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-2fec65758f4e473cb835c8fc7bb758f1.xml#id-2fec65758f4e473cb835c8fc7bb758f1"/>
+</archimate:RealizationRelationship>

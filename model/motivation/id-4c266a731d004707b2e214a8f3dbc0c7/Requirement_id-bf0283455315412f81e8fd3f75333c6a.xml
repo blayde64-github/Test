@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.59.2 Malware systems installation control"
+    id="id-bf0283455315412f81e8fd3f75333c6a"
+    documentation="Malware protection software should be installed on systems that are exposed to malware (e.g. those that are connected to networks or the internet, support the use of portable storage devices or are accessed by external suppliers), including:">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

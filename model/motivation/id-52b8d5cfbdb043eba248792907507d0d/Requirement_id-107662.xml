@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triage must be performed to analyse all alerts to determine alert validity"
+    id="id-107662"
+    documentation="to quickly determine whether the alert is a false positive (i.e. legitimate activity erroneously identified as suspicious) or true positive (i.e. a valid event of interest that merits further analysis)"/>

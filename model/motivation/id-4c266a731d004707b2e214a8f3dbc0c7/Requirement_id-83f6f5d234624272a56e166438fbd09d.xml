@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.3 Firewal filter control"
+    id="id-83f6f5d234624272a56e166438fbd09d"
+    documentation="Firewalls should filter network traffic based on:&#xA;ource and destination addresses (e.g. IP addresses) and ports (e.g. TCP ports)&#xA;    information about the state of associ-ated communications (e.g. saving the outgoing port command of an FTP session so that an associated, incom-ing FTP communication can be checked against it)&#xA;    information about the state of users (e.g. permitting access to users only where they have been authenticated in a previous communication)&#xA;    the validity of a network service (e.g. by using an application proxy fire-wall).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

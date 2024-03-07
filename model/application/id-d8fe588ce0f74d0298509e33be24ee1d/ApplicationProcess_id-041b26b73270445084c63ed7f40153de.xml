@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deprovision All Associated Accounts"
+    id="id-041b26b73270445084c63ed7f40153de"
+    documentation="AARM service removes all roles, deletes all AD accounts and sets the account in permanently disabled state (status “Outstanding”)"/>

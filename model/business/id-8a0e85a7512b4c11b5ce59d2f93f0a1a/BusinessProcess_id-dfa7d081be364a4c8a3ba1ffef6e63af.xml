@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Has the question not been addressed"
+    id="id-dfa7d081be364a4c8a3ba1ffef6e63af"
+    documentation="Has the question been answered no, and nothing done? If so, the question gets a point anyway. This helps in systems that are presenting scores for architectures using dashboards. We need to be able to distinguish between not answering the question as part of a review and not having any information as the response to the question."/>

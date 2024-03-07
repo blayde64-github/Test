@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.15.5 Workstation confidentiality control"
+    id="id-6130eea1887845408df3f91c6927e307"
+    documentation="Workstation computers should protect the confidentiality of information stored on them using full disk encryption to safeguard (by default) all data stored on internal hard disk drives">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

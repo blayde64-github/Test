@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.66.2 Business criticality control"
+    id="id-d8c595df61ae4e11a8707dd4cffc50ad"
+    documentation="The importance of business applications, systems, equipment and devices should be determined to help evaluate the criticality of identified technical vulnerabilities and define timescales/priorities for remediating them.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

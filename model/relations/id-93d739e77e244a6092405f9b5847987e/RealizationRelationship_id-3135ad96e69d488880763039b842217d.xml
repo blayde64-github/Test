@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3135ad96e69d488880763039b842217d"
+    documentation="Provides the ability to do in depth architecture review, which validates the required basics of architecture design as well having aligned risk and security design layered on top of it.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b734b6d56cd74154989aa6805b1481a6.xml#id-b734b6d56cd74154989aa6805b1481a6"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-cdbda1a6ddb4409c9e40394079ad2369.xml#id-cdbda1a6ddb4409c9e40394079ad2369"/>
+</archimate:RealizationRelationship>

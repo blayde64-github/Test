@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.44.5 Network storage access restritiction control"
+    id="id-42177a7b40df4f77b8d05797108d631e"
+    documentation="Restrict access to particular areas of storage (e.g. by implementing zoning which allocates logical partitions on disks to particular servers, or by masking which restricts access to areas of hard disk drives to authorized servers) to prevent unauthorized or unauthenticated access">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

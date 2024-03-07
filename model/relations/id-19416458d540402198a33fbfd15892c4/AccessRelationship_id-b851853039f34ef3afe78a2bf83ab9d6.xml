@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utilized By"
+    id="id-b851853039f34ef3afe78a2bf83ab9d6"
+    documentation="This is the standard language for modelling, that our modelling tool &quot;Archi&quot; supports."
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-8a3d55f7ce66474d9d73b151f176ba92.xml#id-8a3d55f7ce66474d9d73b151f176ba92"/>
+</archimate:AccessRelationship>

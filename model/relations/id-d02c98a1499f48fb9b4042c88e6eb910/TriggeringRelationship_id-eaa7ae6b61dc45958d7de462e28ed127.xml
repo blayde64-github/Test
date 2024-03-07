@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-eaa7ae6b61dc45958d7de462e28ed127"
+    documentation="When the form is submitted it automatically triggers the power automate flow.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14cfcd74abe44c058eae1ad045eca6a9.xml#id-14cfcd74abe44c058eae1ad045eca6a9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79a5f8daa42540fc973fcfdf602c33da.xml#id-79a5f8daa42540fc973fcfdf602c33da"/>
+</archimate:TriggeringRelationship>

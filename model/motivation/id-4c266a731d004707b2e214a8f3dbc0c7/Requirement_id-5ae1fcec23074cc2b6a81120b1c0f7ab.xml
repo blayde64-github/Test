@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.57.4 Cloud service monitoring control"
+    id="id-5ae1fcec23074cc2b6a81120b1c0f7ab"
+    documentation="Regular monitoring should be performed to ensure the ongoing secure use of cloud services , which includes:&#xA;    managing vulnerabilities by perform-ing vulnerability scanning, conducting regular penetration tests, considering crowdsourced penetration testing and carrying out code reviews&#xA;    extending security event manage-ment into the cloud environment by using a cloud-based security infor-mation and event management (SI-EM) platform, connecting the cloud environment to an on-premises SIEM and/or leveraging a managed security service provider (MSSP)&#xA;    integrating the use of cloud services into an appropriate security incident management process through creat-ing a cloud security incident man-agement capability, establishing a cloud security incident management process and developing cloud ser-vice-specific security incident man-agement plans.'">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

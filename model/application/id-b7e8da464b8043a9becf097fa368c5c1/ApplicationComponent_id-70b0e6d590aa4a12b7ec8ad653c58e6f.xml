@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HashiCorp Vault"
+    id="id-70b0e6d590aa4a12b7ec8ad653c58e6f"
+    documentation="&#xA;Lukas Raska: HashiCorp Vault (https://www.vaultproject.io/ ) internally - it's being used by the TEA (Tietoevry Enterprise Automation), so we have separate vault there for our internals as well (for example certificates, etc.). &#xA;"/>

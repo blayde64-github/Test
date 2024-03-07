@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pipeline for deploying Tietoevry Connect management services"
+    id="id-82711"
+    documentation="Allows Tietoevry Connect organization units to built a blueprint for their solutions and then use those to deploy on top of the Foundation Platform.&#xA;&#xA;- Within the process, a blueprint for the management environment will be build &#xA;- Blueprint can then be used to deploy the management environment on top of any TEMA instance&#xA;- Build once, deploy many will increase the quality and speed up the delivery for example due in-country requirements"/>

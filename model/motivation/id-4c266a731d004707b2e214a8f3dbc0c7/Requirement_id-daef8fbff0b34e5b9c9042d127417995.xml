@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.39.3 Customer contract information security control"
+    id="id-daef8fbff0b34e5b9c9042d127417995"
+    documentation="Customer contracts should cover information security activities to be performed by the organisation">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

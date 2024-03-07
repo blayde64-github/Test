@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback loop is stopped"
+    id="id-0163694021454f4ca5ba84a827186c95"
+    documentation="The core impact of the permission issues in Power Automate flows is the interruption of the feedback mechanism essential for architects. While leadership continues to receive review results through unaffected Power BI reports, architects are deprived of crucial feedback due to the failure in automated notification or communication processes. This disruption stems from permission inconsistencies and administrative changes in Power Automate flows, which prevent the successful execution of workflows necessary for providing feedback to architects. The absence of timely and accurate feedback hinders architects from acting on the review results, potentially leading to delays in project improvements, missed opportunities for optimization, and an overall decrease in the efficiency of the architectural review process.">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-072f6d667ede4cf79e0e51d02f1647b6"
+    documentation="We cannot directly fix the architecture practice because we do not have control of it.&#xD;&#xA;&#xD;&#xA;We have however taken some steps. The need for mandatory security architecture review has been included in the architecture principles which are published by the EA Team.&#xD;&#xA;&#xD;&#xA;Though the reporting of the security architecture review control to leadership we are intending to provide visibility into this vulnerability  with the metrics we put in place."
+    strength="-">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-801eae4cd7ff4d74ba5e626efe841e88.xml#id-801eae4cd7ff4d74ba5e626efe841e88"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-269887726dc5478892bb8c323e28f1e5.xml#id-269887726dc5478892bb8c323e28f1e5"/>
+</archimate:InfluenceRelationship>

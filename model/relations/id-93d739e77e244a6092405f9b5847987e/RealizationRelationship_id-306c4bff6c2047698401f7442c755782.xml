@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accountable"
+    id="id-306c4bff6c2047698401f7442c755782">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b92124e5ed8f42b1b80c8b9ceaabd379.xml#id-b92124e5ed8f42b1b80c8b9ceaabd379"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-abd148ed5bd14d3f88aa8307370cee67.xml#id-abd148ed5bd14d3f88aa8307370cee67"/>
+</archimate:RealizationRelationship>

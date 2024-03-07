@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-112284"
+    documentation="Minimum possible number of controls addresses customer centricity by making the baseline easier to implement for internal customers.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-112152.xml#id-112152"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89592.xml#id-89592"/>
+</archimate:RealizationRelationship>

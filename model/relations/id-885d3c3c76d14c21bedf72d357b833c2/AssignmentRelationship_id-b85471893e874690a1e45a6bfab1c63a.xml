@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b85471893e874690a1e45a6bfab1c63a"
+    documentation="Product owners or managers are attestors of their products">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-7eb524a63e214d57a9f4ea66690d686e.xml#id-7eb524a63e214d57a9f4ea66690d686e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-79456ed181e74aedbbecd03d4a1812a5.xml#id-79456ed181e74aedbbecd03d4a1812a5"/>
+</archimate:AssignmentRelationship>

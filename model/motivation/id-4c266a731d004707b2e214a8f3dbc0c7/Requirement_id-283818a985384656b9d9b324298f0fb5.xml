@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.24.4 System Design Security Controls Analysis Control"
+    id="id-283818a985384656b9d9b324298f0fb5"
+    documentation="System design should include analysis of the full range of security controls required to protect information and systems against identified threat events (e.g. policies, methods, procedures, devices or programmed mechanisms)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

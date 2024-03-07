@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visual Studio Code Website"
+    id="id-bbc6001682974c7f8ae676c59580bdfe"
+    documentation="This is the official website for Visual Studio Code (VS Code), where you can find information about the editor, its features, and the latest versions available for download. It's a resource for both newcomers and experienced users looking to explore what VS Code has to offer, including documentation and a marketplace for extensions.">
+  <properties
+      key="URL"
+      value="https://code.visualstudio.com/"/>
+</archimate:ApplicationComponent>

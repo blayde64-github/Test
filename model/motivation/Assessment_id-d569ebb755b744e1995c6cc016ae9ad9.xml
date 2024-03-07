@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Time for crisis resolution"
+    id="id-d569ebb755b744e1995c6cc016ae9ad9"
+    documentation="Tracks the total duration from the moment a Crisis is identified to when it is considered resolved. It encompasses the entire lifecycle of the crisis management process, including gaining approval for actions, making critical decisions, and allowing investigators to react quickly.&#xD;&#xA;&#xD;&#xA;A Crisis is logged in Everbridge and lives on separately from a Major Incident.&#xD;&#xA;&#xD;&#xA;Start and End is stored in Everbridge.&#xD;&#xA;&#xD;&#xA;Decided not to go forward with this Metric: Would involve manual processes, considered to be not feasible.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

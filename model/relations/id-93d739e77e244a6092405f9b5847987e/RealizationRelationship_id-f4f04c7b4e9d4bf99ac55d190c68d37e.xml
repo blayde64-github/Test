@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f4f04c7b4e9d4bf99ac55d190c68d37e"
+    documentation="The only way SAR2 Users can send data is via the form. There is no direct access to the SharePoint list. ">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-585397457d334e0ab6aa8d32bcb27678.xml#id-585397457d334e0ab6aa8d32bcb27678"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-76e6d031187e4ea8908d2f436b9df0fa.xml#id-76e6d031187e4ea8908d2f436b9df0fa"/>
+</archimate:RealizationRelationship>

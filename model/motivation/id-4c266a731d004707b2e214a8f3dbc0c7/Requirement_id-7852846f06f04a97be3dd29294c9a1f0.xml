@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.29.1 System acceptance control"
+    id="id-7852846f06f04a97be3dd29294c9a1f0"
+    documentation="Rigorous and documented acceptance criteria should be met before new systems are promoted into the live environment.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

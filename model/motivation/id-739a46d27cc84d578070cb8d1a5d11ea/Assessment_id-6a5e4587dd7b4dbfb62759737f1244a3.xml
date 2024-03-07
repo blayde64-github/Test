@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of controls whose design has been approved by ESA"
+    id="id-6a5e4587dd7b4dbfb62759737f1244a3"
+    documentation="The &quot;Number of Controls Whose Design has been Approved by ESA&quot; metric measures the count of security controls within our system or infrastructure whose designs have received formal approval from the Enterprise Security Architecture (ESA) Team. This metric focuses on the endorsement and validation of control designs by the ESA Team, indicating that the designs align with the organization's established security architecture standards and guidelines. By tracking this metric, we can assess the level of alignment and compliance of our security controls with the ESA's recommendations and requirements. It ensures that the control designs have undergone a thorough review process and have been deemed suitable and effective for implementation. This metric demonstrates the ESA Team's role in providing assurance and confidence in the design and implementation of our security controls.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

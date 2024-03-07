@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.6.1 Asset management procedures control"
+    id="id-18cbe2b4f5e14ea2a661e075372739ff"
+    documentation="There should be documented standards/procedures for asset management including specified important business and operational details e.g. Owner, Business purpose, key stakeholders, physical location, compliance requirements etc.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

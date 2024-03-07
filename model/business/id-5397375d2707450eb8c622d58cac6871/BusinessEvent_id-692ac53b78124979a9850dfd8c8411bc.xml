@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk and vulnerabilties are not properly addressed leading to financial penalties from non-compliance with data protection regulations, reputational damage resulting in loss of customer trust, and potential competitive disadvantage"
+    id="id-692ac53b78124979a9850dfd8c8411bc"
+    documentation="&#xD;&#xA;Architects who lack knowledge in security architecture, or avoidance of doing security architecture can inadvertently introduce numerous vulnerabilities into an organization's systems and networks, potentially resulting in significant damage. Without a comprehensive understanding of security principles, architects may fail to adequately design systems that can resist or cope with attacks, leading to increased risk of breaches. These vulnerabilities can be exploited by malicious entities, potentially leading to unauthorized access, data theft, service disruptions, and system compromises.&#xD;&#xA;&#xD;&#xA;The potential damage from these breaches goes beyond the immediate loss or corruption of data. It can also include financial penalties from non-compliance with data protection regulations, reputational damage resulting in loss of customer trust, and potential competitive disadvantage if sensitive business information is compromised. Furthermore, the costs of remediation after a breach are often substantial, encompassing both the technical work to secure the system and the broader work to rebuild reputation and trust.">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

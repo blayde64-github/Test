@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.78.4 Critical business application protection control"
+    id="id-2a924003119842ca9d6f3e5318b5391c"
+    documentation="Critical business applications and underlying technical infrastructure should be protected against targeted cyber attacks (e.g. denial of service attacks, hacking or targeted malware) that may disrupt business processes">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

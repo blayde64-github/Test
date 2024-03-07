@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Defense In Depth"
+    id="id-89674"
+    documentation="Statement: Defense in depth should be a key architecture and design principle.&#xA;&#xA;Rationale: Multi-layered security controls and practices provide better security posture than single defence layer.&#xA;Implication: In design, do not trust security measurements from preceding functions. Prepare for the worst possible scenario. Implement multiple defense mechanism. Create a security architecture or design and document the different layers of protection. If one security service fails, the security system should still be resistant against threats. Compartmentalize and work with secure boundaries for information flows."/>

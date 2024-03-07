@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACC010 Software malfunction (externally acquired software)"
+    id="id-223de266bdbf4295a0158780332271e5"
+    documentation="Incorrect execution or failure of software acquired from an external party (e.g. enterprise applications and commercial-off-the-shelf (COTS) software (such as ERP, CRM), office productivity software, communications software and security software).&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;Software malfunctions are typically caused as a result of an application f law, a software bug or equivalent.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

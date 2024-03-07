@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7991d66163a941b8b8975ca4a4290407"
+    documentation="If we don't have the skills and experience, we're going to have a tough time achieving to establish a DigiOps delivery model."
+    strength="---">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-6371ed9935b34c0c85483606b538f76f.xml#id-6371ed9935b34c0c85483606b538f76f"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-de41709ff088458587dc75d603dd5273.xml#id-de41709ff088458587dc75d603dd5273"/>
+</archimate:InfluenceRelationship>

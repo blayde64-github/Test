@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.13 Security experts SPOC control"
+    id="id-ff9e8482c78d424580d4e2a8b91ead1a"
+    documentation="Provide experts for continuous assessments of established security controls and provide designated security expert as SPOC (Single Point of Contact) to customer Security Responsible">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

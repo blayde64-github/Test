@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.41.8 Security domain level architecture design control"
+    id="id-b4b42f22a4724bc2a3c4b780c39fe6a8"
+    documentation="Networks should be designed to segregate information systems with specific security requirements or different levels of trust (e.g. employee-owned devices and devices used by consultants, contractors and employees of external parties)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

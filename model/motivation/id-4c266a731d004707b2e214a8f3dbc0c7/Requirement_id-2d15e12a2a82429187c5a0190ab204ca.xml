@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.83.1 Security testing control"
+    id="id-2d15e12a2a82429187c5a0190ab204ca"
+    documentation="Rigorous security testing should be performed regularly on target environments (e.g. critical business processes, projects and supporting assets), including both live systems and systems under development.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.41.4 Capacity management control"
+    id="id-f1afee84bf62496c8d65732aed7aeb32"
+    documentation="Information system, equipment (e.g. storage systems, network routers and switches) should have:&#xA;    sufficient capacity to cope with peak workloads&#xA;    expansion/upgrade capabilities to cope with projected demand&#xA;    a control and monitoring facility capa-ble of providing management reports.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

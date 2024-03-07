@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5de00f4d88364308b42b05e6839e71cd"
+    documentation="Inconsistent application of Control leads to deviations">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-cecc9f796a734ed686de0481acf5beb3.xml#id-cecc9f796a734ed686de0481acf5beb3"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-2a9bab4fbe29443098aad42435de5a17.xml#id-2a9bab4fbe29443098aad42435de5a17"/>
+</archimate:InfluenceRelationship>

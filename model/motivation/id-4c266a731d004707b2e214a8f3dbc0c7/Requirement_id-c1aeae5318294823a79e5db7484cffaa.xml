@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.66.4 Vulnerability triage control"
+    id="id-c1aeae5318294823a79e5db7484cffaa"
+    documentation="Where technical solutions are not possible (e.g. a patch is not available), consideration should be given to:&#xA;    turning off vulnerable services or ca-pabilities&#xA;    enhancing access controls&#xA;    increasing activities to detect related security events&#xA;    alerting individuals to risks.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

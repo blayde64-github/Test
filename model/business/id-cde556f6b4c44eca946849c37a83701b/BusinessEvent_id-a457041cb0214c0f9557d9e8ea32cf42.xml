@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV006 Exploit insecure disposal of an organisation’s information assets"
+    id="id-a457041cb0214c0f9557d9e8ea32cf42"
+    documentation="The threat obtains organisational information assets due to insecure disposal.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;This threat event could include exploiting:&#xD;&#xA;ԉ      insecure or incomplete data deletion in the target environment, or an environment supporting the target environment (e.g. development or testing environments)&#xD;&#xA;ԉ      insecure disposal of information assets related to the environment, such as mobile devices, portable storage devices and office equipment.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

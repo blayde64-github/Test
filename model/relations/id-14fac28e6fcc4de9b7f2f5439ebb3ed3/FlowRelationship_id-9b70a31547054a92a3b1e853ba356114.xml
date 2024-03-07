@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ftps"
+    id="id-9b70a31547054a92a3b1e853ba356114">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-39d2eefb06604d17a89bf56a08638c40.xml#id-39d2eefb06604d17a89bf56a08638c40"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a96433e7d35a496595120adbb7ccd27b.xml#id-a96433e7d35a496595120adbb7ccd27b"/>
+</archimate:FlowRelationship>

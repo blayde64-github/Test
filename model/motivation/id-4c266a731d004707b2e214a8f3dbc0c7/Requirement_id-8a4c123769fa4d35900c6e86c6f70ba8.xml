@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.27.3 Security in software development control"
+    id="id-8a4c123769fa4d35900c6e86c6f70ba8"
+    documentation="When building systems:&#xA;a) developers should use approved secure programming techniques, such as pair programming, refactoring, peer review, security iterations, and test-driven development&#xA;b) developers should comply with good coding practice (e.g. using structured programming techniques, secure coding practices specific to the programming languages being used, documenting code and removing programming defects, which may allow security vulnerabilities to be exploited)&#xA;c) the use of insecure design techniques should be prohibited (e.g. the use of hard-coded passwords, unapproved code samples and unauthenticated web services)&#xA;d) development tools, such as Integrated Development Environments (IDE), should be configured to help enforce the creation of secure code&#xA;e) ensure that sections of code incorporated into the application, including third party components, are maintainable, tracked and originate from proven, reputable sources&#xA;f) protect application source code from unauthorised access and tampering (e.g. by using configuration management tools, which typically provide features such as access control and version control)&#xA;g) use automated tools to ensure adherence to coding standards.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

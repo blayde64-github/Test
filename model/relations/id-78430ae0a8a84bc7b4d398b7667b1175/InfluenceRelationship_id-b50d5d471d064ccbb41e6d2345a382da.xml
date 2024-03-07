@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b50d5d471d064ccbb41e6d2345a382da"
+    documentation="Aki wants deviations to be reported on"
+    strength="+++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-5df327a721bd4bbc9706d18af48ea19b.xml#id-5df327a721bd4bbc9706d18af48ea19b"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-3cf0ade3f51a4fbcb37d9bf466dbfff5.xml#id-3cf0ade3f51a4fbcb37d9bf466dbfff5"/>
+</archimate:InfluenceRelationship>

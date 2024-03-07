@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d05c4981b9f6400eb285fe79aaf6f0cd"
+    documentation="The semantic model is updated with changes from its data sources and read from when a user accesses the report in the Power BI portal."
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-476d3112b84045259f336f4625129542.xml#id-476d3112b84045259f336f4625129542"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-be8ac4e46c8444c0bb7bf99aba872f09.xml#id-be8ac4e46c8444c0bb7bf99aba872f09"/>
+</archimate:AccessRelationship>

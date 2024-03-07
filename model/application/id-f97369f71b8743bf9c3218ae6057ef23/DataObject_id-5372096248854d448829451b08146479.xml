@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Framework"
+    id="id-5372096248854d448829451b08146479"
+    documentation="A view with links to other views only&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Principles (Header)&#xD;&#xA;Tech Services Architecture Principles&#xD;&#xA;Tech Services Security Principles&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Security Baseline (V2) (Header)&#xD;&#xA;Security Control Groups&#xD;&#xA;Security Control Map">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-a056d976b7844f27931f5aacde337498"/>
+</archimate:DataObject>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-eb67d53fe10243e1912e8b37b3b73232"
+    documentation="Fetches the &quot;level&quot; table from the excel file."
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d46b9a40899746dfb367ef90af6f2f7b.xml#id-d46b9a40899746dfb367ef90af6f2f7b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7754c7d970374ac2a52ecbc8a9876720.xml#id-7754c7d970374ac2a52ecbc8a9876720"/>
+</archimate:AccessRelationship>

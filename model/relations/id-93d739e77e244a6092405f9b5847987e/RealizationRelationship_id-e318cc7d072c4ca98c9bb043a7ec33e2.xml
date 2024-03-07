@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e318cc7d072c4ca98c9bb043a7ec33e2"
+    documentation="This should be controlled as part of the underlaying M365 service. ">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-2be03795760842f9821dcbf8c48f36ad.xml#id-2be03795760842f9821dcbf8c48f36ad"/>
+</archimate:RealizationRelationship>

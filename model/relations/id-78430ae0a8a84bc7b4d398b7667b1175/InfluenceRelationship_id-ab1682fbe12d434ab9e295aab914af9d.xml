@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ab1682fbe12d434ab9e295aab914af9d"
+    documentation="Although the architecture practice is inconsistent we can now as a minimum ensure that the way we manage security is consistent.&#xD;&#xA;"
+    strength="--">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-d59092cd78ed4fb78cdb7ab832e7bd0c.xml#id-d59092cd78ed4fb78cdb7ab832e7bd0c"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-269887726dc5478892bb8c323e28f1e5.xml#id-269887726dc5478892bb8c323e28f1e5"/>
+</archimate:InfluenceRelationship>

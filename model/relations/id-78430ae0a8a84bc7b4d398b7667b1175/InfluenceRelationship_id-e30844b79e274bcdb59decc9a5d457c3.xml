@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e30844b79e274bcdb59decc9a5d457c3"
+    documentation="This control has metrics and performance indicators for the system design security review security baseline control."
+    strength="++">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a5a75e58e18043e3821c0ca6b766f482.xml#id-a5a75e58e18043e3821c0ca6b766f482"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-05c66fa0344e46a0879d6ed8df2147c0.xml#id-05c66fa0344e46a0879d6ed8df2147c0"/>
+</archimate:InfluenceRelationship>

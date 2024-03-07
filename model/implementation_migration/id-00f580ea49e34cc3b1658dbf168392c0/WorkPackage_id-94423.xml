@@ -1,0 +1,24 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S&amp;C Security Monitoring Capability development"
+    id="id-94423"
+    documentation="S&amp;C Security Monitoring Capability development&#xA;&#xA;Capabilities&#xA;&#xA;Security Monitoring Services&#xA;- SIEM Platform&#xA;- Endpoint Monitoring&#xA;- Sensitive File Protection&#xA;- SOC Portal&#xA;&#xA;Goals&#xA;&#xA;Enable Common Security Monitoring Services for Tietoevry Connect&#xA;&#xA;This is one of the three sub-goals required to enable common risk, security, and compliance management services for Tietoevry Connect. These services are used to ensure that Tietoevry Connect deliveries are secured, continuously monitored against threat and that our costs are optimized.&#xA;&#xA;Analyze and optimize current state portfolio for the capabilities used&#xA;&#xA;&#xA;Resources:&#xA;&#xA;- Project Manager: Ensures resources are there and making sure project is delivering&#xA;&#xA;- Service Architect: Key role who is driving the overall solution towards the goal&#xA;&#xA;- Security Solutions Architect: Security Solutions architects are required to bring expertise on various applications used in security monitoring area&#xA;&#xA;- Cloud Architect: Securing cloud deliveries is also in scope, therefore extensive knowledge on cloud solutions is required&#xA;&#xA;- Automation Architect: Automation is required in many parts of the solution to ensure for example that processes are automated. &#xA;&#xA;- ServiceNow Architect: Solution will be connected to ServiceNow (risk management etc) thus deep understanding of ServiceNow is required&#xA;&#xA;- Monitoring Architect: Big parts of the security monitoring data could be potentially integrated to our standard monitoring solutions. Therefore, it would make sense to have also deep understanding of our existing monitoring solutions and possibilities&#xA;&#xA;">
+  <properties
+      key="Project Owner"
+      value="Jukka Kuusinen (Head of Security &amp; Compliance Finland)"/>
+  <properties
+      key="Project Manager"
+      value="Pavel Skandera"/>
+  <properties
+      key="Architect"
+      value="Sami Aura"/>
+  <properties
+      key="Start Date"
+      value="2023-01-01"/>
+  <properties
+      key="End Date"
+      value="2023-04-29"/>
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+</archimate:WorkPackage>

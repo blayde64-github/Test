@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.60.3 IAM Methods control"
+    id="id-38bf829b62544b70878cc00d3a667b80"
+    documentation="Identity and access management arrangements should provide a consistent set of methods for:&#xA;    identifying users (e.g. using unique User IDs)&#xA;    authenticating users (e.g. using pass-words/passphrases, tokens or bio-metrics)&#xA;    identifying equipment (e.g. by using MAC-based authentication)&#xA;    applying user sign-on processes&#xA;    authorising user access privileges&#xA;    administering user access privileges.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

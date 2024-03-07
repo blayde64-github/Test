@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM Process must ensure retention of security related event logs"
+    id="id-90478"
+    documentation="Required by security baseline control 4.67.1. retention of security-related event logs (e.g. to meet record retention requirements and support possible forensic investigations)."/>

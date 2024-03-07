@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a1026b2e6a814dccac3c6df1258d82b4"
+    documentation="Within the SAR Solution we only build logical blocks on top of standard technology. Standards such as OWASP are not relevant to us but would have been realized by the underlaying M365 technology, and our standard service provider.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-21b059c96b284e6a8e3dc91ba51c3ee9.xml#id-21b059c96b284e6a8e3dc91ba51c3ee9"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auto-update of status for remediated vulnerabilities"
+    id="id-99694"
+    documentation="As a Security Resource in TEMA I need a automated vulnerability process. where remediation task from vulnerability scans are sent to automation layer and remain there until approval. In other words no auto-updating based on findings."/>

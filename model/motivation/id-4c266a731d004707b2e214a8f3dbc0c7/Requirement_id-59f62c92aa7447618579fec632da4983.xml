@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.47.7 Backup retention control"
+    id="id-59f62c92aa7447618579fec632da4983"
+    documentation="Retention and archival of backups should be performed, considering:&#xA;    legal and regulatory requirements governing the backed up data&#xA;    any internal data retention policies.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

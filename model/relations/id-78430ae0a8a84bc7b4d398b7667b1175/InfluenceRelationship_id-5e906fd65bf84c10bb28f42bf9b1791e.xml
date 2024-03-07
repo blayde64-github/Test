@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5e906fd65bf84c10bb28f42bf9b1791e"
+    documentation="Because architects are missing in key areas, it is not possible to ensure any level of consistency in design or communication&#xD;&#xA;&#xD;&#xA;A lot of time is spent in the organization looking for the right person who is responsible for designing, and in many cases other roles such as service managers or technical specialists will try to fill the gap&#xA;Because architects are missing in key areas, it is not possible to ensure any level of consistency in design or communication&#xD;&#xA;&#xD;&#xA;A lot of time is spent in the organization looking for the right person who is responsible for designing, and in many cases other roles such as service managers or technical specialists will try to fill the gap"
+    strength="--">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-413dcd8462c44ce9b30bc86039c03a9a.xml#id-413dcd8462c44ce9b30bc86039c03a9a"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

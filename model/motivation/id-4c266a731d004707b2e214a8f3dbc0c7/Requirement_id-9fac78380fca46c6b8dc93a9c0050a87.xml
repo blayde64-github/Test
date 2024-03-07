@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.53.2 Email size and TLS control"
+    id="id-9fac78380fca46c6b8dc93a9c0050a87"
+    documentation="Email servers should be configured to prevent:&#xA;    the messaging system from being overloaded by limiting the size of messages and user mailboxes, and automatically identifying and cancel-ling email loops&#xA;    the accidental disclosure of email and attachments to unauthorised individ-uals by enforcing encryption between email servers (e.g. using Transport Layer Security (TLS) or equivalent).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

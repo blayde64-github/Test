@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.12.4.2 Protection of log information"
+    id="id-d9bf9277fe1f4a55904398a97e716abe"
+    documentation="Control Logging facilities and log information shall be protected against tampering and unauthorized access.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

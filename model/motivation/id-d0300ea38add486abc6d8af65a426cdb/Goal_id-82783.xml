@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common IAM Services Enabled for Tietoevry Connect"
+    id="id-82783"
+    documentation="Common IAM Services Enabled for Tietoevry Connect&#xA;- Internal Identity &amp; Access Management taking care internal systems and users&#xA;- External Identity &amp; Access Management taking care internal systems and users&#xA;&#xA;These services allow us to onboard external customers to our external IAM solution which allows these identities to be used in for example ServiceNow (and their in-country instances). External IAM covers also the Single-Sign-On / Federation functions which are also used be for example ServiceNow for authenticating users to the system.&#xA;&#xA;Define and deploy Common IAM service which realizes the agreed use-cases covering:&#xA;&#xA;- Identity Management (Internal and External identities)&#xA;- Authentication Services (for example SSO, Federation)&#xA;- Authorization Services (&#xA;- Access Management Services "/>

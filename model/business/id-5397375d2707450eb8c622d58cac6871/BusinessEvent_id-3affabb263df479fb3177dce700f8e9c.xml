@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture review does not happen"
+    id="id-3affabb263df479fb3177dce700f8e9c"
+    documentation="The architecture review not being performed leads to a number of risks, including:&#xD;&#xA;&#xD;&#xA;Potential that the design does not meet its intended purpose&#xD;&#xA;Potential that the resultant work is inefficient&#xD;&#xA;Lack of traceability&#xD;&#xA;Potential security issues and contractual legal violations.&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Translation Needed"
+    id="id-1d1e876794294503ae225c7d2acad679">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-20ed903a50314582ab018b7fb652fdf2.xml#id-20ed903a50314582ab018b7fb652fdf2"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-40f7936938aa4aaeb52f83b1660d2de2.xml#id-40f7936938aa4aaeb52f83b1660d2de2"/>
+</archimate:TriggeringRelationship>

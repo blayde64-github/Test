@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.53.3 Email distribution control"
+    id="id-e9ba4e078ed94036a8aac2a74c96e785"
+    documentation="Email client applications should be configured to prevent the accidental disclosure of email and attachments to unauthorised individuals by:&#xA;    preventing users from configuring the auto-forward feature and using auto-complete in email address fields&#xA;    restricting the use of large distribu-tion lists (e.g. a list containing every individual in the organisation)&#xA;    presenting users with a warning before they are able to use the reply all feature to a large number of recipients.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

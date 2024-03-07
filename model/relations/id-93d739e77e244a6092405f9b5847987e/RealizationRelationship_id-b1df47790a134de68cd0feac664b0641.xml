@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b1df47790a134de68cd0feac664b0641"
+    documentation="Contractually we promise to adhere to a security baseline which is the standards of good practice.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c27b4adf7c7847a18e25cb8fb3559c0c.xml#id-c27b4adf7c7847a18e25cb8fb3559c0c"/>
+</archimate:RealizationRelationship>

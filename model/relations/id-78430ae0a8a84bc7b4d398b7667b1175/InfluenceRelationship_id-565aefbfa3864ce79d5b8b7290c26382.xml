@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-565aefbfa3864ce79d5b8b7290c26382"
+    documentation="Since we have a challenge with our current resource configuration, the outcome must be a bold new talent strategy."
+    strength="+++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-6371ed9935b34c0c85483606b538f76f.xml#id-6371ed9935b34c0c85483606b538f76f"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-492462f1bb5447b49e157ce5d8878655.xml#id-492462f1bb5447b49e157ce5d8878655"/>
+</archimate:InfluenceRelationship>

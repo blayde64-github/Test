@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-317ff0970da14418853157961da97b02"
+    documentation="Security Architecture Review processess are created specifically to meet this requirement.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b734b6d56cd74154989aa6805b1481a6.xml#id-b734b6d56cd74154989aa6805b1481a6"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-d59092cd78ed4fb78cdb7ab832e7bd0c.xml#id-d59092cd78ed4fb78cdb7ab832e7bd0c"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of preventative actions completed"
+    id="id-2698ee43a1e44825a15891c6c497c3d2"
+    documentation="Tracks the number of preventative actions derived from an RCA that have been completed.&#xD;&#xA;&#xD;&#xA;Rationale: &#xD;&#xA;Problem Reports are opened for all MIM's after their resolution.&#xD;&#xA;Multiple Change Requests are an output from the Problems.&#xD;&#xA;&#xD;&#xA;Jiri Paloch: Deemed not feasible. Identified a process to be better suitable: Attach Problem Record Number to Crisis Teams Channel.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a0a4c3caa579418c84c09173798797bc"
+    documentation="Question data is processed by the dashboard to provide the management reporting dashboard for Level 1.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d74a519cd412488f83546b16eed119f1.xml#id-d74a519cd412488f83546b16eed119f1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba90bef328e84f008443093d7fefea69.xml#id-ba90bef328e84f008443093d7fefea69"/>
+</archimate:FlowRelationship>

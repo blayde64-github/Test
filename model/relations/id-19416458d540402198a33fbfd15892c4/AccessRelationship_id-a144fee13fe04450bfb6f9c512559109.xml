@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a144fee13fe04450bfb6f9c512559109"
+    documentation="As part of our day-to-day duties, like all teams the Enterprise Security Architecture Team is expected to provide information as part of monthly reporting.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-38f14175857a4e609437856c930cc453.xml#id-38f14175857a4e609437856c930cc453"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.1 Network Traffic Protection Control"
+    id="id-1641349f38744e329b37bf5f657b2ca8"
+    documentation="Networks should be protected from malicious traffic on other networks or sub-networks (internal or external) by one or more firewalls.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

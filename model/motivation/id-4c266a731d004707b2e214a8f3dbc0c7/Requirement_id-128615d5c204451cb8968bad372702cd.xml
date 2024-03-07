@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.14.2 Hardware logging control"
+    id="id-128615d5c204451cb8968bad372702cd"
+    documentation="Operational details about hardware (e.g. business purpose, owner and physical location) should be recorded in a register (e.g. a corporate asset register that contains details about both hardware and software), together with other relevant information">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

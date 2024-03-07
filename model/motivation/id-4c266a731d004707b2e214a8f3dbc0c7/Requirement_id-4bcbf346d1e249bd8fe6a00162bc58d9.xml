@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.64.2 Cryptographic key disclosure control"
+    id="id-4bcbf346d1e249bd8fe6a00162bc58d9"
+    documentation="A method of handling mandatory cryptographic key disclosure should be established">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

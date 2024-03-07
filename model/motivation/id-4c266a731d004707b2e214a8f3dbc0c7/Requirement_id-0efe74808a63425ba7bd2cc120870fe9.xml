@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.68.7 Security incident reporting control"
+    id="id-0efe74808a63425ba7bd2cc120870fe9"
+    documentation="Confirmed security incidents should be reported to the relevant entities&#xA;a) recommending appropriate response activities to the incident response team for handling the given incident&#xA;and remediating the threat&#xA;b) recording all information about the incident, including corrective actions taken, for a comprehensive post-incident report to both internal stakeholders and external bodies (e.g. regulators, law enforcement or other government agencies)&#xA;c) conducting a review of the entire security event management process before closing the incident, so that any&#xA;lessons learnt can be applied to improve security event management.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

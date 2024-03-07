@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.41.7 Security updates control"
+    id="id-5a0ca33fc1914ff59c1fbab937df8461"
+    documentation="Support the timely application of security updates (e.g. updates to access control lists (ACLs), signatures and firewall rules) to respond to changing threats and vulnerabilities, and attacks when they occur.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

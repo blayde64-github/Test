@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC.1.3.13a: a) determining whether to exit, terminate, renew or renegotiate a contract (e.g. based on whether the impact of any major incident(s) was sufficient to recommend contract exit, or termination, or whether the supplier met contract and evaluation criteria)"
+    id="id-9822bf2db41f42daad10605c8dc98084"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SC.1.3.13a"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

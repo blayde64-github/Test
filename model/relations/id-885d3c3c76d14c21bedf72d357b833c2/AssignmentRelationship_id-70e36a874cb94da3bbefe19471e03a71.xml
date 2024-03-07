@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-70e36a874cb94da3bbefe19471e03a71"
+    documentation="This is the standard role that is assigned to this actor.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3731365f98b940049229507e8e600e60.xml#id-3731365f98b940049229507e8e600e60"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-005f2fa6920340b1a86ba23891931982.xml#id-005f2fa6920340b1a86ba23891931982"/>
+</archimate:AssignmentRelationship>

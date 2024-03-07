@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assesment with credentials or with installed agent."
+    id="id-98850"
+    documentation="As a Security Resources in TEMA and the vulnerability management process require that vulnerability scanning happens with credentials or with installed agent. Agent needs to be auto-updating for new vulnerabilities. Agent needs to communicate directly with internal server without the need of internet. This is to ensure that new threats and vulnerabilities are automatically included in scans and shown in scan reports. "/>

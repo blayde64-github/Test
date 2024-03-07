@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.9.2.2 User access provisioning"
+    id="id-286cb2816d994b30b3f1b25dc7db1d00"
+    documentation="Control A formal user access provisioning process shall be implemented to assign or revoke access rights for all user types to all systems and services.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

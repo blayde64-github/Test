@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update status"
+    id="id-a0cf4904b0b14a1ca8ee9cacbd9631da">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-d3050b104c194c4b9ff8241d6a46f976.xml#id-d3050b104c194c4b9ff8241d6a46f976"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-10f6cab72df54f658997f136543d8dbf.xml#id-10f6cab72df54f658997f136543d8dbf"/>
+</archimate:TriggeringRelationship>

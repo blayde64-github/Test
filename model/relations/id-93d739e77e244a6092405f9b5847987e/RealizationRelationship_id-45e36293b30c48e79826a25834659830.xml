@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-45e36293b30c48e79826a25834659830"
+    documentation="The Enterprise Security Architecture team is responsible for developing and maintaining the security architecture of the organization. This includes defining the security requirements, designing the security controls, and ensuring that the security measures are implemented and maintained in accordance with the organization's strategic goals. The team works closely with other departments to ensure that the security architecture is aligned with the overall business strategy and that it enables the organization to achieve its strategic capability of architecture.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-cdbda1a6ddb4409c9e40394079ad2369.xml#id-cdbda1a6ddb4409c9e40394079ad2369"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b670391572ae4b8493590808c46657fa"
+    documentation="The requirement to utilise standard technology could be considered a specialization of the EA team principle to design and use practical uncomplicated solutions. because the technologies we utilize are the company default ones.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-62b95d9238b3413db8aab49b52bf7211.xml#id-62b95d9238b3413db8aab49b52bf7211"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-f853790e45e749d78b8738012a5fdc20.xml#id-f853790e45e749d78b8738012a5fdc20"/>
+</archimate:SpecializationRelationship>

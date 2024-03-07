@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.14.1 Hardware lifecycle management control"
+    id="id-8dcec8fe60d24ae29c1482c01ac18ba2"
+    documentation="There should be documented standards/procedures for managing the lifecycle of hardware">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

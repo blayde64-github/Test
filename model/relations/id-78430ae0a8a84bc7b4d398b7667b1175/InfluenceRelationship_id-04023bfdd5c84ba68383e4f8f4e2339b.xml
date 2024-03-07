@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-04023bfdd5c84ba68383e4f8f4e2339b"
+    documentation="A review mechanism that is not used has no value. "
+    strength="---">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-883ec2a1a75848a483a469d87457cb19.xml#id-883ec2a1a75848a483a469d87457cb19"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

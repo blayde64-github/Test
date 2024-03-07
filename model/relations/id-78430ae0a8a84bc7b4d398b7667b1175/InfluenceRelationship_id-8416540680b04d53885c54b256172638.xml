@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8416540680b04d53885c54b256172638"
+    documentation="We cannot directly influence the knowledge of architects on security by design. &#xD;&#xA;&#xD;&#xA;To partly mitigate this issue, we have the clear instructions and descriptions and rationales for every question. &#xD;&#xA;&#xD;&#xA;Our Security Architecture Review Process (SAR2) utilizes security architects to review work done by other architects and improve knowledge &#xD;&#xA;&#xD;&#xA;We also guide people towards the Security Architecture Community and actively develop content there."
+    strength="--">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-801eae4cd7ff4d74ba5e626efe841e88.xml#id-801eae4cd7ff4d74ba5e626efe841e88"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-2428e44fd1ab4828ab03a1f02c385c73.xml#id-2428e44fd1ab4828ab03a1f02c385c73"/>
+</archimate:InfluenceRelationship>

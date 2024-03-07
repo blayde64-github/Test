@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a77c470b383f4a669881b7f16392ba2d"
+    documentation="The security architecture review metrics are all specializations of the SAR Question metrics. We assess everything in the same way to get consistency.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-9791be25273d460690c0ed2db3010f4f.xml#id-9791be25273d460690c0ed2db3010f4f"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-5ff12b1c9c29418baa3f9aa550f67d10.xml#id-5ff12b1c9c29418baa3f9aa550f67d10"/>
+</archimate:SpecializationRelationship>

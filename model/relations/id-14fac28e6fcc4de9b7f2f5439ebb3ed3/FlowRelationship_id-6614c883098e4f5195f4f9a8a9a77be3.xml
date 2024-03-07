@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6614c883098e4f5195f4f9a8a9a77be3"
+    documentation="A user with access makes manual changes to a list item">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-10f6cab72df54f658997f136543d8dbf.xml#id-10f6cab72df54f658997f136543d8dbf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1180fa0bdece4989b8488367427778a5.xml#id-1180fa0bdece4989b8488367427778a5"/>
+</archimate:FlowRelationship>

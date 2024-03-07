@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a8844f62c4f241c3a63a934ee54bc5c7"
+    documentation="Failing to have common architecture repositories, modelling or having a design to share prevents us from being able to leverage good architecture. ">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-fa950274833c45c2b2318b7d9c9b1720.xml#id-fa950274833c45c2b2318b7d9c9b1720"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-12d1bc9d0cb64652ac25fc89bd89cd9e.xml#id-12d1bc9d0cb64652ac25fc89bd89cd9e"/>
+</archimate:TriggeringRelationship>

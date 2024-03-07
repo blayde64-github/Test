@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.37.2 Sign on information management control"
+    id="id-7c09b8a7a5c64805b9f035232eb8f456"
+    documentation="Sign-on mechanisms should be configured to provide information so that they:&#xA;    display no identifying details until after sign-on is completed successfully&#xA;    record all successful and unsuccessful sign-on attempts">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

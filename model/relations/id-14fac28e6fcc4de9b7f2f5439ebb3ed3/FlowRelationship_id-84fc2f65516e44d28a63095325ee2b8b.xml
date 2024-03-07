@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-84fc2f65516e44d28a63095325ee2b8b"
+    documentation="The Power Bi Service fetches the list contents">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4cd29bd21af14aef8e790b3577e836b2.xml#id-4cd29bd21af14aef8e790b3577e836b2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f74d052df2f24c3da6c2354aced08a5e.xml#id-f74d052df2f24c3da6c2354aced08a5e"/>
+</archimate:FlowRelationship>

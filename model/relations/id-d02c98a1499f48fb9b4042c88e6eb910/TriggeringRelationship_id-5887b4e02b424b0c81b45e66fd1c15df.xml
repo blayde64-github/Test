@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5887b4e02b424b0c81b45e66fd1c15df"
+    documentation="having to constantly address the same things and spend hours in audits when you should be able to quickly generate views from an architecture repository means we have a much higher audit cost than we should.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-44c658b7ffad43e3a3a41c349a1d96e8.xml#id-44c658b7ffad43e3a3a41c349a1d96e8"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-ce732607d3a24789b6b5978586817d28.xml#id-ce732607d3a24789b6b5978586817d28"/>
+</archimate:TriggeringRelationship>

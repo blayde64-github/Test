@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of security controls where responsibility has been signed off by the owner"
+    id="id-2323387f7ba4473faba18cd862beea91"
+    documentation="The &quot;Number of Security Controls where Responsibility has been Signed Off by the Owner&quot; metric measures the count of security controls within our system or infrastructure for which the assigned owner has officially acknowledged and accepted responsibility. This metric emphasizes the importance of obtaining formal sign-off from control owners, indicating their understanding and commitment to fulfilling their obligations regarding the implementation, monitoring, and remediation of specific security controls. By tracking this metric, we can ensure that all control owners have officially recognized their role and responsibility in maintaining a secure environment. It helps establish a clear record of accountability, promotes a culture of ownership, and enhances overall governance and compliance with security requirements within our organization.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.10 BYOD corporate access limit control"
+    id="id-3c9aa5e2df404451be0df5954c4613cd"
+    documentation="Limiting access to business applications on the corporate network (e.g. by restricting access using a Virtual Private Network (VPN), firewalls and proxy servers)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

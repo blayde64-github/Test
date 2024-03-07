@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO/IEC 27002:2013"
+    id="id-60fc4b43d9194461a14e608b617d501c"
+    documentation="This version provides best practice recommendations on information security management for those who are responsible for initiating, implementing, or maintaining information security management systems (ISMS). It lays out a set of controls that organizations can consider in their security practices, covering areas like cryptography, operations security, and communications security among others.&#xD;&#xA;&#xD;&#xA;Information Security Management System is a systematic approach to managing sensitive information to ensure it remains secure, including people, processes, and IT systems.">
+  <properties
+      key="MoSCoW"
+      value="Could Have"/>
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

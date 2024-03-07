@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.7 Firewall address &amp; port control"
+    id="id-8468d73d6cb540f9a2157b82d393288e"
+    documentation="Firewalls should be configured to block or otherwise restrict communications based on specified source/destination:&#xA;    Addresses&#xA;    Ports">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

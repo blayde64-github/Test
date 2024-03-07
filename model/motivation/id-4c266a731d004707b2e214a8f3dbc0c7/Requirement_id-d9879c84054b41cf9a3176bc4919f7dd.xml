@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.30.1 System decomission identification control"
+    id="id-d9879c84054b41cf9a3176bc4919f7dd"
+    documentation="Systems that are no longer required (sometimes referred to as redundant or obsolete systems), and that may require decommissioning, should be identified.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

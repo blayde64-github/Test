@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACC009 Software malfunction (internally produced software)"
+    id="id-e951afce5f364c3294c1fcc0519d7ba4"
+    documentation="Incorrect execution or failure of software developed or integrated in-house. Assessment guidance:&#xD;&#xA;Software malfunctions are typically caused as a result of an application design flaw, a software bug or equivalent.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,77 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archi Test"
+    id="id-c3275cb01ac844c99376e97d9787d15b"
+    version="5.0.0">
+  <profiles
+      name="Risk"
+      id="id-418836724cc94237a86887a1cff0b302"
+      imagePath="images/_rcBicJ8rEe28w_rKXDZRjw.png"
+      conceptType="Assessment"/>
+  <profiles
+      name="Vulnerability"
+      id="id-c65a7771d0254328b1e638eed28d1595"
+      imagePath="images/_RirfUJ7-Ee28w_rKXDZRjw.png"
+      conceptType="Assessment"/>
+  <profiles
+      name="Control Measure"
+      id="id-bb35b488fa934dc09757684ec3da6bf5"
+      imagePath="images/_9ZVLcJ79Ee28w_rKXDZRjw.png"
+      conceptType="Requirement"/>
+  <profiles
+      name="Threat Event"
+      id="id-4134f3314ed14c54b22aebca26568508"
+      imagePath="images/_bAlgAJ8FEe28w_rKXDZRjw.png"
+      conceptType="BusinessEvent"/>
+  <profiles
+      name="Loss Event"
+      id="id-9e80705b128b4f7eb73704b6a9fd7d5b"
+      imagePath="images/_RdL3IJ8FEe28w_rKXDZRjw.png"
+      conceptType="BusinessEvent"/>
+  <profiles
+      name="Threat Agent"
+      id="id-54dffa6a4875462da77620407146dd6a"
+      imagePath="images/_WrXMMJ8FEe28w_rKXDZRjw.png"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="Risk Domain"
+      id="id-be7a01c17cea4f0ab037023503d7dfde"
+      conceptType="Grouping"/>
+  <profiles
+      name="Control Objective"
+      id="id-c50169ccc3cd4daeb19664bb2ffb7eb7"
+      conceptType="Goal"/>
+  <profiles
+      name="Metric"
+      id="id-b4b3d006f058404a880006d58e3e73f2"
+      imagePath="images/_LwtzUKLFEe2nFMed4Jn3Iw.png"
+      conceptType="Assessment"/>
+  <profiles
+      name="Business Policy"
+      id="id-eae5bf1d264041ecb9a339270920ff76"
+      imagePath="images/_CMm4ILBgEe2BK9hTlJekcg.png"
+      conceptType="Principle"/>
+  <profiles
+      name="Loss"
+      id="id-547aecdf7e8c41639be0a01327a6d1a9"
+      conceptType="Value"/>
+  <profiles
+      name="Value Chain"
+      id="id-2f745fcd064148e98550a82be56ef322"
+      conceptType="Value"/>
+  <profiles
+      name="Business Attribute"
+      id="id-5eaf2f8805084afa9219be38622d8ec6"
+      imagePath="images/__L3rALBfEe2BK9hTlJekcg.png"
+      conceptType="Principle"/>
+  <profiles
+      name="Archimate View"
+      id="id-a056d976b7844f27931f5aacde337498"
+      imagePath="images/_vUjDEFOcEe6Ll8dk67pl9A.png"
+      conceptType="DataObject"/>
+  <profiles
+      name="Architecture Concern"
+      id="id-3b62eb9fd1df41c7a32077570e2949c8"
+      imagePath="images/_-AAGMI95Ee6Cqe1LFPsuMg.png"
+      conceptType="WorkPackage"/>
+</archimate:ArchimateModel>

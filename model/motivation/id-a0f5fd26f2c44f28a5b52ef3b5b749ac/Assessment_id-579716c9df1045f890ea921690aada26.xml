@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Potential for Information Sharing by Authorized Users to Unauthorized Users"
+    id="id-579716c9df1045f890ea921690aada26"
+    documentation="Authorized users in the system have the capability to share sensitive information with users who are not authorized to access it. This creates a risk of unauthorized data exposure.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

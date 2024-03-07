@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.61.1 Intrusion detection in critical business control"
+    id="id-51fa36799df749e08ec6923ee6e37a24"
+    documentation="Intrusion detection mechanisms should be employed for critical business applications, systems and networks to identify predetermined and new types of attack.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

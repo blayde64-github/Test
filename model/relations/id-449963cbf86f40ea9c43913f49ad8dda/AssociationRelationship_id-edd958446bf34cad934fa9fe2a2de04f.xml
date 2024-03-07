@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-edd958446bf34cad934fa9fe2a2de04f"
+    documentation="Perception of architecture is wrong. its seen as a documentation exercise and not understood.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-fa950274833c45c2b2318b7d9c9b1720.xml#id-fa950274833c45c2b2318b7d9c9b1720"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-f99827c8b346430ca8099caab8a18720.xml#id-f99827c8b346430ca8099caab8a18720"/>
+</archimate:AssociationRelationship>

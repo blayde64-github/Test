@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.42.6 Web proxy control"
+    id="id-49f876a0ad3548b2a6b2719161390c64"
+    documentation="Web proxy servers (sometimes referred to as internet gateways or web gateways) should be deployed and configured to:&#xA;    require users to authenticate before gaining access to the internet&#xA;    restrict access to only authorised websites&#xA;    inspect web traffic (e.g. to identify malware and web browser attacks)&#xA;    record details about web content be-ing accessed (e.g. in the event the in-formation is required during an inves-tigation).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

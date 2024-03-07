@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OTP"
+    id="id-327620"
+    documentation="One Time Password (OTP) is a valid password for a short period (e.g., only one login session or transaction) and is aimed at avoiding several shortcomings associated with traditional static passwords. One of the most popular approaches for generating OTPs is time-synchronization between the authentication server and the client. OTP implementations are often used in two-factor authentication solutions where the user enters a pin used as a variable in an algorithm that generates evidence of identity sent to an enforcement agent that determines if the identity is valid."/>

@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of security architectures reviewed by the Security Architecture Team"
+    id="id-106108"
+    documentation="The metric &quot;Number of security architectures reviewed by the Security Architecture Team&quot; represents the count of system designs that have undergone a detailed examination by our specialized security team. This team is tasked with ensuring that each system's design meets our security standards and principles. Their review can involve checking the integration of security measures, verifying alignment with core processes, and evaluating information flow and lifecycle management. Therefore, this metric shows us how many of our system designs have been rigorously vetted by this dedicated team, providing an extra layer of assurance for the security robustness of our digital systems.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

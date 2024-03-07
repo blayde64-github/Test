@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OnPrem support"
+    id="id-99017"
+    documentation="Service need to be implemented as an on-prem service for customer with requirements to store data within specific countries&#xA;&#xA;Not in same disk system&#xA;Enough local (fast) disk storage&#xA;Taking load off from main disk system&#xA;"/>

@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security feedback given to architects becomes untraceable."
+    id="id-6ce0d759357f4a48905222b5c9ed2df8"
+    documentation="Although feedback is given in a security architecture review meeting , without formalizing our reviews it is possible that comments will become lost, as resources and the business changes over time, which will lead to a practical loss of work as things are forgotton, and loses traceability of what was said, undermining the fundamentals of quality. It is possible that risks that were raised will be unmanaged. ">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8e565364154447ce95844cfb586c1f22"
+    documentation="An SOGP Topic may reference parts of the NIST Cybersecurity Framework"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-daa176f5fee34319bd5b5aaab7cec71e.xml#id-daa176f5fee34319bd5b5aaab7cec71e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a00bbec9d544415cbadcd412ee379500.xml#id-a00bbec9d544415cbadcd412ee379500"/>
+</archimate:AssociationRelationship>

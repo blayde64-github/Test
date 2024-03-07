@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-66fe394ce7df46828c8f0f8fd849e18b"
+    documentation="A cancellation request is triggered in the portal">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-be83c30ef40541c5bb7b1b78814d883b.xml#id-be83c30ef40541c5bb7b1b78814d883b"/>
+  <target
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-2087a528e4694e1ba29a2b9d97ecbbfa.xml#id-2087a528e4694e1ba29a2b9d97ecbbfa"/>
+</archimate:TriggeringRelationship>

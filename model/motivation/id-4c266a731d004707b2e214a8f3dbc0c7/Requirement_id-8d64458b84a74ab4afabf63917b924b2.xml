@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systems supports at least 15 characters in password length"
+    id="id-8d64458b84a74ab4afabf63917b924b2"
+    documentation="  1 The Tech Services' Password Policy contains a requirement regarding password complexity, where it's explicitly stated that the password length must be at least 15 characters long or at the system maximums.&#xD;&#xA;  2 The Password Policy states that its requirements must be met by any systems utilizing passwords.&#xD;&#xA;&#xD;&#xA;This means that systems which do not support more than a 12-character length are not just in violation of the audit requirements; they're non-compliant with our company's Password Policy. By ensuring that all systems are compliant with our company's Password Policy, we will mitigate the password vulnerability.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

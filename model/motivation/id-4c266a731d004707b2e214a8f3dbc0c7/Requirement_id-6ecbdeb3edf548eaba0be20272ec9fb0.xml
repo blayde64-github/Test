@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Architecture Review Bypass Control"
+    id="id-6ecbdeb3edf548eaba0be20272ec9fb0"
+    documentation="A control must be in place to ensure that security architecture controls are not bypassed.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

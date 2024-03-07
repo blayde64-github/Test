@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.68.6 Security event management analysis expertise control"
+    id="id-f0e5c5992cfd4de0b98ad2dd95f863da"
+    documentation="All alerts generated should be analysed by relevant experts, which includes:&#xA;a) monitoring the alert queue, ascertaining the validity of alerts and determining whether further investigation is necessary&#xA;b) creating playbooks that map to each use case, typically providing a checklist of steps (e.g. to leverage threat intelligence for additional context, compare with baseline behaviour and evaluate results of trend/pattern analysis from data analysis tools) as well as information about different threats that can be compared to the attributes of a given alert&#xA;c) performing triage to quickly determine whether the alert is a false positive (i.e. legitimate activity erroneously identified as suspicious) or true positive (i.e. a valid event of interest that merits further analysis)&#xA;d) determining whether an alert meets a specified threshold, which may be based on a matrix classification (e.g. criticality and urgency) or other classification scheme (e.g. severity of the threat, incident type, number and nature of systems affected)&#xA;e) tuning correlation rules diligently to improve the quality of alerts, decrease misleading data (often referred to as 'noise'), such as false positives, and subsequently reduce alert fatigue.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c2938e2c61fd4edd857a1a29111b057c"
+    documentation="The document library is stored in a Teams site.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-64399b0092054d879b050733d5d8dd7a.xml#id-64399b0092054d879b050733d5d8dd7a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-39354ea1b27b4fb08ec1462e7e1ade2a.xml#id-39354ea1b27b4fb08ec1462e7e1ade2a"/>
+</archimate:CompositionRelationship>

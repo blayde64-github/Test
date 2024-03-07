@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV018 Gathering information about the physical details of the organisation’s premises"
+    id="id-8dc399003f2d48daa998d5099ec8c2d3"
+    documentation="The threat obtains and analyses information about the physical details of an organisation (e.g. office and building diagrams, infrastructure details of a data centre) that could be used to initiate subsequent threat events.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

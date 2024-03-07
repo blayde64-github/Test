@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-91941">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-82740.xml#id-82740"/>
+  <target
+      xsi:type="archimate:AssignmentRelationship"
+      href="AssignmentRelationship_id-87977.xml#id-87977"/>
+</archimate:AggregationRelationship>

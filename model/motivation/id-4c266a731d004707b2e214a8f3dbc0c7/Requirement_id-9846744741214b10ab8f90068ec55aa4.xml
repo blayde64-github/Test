@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.7.1 People vetting security control"
+    id="id-9846744741214b10ab8f90068ec55aa4"
+    documentation="Applicants for employment should be screened (and vetted where legal) prior to commencing work (e.g. by taking up references, checking career history/qualifications and confirming identity, such as by inspecting a passport).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

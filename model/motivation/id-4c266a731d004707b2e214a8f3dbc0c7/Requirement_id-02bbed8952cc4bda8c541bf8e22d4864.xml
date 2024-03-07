@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.70.2 Cyber kill chain requirements control"
+    id="id-02bbed8952cc4bda8c541bf8e22d4864"
+    documentation="Threat events relating to the complete cyber attack chain should be identified by reviewing early warning systems (e.g. as part of threat intelligence), supplemented by specific activities that include:&#xA;    maintaining effective relationships with groups that are often involved when prepar-ing for and responding to sophisticated, tar-geted cyber attacks&#xA;    using threat intelligence to help identify imminent or actual targeted attacks, and support an effective response&#xA;    examining activity observed on deployed honeypots (e.g. decoy systems that present fake applications and information in order to observe malicious attackers and collect fo-rensic information about their activity)&#xA;    performing analysis of employee behaviour (e.g. as part of an insider threat programme)&#xA;    implementing methods to help identify in-dividuals who have been placed in the or-ganisation to perform unauthorised activi-ties (e.g. developing an insider threat pro-gramme, establishing an insider threat team and monitoring the behaviour of people).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avoid complexity in user access"
+    id="id-100368"
+    documentation="All users should have the same access / permissions in the system, otherwise it will be very complex to implement.&#xA;This needs to be taken into account with the data input.&#xD;&#xA;This requirement addresses the princple usability and manageability by making management as simple as possible.&#xD;&#xA;Addresses Security, resiliency and integrity"/>

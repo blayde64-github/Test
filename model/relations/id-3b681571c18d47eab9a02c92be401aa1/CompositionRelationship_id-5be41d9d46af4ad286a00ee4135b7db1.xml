@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5be41d9d46af4ad286a00ee4135b7db1"
+    documentation="They Systems Development Management area deals with the topic of software development. The application development that has been implemented within the Security Architecture Review solution is not considered to be coding, but uses a form of development that is known as logic building. Software development requirements in the Systems development management area are therefore not appropriate to this solution, and this area was only included in this design so that we may address this point.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-14a40832b5f9442a8ee9730fbda1a2d0.xml#id-14a40832b5f9442a8ee9730fbda1a2d0"/>
+</archimate:CompositionRelationship>

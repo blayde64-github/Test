@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.55.1 Supply chain framework control"
+    id="id-f3286cc98ded42138db14c02235186db"
+    documentation="A documented framework should be established to manage the security of products and services provided by external suppliers">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

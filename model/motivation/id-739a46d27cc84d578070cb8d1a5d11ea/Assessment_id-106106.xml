@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of architectures with security requirements"
+    id="id-106106"
+    documentation="The &quot;Number of Architectures with Security Requirements&quot; metric evaluates the count of explicit security prerequisites specified for architectural designs and systems. This metric focuses solely on the nature and extent of security demands imposed on the architectural framework. It provides insight into the depth and breadth of security considerations embedded within the design process, ensuring that all necessary security measures, protocols, and controls are defined and adhered to. By tracking this metric, organizations can assess the comprehensiveness and effectiveness of their security requirements, allowing them to proactively address vulnerabilities and enhance the overall resilience and protection of their architectural assets.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

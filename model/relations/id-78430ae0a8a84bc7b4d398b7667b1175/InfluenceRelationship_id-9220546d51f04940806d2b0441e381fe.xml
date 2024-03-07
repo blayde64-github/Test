@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9220546d51f04940806d2b0441e381fe"
+    documentation="We must change due to changes in the market"
+    strength="+">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-78b36ad5d2a94791931ed76f3530a9c9.xml#id-78b36ad5d2a94791931ed76f3530a9c9"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-ab8639a7a5b642799f4c3b51d7e20828.xml#id-ab8639a7a5b642799f4c3b51d7e20828"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Design Score"
+    id="id-6b7cabb83df2464d8364118f3353744b"
+    documentation="The &quot;Security Design Score&quot; is a metric that evaluates the overall quality of our system designs from a security perspective. Think of it as a grade or rating that we assign to each of our system designs, based on how well they meet our security standards and expectations. It takes into account various factors such as how thoroughly security risks have been assessed, how well security measures have been integrated into the design, and how effectively the design aligns with our core processes and data handling practices. This score gives us a clear, quantifiable measure of the security robustness of our system designs, enabling us to continuously improve and uphold our commitment to cybersecurity.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

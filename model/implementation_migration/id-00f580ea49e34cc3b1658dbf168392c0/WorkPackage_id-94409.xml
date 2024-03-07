@@ -1,0 +1,25 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Identity Management development"
+    id="id-94409"
+    documentation="External Identity Management development&#xA;&#xA;Capabilities&#xA;&#xA;Privilege Management Infrastructure&#xA;- Identity and Access Management&#xA;- Authentication Services&#xA;&#xA;User Directory Services&#xA;- LDAP Repositories&#xA;&#xA;Goals&#xA;&#xA;Common IAM Services Enabled for Tietoevry Connect&#xA;- External Identity &amp; Access Management taking care internal systems and users&#xA;&#xA;These services allow us to onboard external customers to our external IAM solution which allows these identities to be used in for example ServiceNow (and their in-country instances). External IAM covers also the Single-Sign-On / Federation functions which are also used be for example ServiceNow for authenticating users to the system.&#xA;&#xA;Analyze and optimize current state portfolio for the capabilities used&#xA;&#xA;Resources:&#xA;&#xA;- Project Manager: Ensures resources are there and making sure project is delivering&#xA;&#xA;- Service Architect: Key role who is driving the overall solution towards the goal&#xA;&#xA;- Identity &amp; Access Management Architect: Technical architect who has extensive knowledge of IAM solutions&#xA;&#xA;- Automation Architect: External IAM involves lots of processes and tasks which should be automated in order to reduce the manual work. Therefore involvement of automation architect is recommended&#xA;&#xA;- Network Infrastructure Architect: Solution is exposed to outside world through various network components. Some of these components might be in key role, for example to realize SingleSignOn (SSO) functions. Technical network architecture will bring expertise on these topics to the project&#xA;&#xA;- Security Solutions Architect: Besides IAM architect, Security Solutions architects are required to bring expertise on topics like MFA, Device authentication and generic understanding of security requirements.&#xA;&#xA;- ServiceNow Architect: Big parts of the External IAM solution is utilized by ServiceNow - therefore resource with knowledge of ServiceNow architecture is required to ensure solution meets their requirements">
+  <properties
+      key="Project Owner"
+      value="Jukka Kuusinen (Head of Security &amp; Compliance Finland)"/>
+  <properties
+      key="Project Manager"
+      value="Pavel Skandera"/>
+  <properties
+      key="Architect"
+      value="Sami Aura"/>
+  <properties
+      key="Start Date"
+      value="2023-01-01"/>
+  <properties
+      key="End Date"
+      value="2023-05-28"/>
+  <properties/>
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+</archimate:WorkPackage>

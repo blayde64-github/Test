@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Password Reset Request"
+    id="id-c2c3e39052e844c1898acb691224c21d"
+    documentation="Password reset is requested through the portal">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-be83c30ef40541c5bb7b1b78814d883b.xml#id-be83c30ef40541c5bb7b1b78814d883b"/>
+  <target
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-f64db3036cba464fb76da31a81a9e586.xml#id-f64db3036cba464fb76da31a81a9e586"/>
+</archimate:TriggeringRelationship>

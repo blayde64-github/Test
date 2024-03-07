@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Presenter"
+    id="id-a808c82a0641412ba96f5884fc314bf6"
+    documentation="As the owner of the process, and responsible for security architecture review the Head of Enterprise Security Architecture is responsible for presenting The SAR figures.">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-005f2fa6920340b1a86ba23891931982.xml#id-005f2fa6920340b1a86ba23891931982"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-6416efbcae42443aa936dfc29e560169.xml#id-6416efbcae42443aa936dfc29e560169"/>
+</archimate:AssignmentRelationship>

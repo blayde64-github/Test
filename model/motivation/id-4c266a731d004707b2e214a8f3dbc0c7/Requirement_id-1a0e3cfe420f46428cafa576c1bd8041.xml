@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.2.3 Information risk Business impact assessment control"
+    id="id-1a0e3cfe420f46428cafa576c1bd8041"
+    documentation="The information risk assessment should include conducting a business impact assessment (BIA) to identify the potential business impact should the confidentiality, integrity or availability of information associated with the target environment, be compromised.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

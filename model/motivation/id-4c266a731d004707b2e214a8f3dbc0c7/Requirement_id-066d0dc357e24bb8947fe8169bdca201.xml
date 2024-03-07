@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.73.1 Forensic investigation standards &amp; procedures control"
+    id="id-066d0dc357e24bb8947fe8169bdca201"
+    documentation="There should be documented standards/procedures for dealing with information security incidexcleents that may require forensic investigation, which covers:">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

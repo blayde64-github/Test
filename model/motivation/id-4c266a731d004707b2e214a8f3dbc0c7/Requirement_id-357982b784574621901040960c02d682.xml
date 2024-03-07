@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.19.1 Enterprise Mobility Management usage control"
+    id="id-357982b784574621901040960c02d682"
+    documentation="An Enterprise Mobility Management (EMM) system should be used to centrally manage and protect smartphones, tablets, and the mobile apps they support.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

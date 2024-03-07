@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Addresses"
+    id="id-fa9d2a599b8c479c8cc01fc4ae41bbf7"
+    documentation="As part of the security baseline this design addresses the category entitled Systems development. &#xD;&#xA;&#xD;&#xA;It only addresses relevant requirements and states explicitly where it does not.">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-8be789c3fc3f4be68059441f3a449a56.xml#id-8be789c3fc3f4be68059441f3a449a56"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-9b432a3dff94467d931232406e2db7e0.xml#id-9b432a3dff94467d931232406e2db7e0"/>
+</archimate:AssociationRelationship>

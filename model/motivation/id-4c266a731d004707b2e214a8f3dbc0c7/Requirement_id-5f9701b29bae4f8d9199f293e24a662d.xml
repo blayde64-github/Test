@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.43.2 Virtual instance hypervisor configuration control"
+    id="id-5f9701b29bae4f8d9199f293e24a662d"
+    documentation="Hypervisors should be configured to:&#xA;    segregate virtual servers according to the confidentiality requirements of in-formation they process&#xA;    logically separate each virtual server to prevent information being trans-ferred between discrete environ-ments&#xA;    encrypt communications between vir-tual servers (e.g. using Transport Lay-er Security (TLS), IPsec, or equivalent)&#xA;    restrict access to a limited number of authorised individuals (e.g. hypervisor administrators) who are capable of creating virtual servers and making changes to them correctly and secure-ly&#xA;    segregate the roles of hypervisor ad-ministrators (for multiple virtual serv-ers).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

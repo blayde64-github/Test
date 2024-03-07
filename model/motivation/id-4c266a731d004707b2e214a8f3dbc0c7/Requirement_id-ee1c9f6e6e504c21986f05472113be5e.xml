@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application and Customer Access"
+    id="id-ee1c9f6e6e504c21986f05472113be5e"
+    documentation="C&amp;I level to define a standard way (TEMA)&#xA;TEMA needs to define a mechanism to plug into all of these controls&#xA;Each service to figure how they plug into it - implement the TEMA controls">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

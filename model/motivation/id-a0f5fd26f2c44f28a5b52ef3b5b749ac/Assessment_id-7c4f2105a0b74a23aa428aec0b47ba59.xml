@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inability to Prevent Deletion of Power Automate Flows and Files"
+    id="id-7c4f2105a0b74a23aa428aec0b47ba59"
+    documentation="There is no feature to lock Power Automate flows or files against deletion. This means any user with sufficient permissions can delete these flows or files which the SAR service is dependent on, potentially disrupting automated processes or leading to loss of important data.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

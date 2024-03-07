@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PA.2.3.6b: b) avoiding poorly maintained apps (e.g. by acquiring apps only from developers that have a reputation for diligent app maintenance and effective handling of security issues; requiring developers to produce security updates for the expected life of the app; and considering the termination of apps that are end of life)"
+    id="id-178cf8cb79f24e69939c61aa1553d789"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="PA.2.3.6b"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

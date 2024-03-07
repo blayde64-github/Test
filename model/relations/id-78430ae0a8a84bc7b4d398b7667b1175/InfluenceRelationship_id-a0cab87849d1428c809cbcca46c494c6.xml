@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a0cab87849d1428c809cbcca46c494c6"
+    documentation="Not having resources significantly impacts our ability to write up our reviews. ">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-484936edc61b4c1e851bc76e94e2c6b6.xml#id-484936edc61b4c1e851bc76e94e2c6b6"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-a39aee76fd0448af89bac9210c1041d8.xml#id-a39aee76fd0448af89bac9210c1041d8"/>
+</archimate:InfluenceRelationship>

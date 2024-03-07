@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.24.5 System Design Business Process Support Control"
+    id="id-e91ef113faf14179bba42e88acc5caee"
+    documentation="Specific security controls required by particular business processes supported by systems under development (e.g. encryption of sensitive information, integrity checking and digitally signing information)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

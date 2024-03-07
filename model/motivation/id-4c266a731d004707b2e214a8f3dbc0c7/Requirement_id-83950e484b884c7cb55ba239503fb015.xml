@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.2 Information Security Assurance Control"
+    id="id-83950e484b884c7cb55ba239503fb015"
+    documentation="Ensure that the information security governance framework is supported by an information security strategy and an information security assurance program.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

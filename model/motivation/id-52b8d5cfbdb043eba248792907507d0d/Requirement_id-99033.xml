@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure that the scanning service itself is designed for ‘assume the breach’ at all levels"
+    id="id-99033"
+    documentation="As the TEMA Business Owner I need to ensure that the scanning service itself is designed for assume the breach at all levels, with a very clear logical and administrative separation between the data, management and monitoring layers. This means that true observability needs to be designed in, and this telemetry must be protected against a compromise of TEMA itself. "/>

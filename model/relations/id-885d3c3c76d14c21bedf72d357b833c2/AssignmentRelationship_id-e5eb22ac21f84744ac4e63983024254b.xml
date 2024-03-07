@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e5eb22ac21f84744ac4e63983024254b"
+    documentation="The whole of the Security Council are expected to interact as part of the Security Architecture Review.">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-e7a0b18429c54cd4b2807153e2413fe4.xml#id-e7a0b18429c54cd4b2807153e2413fe4"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-6416efbcae42443aa936dfc29e560169.xml#id-6416efbcae42443aa936dfc29e560169"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The original creator maintains the power automate flow"
+    id="id-fc60abfb28054a9f89ae64b2dffef2a2"
+    documentation="Having the original creator maintain the Power Automate flow ensures consistent permission management, crucial for minimizing errors and avoiding the complications of corrupted Power Automate permissions.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

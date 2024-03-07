@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9aae88eed79c470f9e0baf9106dd7531"
+    documentation="A row in ESA Work is populated with information about an Architecture Concern">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c2fe48d1070f433e87cab8f54514dfa0.xml#id-c2fe48d1070f433e87cab8f54514dfa0"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-4a0bccdc24924640884a091a3cdfdeb8.xml#id-4a0bccdc24924640884a091a3cdfdeb8"/>
+</archimate:AccessRelationship>

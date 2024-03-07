@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-38d06f140bce4fa2a4094ce181686348"
+    documentation="This solution is not delivered to a customer, and the environmental impact comes purely from the underlaying standard services. ">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-5cab5b8c97d943a6bccce0340089c8bb.xml#id-5cab5b8c97d943a6bccce0340089c8bb"/>
+</archimate:CompositionRelationship>

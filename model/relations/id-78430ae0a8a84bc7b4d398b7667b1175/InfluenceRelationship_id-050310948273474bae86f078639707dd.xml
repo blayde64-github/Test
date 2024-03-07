@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-050310948273474bae86f078639707dd"
+    documentation="Several controls in the Systems design area require that we both meet design needs and review them."
+    strength="+++">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-ac10a5998af542ea963e42e5646fa420.xml#id-ac10a5998af542ea963e42e5646fa420"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-ed9ad1059efc4456b836e0e68b6f8e29.xml#id-ed9ad1059efc4456b836e0e68b6f8e29"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.53.4 Email availability control"
+    id="id-a7120989e5384f60915dfceccf0595a6"
+    documentation="Email systems should be reviewed to ensure that requirements for up-time and future availability can be met.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

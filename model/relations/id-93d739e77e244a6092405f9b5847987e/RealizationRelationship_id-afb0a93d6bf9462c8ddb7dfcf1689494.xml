@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-afb0a93d6bf9462c8ddb7dfcf1689494"
+    documentation="ESA Architects have direct access to security architecture review information.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d74a519cd412488f83546b16eed119f1.xml#id-d74a519cd412488f83546b16eed119f1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-3425aeb5b9144348ba304a9dbdad4e80.xml#id-3425aeb5b9144348ba304a9dbdad4e80"/>
+</archimate:RealizationRelationship>

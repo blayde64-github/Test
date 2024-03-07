@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Save draft with any customization/new definitions"
+    id="id-84389">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-84437.xml#id-84437"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-84226.xml#id-84226"/>
+</archimate:TriggeringRelationship>

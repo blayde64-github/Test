@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Responsible"
+    id="id-2257ca5364c44140b77504470dd24824">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a5a75e58e18043e3821c0ca6b766f482.xml#id-a5a75e58e18043e3821c0ca6b766f482"/>
+</archimate:RealizationRelationship>

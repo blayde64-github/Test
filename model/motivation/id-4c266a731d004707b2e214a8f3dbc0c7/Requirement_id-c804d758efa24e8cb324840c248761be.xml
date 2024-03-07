@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.63.3 Cryptography legal control"
+    id="id-c804d758efa24e8cb324840c248761be"
+    documentation="The selection and implementation of a cryptographic solution should take into account the legal aspects of using encryption">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

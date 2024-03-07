@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implements In Depth Review"
+    id="id-ee6f5f19de4748afa5e61e71ef199880"
+    documentation="The SAR2 Review Process asks in depth questions on the topic areas and involves a review with the Enterprise Security Architecture Team."
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b734b6d56cd74154989aa6805b1481a6.xml#id-b734b6d56cd74154989aa6805b1481a6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f629aaf649f54f549dfbb6fee4216a34.xml#id-f629aaf649f54f549dfbb6fee4216a34"/>
+</archimate:AssociationRelationship>

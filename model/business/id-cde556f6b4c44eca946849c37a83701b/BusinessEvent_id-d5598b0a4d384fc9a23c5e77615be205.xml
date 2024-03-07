@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV009 Exploit design or configuration issues in an organisation’s remote access service (e.g. VPNs)"
+    id="id-d5598b0a4d384fc9a23c5e77615be205"
+    documentation="The threat takes advantage of design or configuration issues in how remote access is handled for an organisation.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;This threat event can include exploiting:&#xD;&#xA;ԉ      ‘split tunnelling’ to gain access to organisational networks &#xD;&#xA;ԉ      vulnerabilities in the way authentication is handled&#xD;&#xA;ԉ      weak encryption.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

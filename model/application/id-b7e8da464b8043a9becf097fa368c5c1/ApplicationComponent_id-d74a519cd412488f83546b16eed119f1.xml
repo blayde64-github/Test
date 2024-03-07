@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Architecture Review (Level 1) SharePoint List"
+    id="id-d74a519cd412488f83546b16eed119f1"
+    documentation="This list stores the question responses from the SAR1 Security Architecture Review. Utilizing calculated fields, whenever a record is updated, a score field automatically recalculates.">
+  <properties
+      key="URL"
+      value="https://tietoevry.sharepoint.com/sites/SecurityComplianceArchitectureDomain625/Lists/Security%20Architecture%20Review%20Level%201/AllItems.aspx"/>
+</archimate:ApplicationComponent>

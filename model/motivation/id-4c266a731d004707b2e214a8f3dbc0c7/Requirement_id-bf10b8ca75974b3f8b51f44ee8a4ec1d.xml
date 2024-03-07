@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR.2.3.1: The information risk assessment should include the identification, profiling and prioritisation of relevant threats to the target environment, to determine how related threat events (e.g. cyber attacks, malware, user error, software malfunction or theft) could cause harm to the organisation's information and systems."
+    id="id-bf10b8ca75974b3f8b51f44ee8a4ec1d"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="IR.2.3.1"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

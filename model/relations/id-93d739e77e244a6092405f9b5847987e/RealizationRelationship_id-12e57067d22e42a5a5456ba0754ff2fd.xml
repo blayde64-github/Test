@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-12e57067d22e42a5a5456ba0754ff2fd"
+    documentation="See the views in the Section entitled &quot;Information Flows&quot;, which details types of information and makes some statements related to privacy data.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-5828717af76d4fd7853e4754c962ec51.xml#id-5828717af76d4fd7853e4754c962ec51"/>
+</archimate:RealizationRelationship>

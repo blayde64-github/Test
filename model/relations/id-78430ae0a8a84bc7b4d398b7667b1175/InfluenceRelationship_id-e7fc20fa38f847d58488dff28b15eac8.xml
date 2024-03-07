@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e7fc20fa38f847d58488dff28b15eac8"
+    documentation="one of the key reasons we need architecture design is to manage complexity. Complexity cannot be avoided, because it is not managed in design, it is not managed proactively."
+    strength="--">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-6cc249c1900f4a2588a1eb69713fa5bf.xml#id-6cc249c1900f4a2588a1eb69713fa5bf"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-3d0f9c93cdb0448ea2556fce6f0c46c1.xml#id-3d0f9c93cdb0448ea2556fce6f0c46c1"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-38a2297753634d32a6401ea94e42e2ef"
+    documentation="there are no security controls that do not fully meet requirements.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-cee9eb97a272428084ebad5f528bffec.xml#id-cee9eb97a272428084ebad5f528bffec"/>
+</archimate:RealizationRelationship>

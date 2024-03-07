@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.21.2 Development and testing isolation control"
+    id="id-b64cf8f7a02746df9bb7e2ac6bf8dd48"
+    documentation="Development and test environments should be isolated from live environments and from each other (e.g. by hosting development and test systems on a separate, stand-alone network or segregating the network using a virtual local area network (VLAN) and a firewall).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

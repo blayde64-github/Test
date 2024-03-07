@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.51.6 External networks access availability control"
+    id="id-f1cb1099e26540888fbeea7be5168036"
+    documentation="The organisation should help to ensure the availability of access to managed services (e.g. cloud services) by:&#xA;    investing in robust, reliable internet connectivity&#xA;    establishing multiple methods of connection (e.g. wired networks, wireless, 4G/LTE (long-term evolu-tion) and 5G)&#xA;    providing required network band-width between the organisation's network and the managed service provider (i.e. to avoid poor network latency)&#xA;    maintaining links with the organisa-tion's legacy systems.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

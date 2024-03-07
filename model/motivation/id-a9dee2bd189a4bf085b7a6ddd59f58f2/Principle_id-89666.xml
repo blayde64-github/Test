@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security By Design"
+    id="id-89666"
+    documentation="Statement: Practice security by design&#xA;&#xA;Rationale: Securely designing systems enables us to build more resilient systems which mitigate risks before risks are realized.&#xA;Implication: Services and solutions need to be designed properly. Requires considering security in architecture design all the way from understanding motivations or reasons for the service or solution and requirements to the end technical solution. Security in design should also detail how solutions are secured in operation. Security is integral part of the design of services and solutions rather than applied as an additional layer separately through a separate design. This does not imply any particular productization or commercial approach on how security features services and solutions are priced and charged."/>

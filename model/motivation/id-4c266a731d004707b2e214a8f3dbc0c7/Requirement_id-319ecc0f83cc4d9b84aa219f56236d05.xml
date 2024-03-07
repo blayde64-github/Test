@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.41.1 System management installation control"
+    id="id-319ecc0f83cc4d9b84aa219f56236d05"
+    documentation="There should be documented standards/procedures for information system, network installation designs">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

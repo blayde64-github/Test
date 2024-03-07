@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0fa62f662b144bdabc89f239d2290bfa"
+    documentation="The Power BI service fetches data from the ESA Work list.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-081ae4787ff748c39039168fe986706b.xml#id-081ae4787ff748c39039168fe986706b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-476d3112b84045259f336f4625129542.xml#id-476d3112b84045259f336f4625129542"/>
+</archimate:FlowRelationship>

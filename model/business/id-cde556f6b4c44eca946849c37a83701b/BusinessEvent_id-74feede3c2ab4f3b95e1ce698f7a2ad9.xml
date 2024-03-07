@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV011 Misuse of information systems"
+    id="id-74feede3c2ab4f3b95e1ce698f7a2ad9"
+    documentation="The threat misuses legitimately assigned access privileges to perform unauthorised actions on information systems.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;This threat event can include:&#xD;&#xA;- intentionally causing adverse system behaviour/performance&#xD;&#xA;- accessing information for which the threat is not authorised&#xD;&#xA;- stealing or misappropriating information&#xD;&#xA;- using authorised communication services (e.g. email and instant messaging) to carry out unauthorised activities (e.g. downloading or sending of obscene, discriminatory or harassing content)&#xD;&#xA;- committing fraud&#xD;&#xA;- modifying, tampering with or destroying information for which the threat was not authorised&#xD;&#xA;- unauthorised disclosure of organisational information assets (e.g. intellectual property, customer details or personally identifiable information).">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

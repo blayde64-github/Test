@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-56e1b60755324e2ca457b3540fe052ad"
+    documentation="This is not a customer solution but relates to our internal security review. It doesn’t have direct impact on the customer experience, however the impact it does have is defined in &quot;Why do security by design?&quot; Stakeholders view.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-0f7a76c6a9cb44ce81cb802b0c63f99a.xml#id-0f7a76c6a9cb44ce81cb802b0c63f99a"/>
+</archimate:CompositionRelationship>

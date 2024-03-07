@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.32.1 Web application deployment control"
+    id="id-ee62e31ef0694c8bae4fbd0b9a8953fb"
+    documentation="Additional security controls should be employed when deploying web applications, web content and websites to protect against increased risks associated with being accessible from unprotected networks (e.g. the internet).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

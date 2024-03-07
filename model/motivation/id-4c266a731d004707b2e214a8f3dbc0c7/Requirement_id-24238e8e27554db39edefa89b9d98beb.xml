@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.86.5 Security audit actions control"
+    id="id-24238e8e27554db39edefa89b9d98beb"
+    documentation="Security audit actions should be defined, implemented and monitored, The progress of actions to resolve each security audit finding should be monitored continuously">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

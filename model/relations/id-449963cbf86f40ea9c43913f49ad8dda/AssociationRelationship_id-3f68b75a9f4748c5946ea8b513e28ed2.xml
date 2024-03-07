@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3f68b75a9f4748c5946ea8b513e28ed2"
+    documentation="An SOGP Topic may reference parts of PCI DSS v4"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-daa176f5fee34319bd5b5aaab7cec71e.xml#id-daa176f5fee34319bd5b5aaab7cec71e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-e71b85fbab3e4969be3476d3b782ee21.xml#id-e71b85fbab3e4969be3476d3b782ee21"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.51.3 External network access minimum configuration control"
+    id="id-cd194d304bd242b9b706b94354d34160"
+    documentation="Access to information systems and networks should be restricted to devices that meet minimum security configuration requirements">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

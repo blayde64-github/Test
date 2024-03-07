@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5c1d5dba360f45c88448fd857d06ea0f"
+    documentation="Security baseline is our minimum control requirements laid down to comply to ISO standards">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-8be789c3fc3f4be68059441f3a449a56.xml#id-8be789c3fc3f4be68059441f3a449a56"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c6a234616244413d977e4f80f1a8b4da.xml#id-c6a234616244413d977e4f80f1a8b4da"/>
+</archimate:RealizationRelationship>

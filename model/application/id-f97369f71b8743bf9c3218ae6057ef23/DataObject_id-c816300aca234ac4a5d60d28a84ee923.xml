@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tietoevry BGP Peering configuration"
+    id="id-c816300aca234ac4a5d60d28a84ee923"
+    documentation="- Only host routes allowed in the receiving end, no networks or default route&#xD;&#xA;- Do not allow blocking Tietoevry IP ranges&#xD;&#xA;- Set maximum allowed IP entries over BGP session&#xD;&#xA;- Deploy BGP peering best practises"/>

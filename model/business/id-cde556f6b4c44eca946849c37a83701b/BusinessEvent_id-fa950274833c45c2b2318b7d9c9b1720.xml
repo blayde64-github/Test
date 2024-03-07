@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture design is not performed &amp; complexity not fully managed"
+    id="id-fa950274833c45c2b2318b7d9c9b1720"
+    documentation="We may see the occasional PowerPoint view, or diagram, but design isn’t prioritised because we just need to get things done. Fragments of design are sometimes developed, but never end to end cohesive designs that describe how the needs of the identified stakeholders are met by people, processes, information, governance, tools, technology, and the organization. &#xD;&#xA;&#xD;&#xA;There are normally many requirements we promise to realize as part of different standards, and needs coming in from many different directions. Every time we change or add something there’s a level of complexity that needs to be understood. every change has an impact, and we don’t leverage any standard mechanisms for doing architecture design. &#xD;&#xA;&#xD;&#xA;This means we lose a HUGE portion of the benefit architecture design should be giving to us - a reliable mechanism for managing complexity and providing value to its stakeholders.  Its very common for people to define architecture solutions that do not fully consider any of the stakeholder needs, beyond the technical ones, and an imagined benefit to business, that's rarely properly validated or documented.&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

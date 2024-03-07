@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2da380e7a9544471a749a34937ce3025"
+    documentation="Security Management is part of policy &amp; governance where CISO has the responsibility">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d00f6db2a1914f04b641d457074b48b6.xml#id-d00f6db2a1914f04b641d457074b48b6"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-acd95eb5465c4615a710ab86fe7c4b0d.xml#id-acd95eb5465c4615a710ab86fe7c4b0d"/>
+</archimate:RealizationRelationship>

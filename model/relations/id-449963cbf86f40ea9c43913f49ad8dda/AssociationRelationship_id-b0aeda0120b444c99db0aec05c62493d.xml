@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b0aeda0120b444c99db0aec05c62493d"
+    documentation="A Premium license is needed edit the Power App.">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-474f0d3814314c9eb8c834d12e643ec7.xml#id-474f0d3814314c9eb8c834d12e643ec7"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-85d8cae45056494a9444632228800857.xml#id-85d8cae45056494a9444632228800857"/>
+</archimate:AssociationRelationship>

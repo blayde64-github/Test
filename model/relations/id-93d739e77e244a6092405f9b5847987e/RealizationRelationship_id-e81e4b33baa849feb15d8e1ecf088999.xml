@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e81e4b33baa849feb15d8e1ecf088999"
+    documentation="The maintenance process includes updates to designated communication channels.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-edd5df19496e47faa5eeda3c85031098.xml#id-edd5df19496e47faa5eeda3c85031098"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-100430.xml#id-100430"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.25.1 Software acquisition control"
+    id="id-daa05db9882d41fb9d598100a3bbd80c"
+    documentation="There should be documented standards/procedures for acquiring software (or systems)">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

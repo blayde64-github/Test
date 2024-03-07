@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-021d382e63bd4183a2c5cc4b189977b1"
+    documentation="The security architecture review mechanism is designed to make architecture reviews visible in a black and white non contestable way. ">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-8a60209acbe54f97ad2fa34392833628.xml#id-8a60209acbe54f97ad2fa34392833628"/>
+</archimate:RealizationRelationship>

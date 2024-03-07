@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SD.2.9.3c: c) key performance indicators (KPIs) have been used to report the effectiveness of security approaches used in development (e.g. the adoption of security techniques; the number of approved deviations from security policy; the reduction in overall number and severity of security vulnerabilities; and the cost of security breaches caused by vulnerabilities in the application)"
+    id="id-ed594193672240ce8ed54aa717109d65"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SD.2.9.3c"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

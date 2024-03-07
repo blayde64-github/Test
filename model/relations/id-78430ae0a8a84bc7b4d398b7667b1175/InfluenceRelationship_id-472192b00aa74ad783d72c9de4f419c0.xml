@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-472192b00aa74ad783d72c9de4f419c0"
+    documentation="To achieve a goal of implementing security by design we need to ensure we are doing the correct things in a traceable way. Where it’s possible we do not have consistency in design quality we need to make things clear."
+    strength="+++">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-401e03d0bc0f4da483d54895112f96e6.xml#id-401e03d0bc0f4da483d54895112f96e6"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-110759"
+    documentation="For the gap analysis, the customers are the HIaaS and OCP Service squads. We show customer centricity by providing them with the documented results of the gap analysis and by making sure the report we provide is user-friendly.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-110820.xml#id-110820"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-110765.xml#id-110765"/>
+</archimate:RealizationRelationship>

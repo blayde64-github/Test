@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-676236f87acc46bdbcf23be68f85242c"
+    documentation="Security by design knowledge should be standard knowledge for all architects.">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-2428e44fd1ab4828ab03a1f02c385c73.xml#id-2428e44fd1ab4828ab03a1f02c385c73"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-3ee8051eea6e49f1a875138224b6d734.xml#id-3ee8051eea6e49f1a875138224b6d734"/>
+</archimate:SpecializationRelationship>

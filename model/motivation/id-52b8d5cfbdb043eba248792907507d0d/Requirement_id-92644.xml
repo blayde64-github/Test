@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ensure that there is detection in place if log forwarding from host stops, or collection/processing somehow fails"
+    id="id-92644"
+    documentation="As security operator I must ensure that there is detection in place if log forwarding from host stops, or collection/processing somehow fails.  This to ensure service quality and response on missing log data. "/>

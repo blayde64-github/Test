@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ec3d91936929464bb44b3dfdeea02845"
+    documentation="Architects are not doing architecture design or following methodology.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-fa950274833c45c2b2318b7d9c9b1720.xml#id-fa950274833c45c2b2318b7d9c9b1720"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-88d38ea25ce9409b9d3a63c535dd2600.xml#id-88d38ea25ce9409b9d3a63c535dd2600"/>
+</archimate:TriggeringRelationship>

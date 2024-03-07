@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM Process must ensure protection of security event logs"
+    id="id-90474"
+    documentation="Required by security baseline control 4.67.1. protection of security-related event logs (e.g. via encryption, access control and backup)"/>

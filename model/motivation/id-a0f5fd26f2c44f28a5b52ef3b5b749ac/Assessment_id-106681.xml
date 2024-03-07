@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weak authentication of API access"
+    id="id-106681"
+    documentation="API access uses static passwords which are not rotated. In conjunction with manual removal process the API access can be left open for up to one year.&#xA;">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

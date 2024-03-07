@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.42.7 Server configuration unauthorised disclosure control"
+    id="id-62710edb63d9472d93d394bd0b79c46f"
+    documentation="The unauthorized disclosure of information about system configuration (that could be useful to attackers) should be prevented">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

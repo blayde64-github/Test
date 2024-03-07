@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.3 BYOD secure deployment control"
+    id="id-7e6ff2b4b7f54c69bcf63d5ebee698ec"
+    documentation="Providing secure deployment of business applications (e.g. using a virtual desktop or a sandbox to separate business-related applications and data from personal applications and data)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

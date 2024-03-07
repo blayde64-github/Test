@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Time to notify authorities of data breach"
+    id="id-2c0f226993c8495e9c76f064091a992a"
+    documentation="The time taken from the discovery of a data breach to the notification of the appropriate legal or regulatory body.&#xD;&#xA;&#xD;&#xA;GDPR&#xD;&#xA;The controller shall notify the breach without undue delay and, where feasible, not later than 72 hours after having become aware of it&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Jiri Paloch: Deemed unnecessary as a metric, but it would make sense to include it as a process step.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

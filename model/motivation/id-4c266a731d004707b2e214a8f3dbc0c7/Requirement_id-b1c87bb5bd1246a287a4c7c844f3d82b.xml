@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.74.1 Local environment security profile control"
+    id="id-b1c87bb5bd1246a287a4c7c844f3d82b"
+    documentation="A security profile for each local environment should be documented and maintained, providing an overall picture of the environment, which helps support risk-based decisions and information security-related activities at both a corporate and local level.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

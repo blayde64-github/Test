@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f8fe03cbcf964b9da1749a0201f8e50f"
+    documentation="Our solution sits on top of standard services as done not extend beyond the boundaries of the M365 service.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-85c49cd0e0c04b4197b38a82448b46da.xml#id-85c49cd0e0c04b4197b38a82448b46da"/>
+</archimate:RealizationRelationship>

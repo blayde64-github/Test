@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1f2101bebb3548c5bf27fb326434b96c"
+    documentation="ISO27001 is a common way for organizations to implement Information Security Management Systems.">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2786765669f940368402d13d45576b68.xml#id-2786765669f940368402d13d45576b68"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a928170c020d45d69b2dcbbff0ae4e26.xml#id-a928170c020d45d69b2dcbbff0ae4e26"/>
+</archimate:RealizationRelationship>

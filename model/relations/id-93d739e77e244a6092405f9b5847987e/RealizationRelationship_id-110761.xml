@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-110761"
+    documentation="Security, resilience and integrity is demonstrated by aligning with Security Baseline.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-110755.xml#id-110755"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89594.xml#id-89594"/>
+</archimate:RealizationRelationship>

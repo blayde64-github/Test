@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scope, method, SLA, roles and responsibilities for Vulnerability Management defined"
+    id="id-82727"
+    documentation="ensure that new threats and vulnerabilities are automatically included in scans and shown in scan reports&#xA;need to ensure that the services  support collection of pipeline specific log data that can be used as input to developers as a way of feedback and troubleshooting&#xA;&#xA;ensure that the services  support a management interface that gives Devs and Ops the ability to get access to pipeline specific logdata.&#xA;&#xA;We need a service that support Realtime scanning and reporting"/>

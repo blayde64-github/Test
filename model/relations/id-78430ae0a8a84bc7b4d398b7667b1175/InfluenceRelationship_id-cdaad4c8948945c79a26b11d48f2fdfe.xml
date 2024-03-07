@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cdaad4c8948945c79a26b11d48f2fdfe"
+    documentation="The old model makes it even more important to transform."
+    strength="++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-521418d22e0548e3b27a5fb839e600d5.xml#id-521418d22e0548e3b27a5fb839e600d5"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-fde6a135474148c48fe627f7730522bc.xml#id-fde6a135474148c48fe627f7730522bc"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,9 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refreshed Daily at 2:30 PM"
+    id="id-9b4744af7ceb4d278f5b4d8f1786b303"
+    documentation="The dataset is configured to be refreshed daily.">
+  <properties
+      key="URL"
+      value="https://app.powerbi.com/groups/me/settings/datasets/28129a2e-51a2-4bc7-838b-679191ee29b1?experience=power-bi"/>
+</archimate:ApplicationEvent>

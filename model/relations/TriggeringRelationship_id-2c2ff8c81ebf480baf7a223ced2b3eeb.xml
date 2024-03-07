@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2c2ff8c81ebf480baf7a223ced2b3eeb"
+    documentation="A new row with work information is created.">
+  <source
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-668f232d43864cb48aa1e092e9360191.xml#id-668f232d43864cb48aa1e092e9360191"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-081ae4787ff748c39039168fe986706b.xml#id-081ae4787ff748c39039168fe986706b"/>
+</archimate:TriggeringRelationship>

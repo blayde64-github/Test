@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-29f4b6e504194346a8b7655cb1a24f67"
+    documentation="If we don't have the skills and experience, we won't know how to operate services using Continuous DevOps."
+    strength="---">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-6371ed9935b34c0c85483606b538f76f.xml#id-6371ed9935b34c0c85483606b538f76f"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-367670d97203478a8dde4811f5094a26.xml#id-367670d97203478a8dde4811f5094a26"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1915fccd8373420abd55f1932dabddf4"
+    documentation="The SAR1 dashboard is represented by a Level 1 tab in the Security Architecture Review Report">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-34845d2b30fd464f85282048303fee20.xml#id-34845d2b30fd464f85282048303fee20"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba90bef328e84f008443093d7fefea69.xml#id-ba90bef328e84f008443093d7fefea69"/>
+</archimate:CompositionRelationship>

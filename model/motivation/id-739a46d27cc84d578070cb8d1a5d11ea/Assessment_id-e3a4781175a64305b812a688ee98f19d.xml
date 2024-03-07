@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of new architectures are known to bypass security review"
+    id="id-e3a4781175a64305b812a688ee98f19d"
+    documentation="The &quot;Number of new architectures known to bypass security review&quot; metric indicates the count of newly created system designs that, for some reason, have not undergone the usual security review process. A security review is a crucial step in verifying that a system's design aligns with the organization's security standards and best practices. Bypassing this review could potentially leave undiscovered vulnerabilities in the system. This metric, therefore, serves as a crucial red flag, drawing attention to any new designs that may need to be reviewed to ensure the overall security of our digital systems and infrastructure.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IM.1.5.9a: a) where sensitive data is in motion (e.g. data traversing a network such as the internet or private network), in use (e.g. data processed on endpoint devices) or at rest (e.g. data stored in file systems, databases, the cloud or endpoint devices)"
+    id="id-69afcbc51f4449348196b1f4a8f01d8b"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="IM.1.5.9a"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1340c5b0ede5455da5464a3562f6b86e"
+    documentation="DevOps is the new way of working and drives us more to stay relevant"
+    strength="++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-ab8639a7a5b642799f4c3b51d7e20828.xml#id-ab8639a7a5b642799f4c3b51d7e20828"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-bbc2b92461134f8bbc3f9887a207808a.xml#id-bbc2b92461134f8bbc3f9887a207808a"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a211f4b0a2864119b44f2c8eb5569dbc"
+    documentation="The SAR solution details some threat events and how we protect the system, but the protection of the underlaying technology is the responsibility of the standard service. Within our design we use only standard service mechanisms.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-cf6f42cfc1d3413b9616f8928149ac80.xml#id-cf6f42cfc1d3413b9616f8928149ac80"/>
+</archimate:RealizationRelationship>

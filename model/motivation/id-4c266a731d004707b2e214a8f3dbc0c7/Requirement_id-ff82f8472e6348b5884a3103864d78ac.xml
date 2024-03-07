@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.42.1 Server configuration documentation control"
+    id="id-ff82f8472e6348b5884a3103864d78ac"
+    documentation="Servers should be configured in accordance with documented standards/procedures">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

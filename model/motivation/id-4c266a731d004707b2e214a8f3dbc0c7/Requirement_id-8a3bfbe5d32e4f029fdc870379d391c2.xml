@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SD.2.4.7: System build activities (e.g. program coding and software package customisations) should be reviewed by a systems development manager to ensure that systems function as intended, and to confirm that security weaknesses (e.g. those related to hardcoded passwords, SQL/LDAP injection attacks, cross-site scripting (XSS), session token attacks and URL forgery) have not been introduced."
+    id="id-8a3bfbe5d32e4f029fdc870379d391c2"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SD.2.4.7"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behavioral Malware Prevention (S)"
+    id="id-88120"
+    documentation="The ability to identify the behavior of malware based on events. For example, an inbound email with attached targeted malware to be filtered via the use of a secure virtual machine to identify when the payload is triggering atypical activity."/>

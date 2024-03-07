@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-210be8c0e3ff453793b8576cd40d59ae"
+    documentation="Power Automate is a standard technology which we lack resources for. Should our technical solution go wrong, this can be an issue.&#xA;"
+    strength="-">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-e5b39fdf81b941f1a8d93ee2bdb7ed4a.xml#id-e5b39fdf81b941f1a8d93ee2bdb7ed4a"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

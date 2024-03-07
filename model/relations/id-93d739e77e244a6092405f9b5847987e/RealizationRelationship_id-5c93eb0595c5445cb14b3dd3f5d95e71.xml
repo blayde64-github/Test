@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5c93eb0595c5445cb14b3dd3f5d95e71"
+    documentation="The underlaying application components provided by the technical platform provide integrations with each other as standard functionality. We only utilise the standard connectivity options in standard ways. ">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-4327854edbf54473bfb06adf1e00414a.xml#id-4327854edbf54473bfb06adf1e00414a"/>
+</archimate:RealizationRelationship>

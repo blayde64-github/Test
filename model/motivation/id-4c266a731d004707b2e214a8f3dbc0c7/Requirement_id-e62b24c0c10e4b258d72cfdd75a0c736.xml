@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.5.1 Legal and regulatory information security control"
+    id="id-e62b24c0c10e4b258d72cfdd75a0c736"
+    documentation="Legal and regulatory requirements affecting information security should be recognized and handled accordingly">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

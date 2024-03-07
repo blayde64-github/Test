@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6cee75f91d104cb5bda7c8e8df0ff7fb"
+    documentation="No specific project plans have been determined for the implementation of this review process, however it has been integrated into the Architecture Principles. &#xD;&#xA;&#xD;&#xA;Risk and risk mitigation are covered in risk and security views which include:&#xD;&#xA;&#xD;&#xA;Architecture Practice Risks Influencing Security By Design&#xD;&#xA;How Architecture Practice Vulnerabilities Affect SAR">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-e0462921782b46daa570d7acea186dad.xml#id-e0462921782b46daa570d7acea186dad"/>
+</archimate:RealizationRelationship>

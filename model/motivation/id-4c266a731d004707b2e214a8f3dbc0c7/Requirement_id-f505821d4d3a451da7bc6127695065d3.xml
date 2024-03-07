@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.15.4 Workstation system hardening control"
+    id="id-f505821d4d3a451da7bc6127695065d3"
+    documentation="Workstation computers should be subject to system hardening e.g. disabling unnecessary user accounts (e.g. the Guest account (or equivalent) for Microsoft Windows and UNIX systems)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,812 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Why we need Threat intelligence capability?"
+    id="id-9e25762d1ff34970a780bc70249c330b"
+    documentation="This view shows how threat intelligence capability can be established to provide information and situational awareness about past, present and predicted attacks, supporting information risk-related decisions and actions.&#xD;&#xA;&#xD;&#xA;The primary goal and objective is aligned with SOGP Topic TM1.4 which defines the best practices for Threat intelligence.&#xD;&#xA;&#xD;&#xA;Establishing threat intelligence capability has positive influence on several drivers related to risk mitigation, strengthening the security posture, increasing customer trust, and ensuring our reputation is not harmed by security incidents."
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8a5bd29566ab46e8baa0747bc57eaa99"
+      targetConnections="id-6c98cca469ec4206adf9368cae19e2c7"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <features
+        name="labelExpression"
+        value="${name} &#xA;(${property:Person Name})"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2155d8b1cdfb49c8bfe29f23d15f0f3d"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        source="id-8a5bd29566ab46e8baa0747bc57eaa99"
+        target="id-2ea23c66ab5141c6af8e321630ef7095">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-146e60c2839641c58f922e5196156c7e.xml#id-146e60c2839641c58f922e5196156c7e"/>
+    </sourceConnections>
+    <bounds
+        x="252"
+        y="132"
+        width="397"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-93092.xml#id-93092"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ffbf105af4794cb3aeb6be74b8a8838c"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d95fea6937df474499ad35f1a06a5859"
+        source="id-ffbf105af4794cb3aeb6be74b8a8838c"
+        target="id-e9f68dc59ec04b05b870ad2232bf2211">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-459d134ee94341e8acb42057aff621db.xml#id-459d134ee94341e8acb42057aff621db"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-575b1ea7ef4247cea54552e4019dd86f"
+        source="id-ffbf105af4794cb3aeb6be74b8a8838c"
+        target="id-a5506e325bed41a790685e9791ab20b9">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f51a310513654653845d6a1e7d47abdb.xml#id-f51a310513654653845d6a1e7d47abdb"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a6cdb98d0da140e18023b35ab922b13b"
+        source="id-ffbf105af4794cb3aeb6be74b8a8838c"
+        target="id-cfdf1a03bdb8415186195411ccd3a1b5">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-0e42a9c49cc547359bb9cb56af06dfee.xml#id-0e42a9c49cc547359bb9cb56af06dfee"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4788142c735040329237aa0b6b1fd523"
+        source="id-ffbf105af4794cb3aeb6be74b8a8838c"
+        target="id-83d4f15683e2458db85606e6327b3bcd">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-963888c541494931860ebd1c4729b3a7.xml#id-963888c541494931860ebd1c4729b3a7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c53426aaaefe4447948e84c619201227"
+        source="id-ffbf105af4794cb3aeb6be74b8a8838c"
+        target="id-17507b5b0222482f9de503c381ecd6b2">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-77c650cc62e84e0db6c24a6dc622cc6f.xml#id-77c650cc62e84e0db6c24a6dc622cc6f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-716cb39b1faa4c308c0b0de7e2c80e69"
+        source="id-ffbf105af4794cb3aeb6be74b8a8838c"
+        target="id-64465f197e22446ab1bbea98a29883ab">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-acb1b7c3ef4d41db93a8cd14165dee4f.xml#id-acb1b7c3ef4d41db93a8cd14165dee4f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-87c6356476554d35b3cbf0836d4eff1d"
+        source="id-ffbf105af4794cb3aeb6be74b8a8838c"
+        target="id-80fecbbb3a084c8ca204e3aa20c32c32">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-18d0440fb811426ebe4da0c3d3e6343e.xml#id-18d0440fb811426ebe4da0c3d3e6343e"/>
+    </sourceConnections>
+    <bounds
+        x="684"
+        y="61"
+        width="481"
+        height="144"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e9f68dc59ec04b05b870ad2232bf2211"
+        targetConnections="id-d95fea6937df474499ad35f1a06a5859"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <features
+          name="labelExpression"
+          value="${name} &#xA;(${property:Person Name})"/>
+      <bounds
+          x="12"
+          y="84"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-d9f83f4473cd43f7b5e12ecde346d918.xml#id-d9f83f4473cd43f7b5e12ecde346d918"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-83d4f15683e2458db85606e6327b3bcd"
+        targetConnections="id-4788142c735040329237aa0b6b1fd523"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <features
+          name="labelExpression"
+          value="${name} &#xA;(${property:Person Name})"/>
+      <bounds
+          x="324"
+          y="24"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-7ef35578aa054338a50032b44da5c9b8.xml#id-7ef35578aa054338a50032b44da5c9b8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-cfdf1a03bdb8415186195411ccd3a1b5"
+        targetConnections="id-a6cdb98d0da140e18023b35ab922b13b"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <features
+          name="labelExpression"
+          value="${name} &#xA;(${property:Person Name})"/>
+      <bounds
+          x="12"
+          y="24"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-93137.xml#id-93137"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a5506e325bed41a790685e9791ab20b9"
+        targetConnections="id-575b1ea7ef4247cea54552e4019dd86f"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <features
+          name="labelExpression"
+          value="${name} &#xA;(${property:Person Name})"/>
+      <bounds
+          x="168"
+          y="24"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-93125.xml#id-93125"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-17507b5b0222482f9de503c381ecd6b2"
+        targetConnections="id-c53426aaaefe4447948e84c619201227"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <features
+          name="labelExpression"
+          value="${name} &#xA;(${property:Person Name})"/>
+      <bounds
+          x="168"
+          y="84"
+          width="301"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:Stakeholder"
+          href="Stakeholder_id-96401.xml#id-96401"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-d934328cfd544dfdb5a6a745d77cd383.xml#id-d934328cfd544dfdb5a6a745d77cd383"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7c14445d4da84bb6903229d0dbf1aba1"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <features
+        name="labelExpression"
+        value="${name} &#xA;(${property:Person Name})"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8466631e7be241c5a6bc46e0948b62b7"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        source="id-7c14445d4da84bb6903229d0dbf1aba1"
+        target="id-2ea23c66ab5141c6af8e321630ef7095">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-eba580788e9f4d298c899a3bfcef2dfb.xml#id-eba580788e9f4d298c899a3bfcef2dfb"/>
+    </sourceConnections>
+    <bounds
+        x="87"
+        y="132"
+        width="145"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-c2345f0c8ade425aa4a925ac049bb8b8.xml#id-c2345f0c8ade425aa4a925ac049bb8b8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2ea23c66ab5141c6af8e321630ef7095"
+      targetConnections="id-2155d8b1cdfb49c8bfe29f23d15f0f3d id-8466631e7be241c5a6bc46e0948b62b7"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e171590e6b1b45d6a862590b7f5110ed"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        source="id-2ea23c66ab5141c6af8e321630ef7095"
+        target="id-f72f4f52c66045a583f804035200a048">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-194feb6f3a2f494081b93d799db7077e.xml#id-194feb6f3a2f494081b93d799db7077e"/>
+    </sourceConnections>
+    <bounds
+        x="87"
+        y="245"
+        width="310"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-411705ce972e4acca35021a78320007d.xml#id-411705ce972e4acca35021a78320007d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-953e74cc58df4bddb693280cb7a69184"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6c98cca469ec4206adf9368cae19e2c7"
+        font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        source="id-953e74cc58df4bddb693280cb7a69184"
+        target="id-8a5bd29566ab46e8baa0747bc57eaa99">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-96168.xml#id-96168"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fa061fd91404445997625a31029e1ac4"
+        source="id-953e74cc58df4bddb693280cb7a69184"
+        target="id-f72f4f52c66045a583f804035200a048">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-e1acf76821c44b708d7db72f2eba0153.xml#id-e1acf76821c44b708d7db72f2eba0153"/>
+    </sourceConnections>
+    <bounds
+        x="408"
+        y="245"
+        width="241"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-96156.xml#id-96156"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f72f4f52c66045a583f804035200a048"
+      targetConnections="id-e171590e6b1b45d6a862590b7f5110ed id-fa061fd91404445997625a31029e1ac4 id-f91e14d5ae6f4d2c9f7cd4d4fb2be8e8 id-5bca2682c1454f64a248ec89edf574c0"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <bounds
+        x="72"
+        y="348"
+        width="1093"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-6631eafdc9ab440ead25940334d8a9d1.xml#id-6631eafdc9ab440ead25940334d8a9d1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-64465f197e22446ab1bbea98a29883ab"
+      targetConnections="id-716cb39b1faa4c308c0b0de7e2c80e69">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f91e14d5ae6f4d2c9f7cd4d4fb2be8e8"
+        source="id-64465f197e22446ab1bbea98a29883ab"
+        target="id-f72f4f52c66045a583f804035200a048">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-23e509e5e77c4065bbedd83d389e41d1.xml#id-23e509e5e77c4065bbedd83d389e41d1"/>
+    </sourceConnections>
+    <bounds
+        x="685"
+        y="245"
+        width="228"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-061ba47f89ac4bedb48a51836da48b6b.xml#id-061ba47f89ac4bedb48a51836da48b6b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-80fecbbb3a084c8ca204e3aa20c32c32"
+      targetConnections="id-87c6356476554d35b3cbf0836d4eff1d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5bca2682c1454f64a248ec89edf574c0"
+        source="id-80fecbbb3a084c8ca204e3aa20c32c32"
+        target="id-f72f4f52c66045a583f804035200a048">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-68aaeafc119c47cba28c22dbbc9fd7ab.xml#id-68aaeafc119c47cba28c22dbbc9fd7ab"/>
+    </sourceConnections>
+    <bounds
+        x="936"
+        y="245"
+        width="229"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-88fea2872c0b45fab63d469567e4cd39.xml#id-88fea2872c0b45fab63d469567e4cd39"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-060253bb81d041aaab53a0ee52503b3a"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="10"
+        y="10"
+        width="619"
+        height="91"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8290925c5a7449c0b67da9c5963f5868"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Why we need Threat intelligence capability?"
+      borderType="2">
+    <bounds
+        x="100"
+        y="16"
+        width="517"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2f808cd9520c4071bf0bd974ac4f31b7"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="100"
+        y="46"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4b7d046420d24b048ef40519cf3b7197"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-10-26"
+      borderType="2">
+    <bounds
+        x="172"
+        y="46"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-04c2465c80f7429080e7136123b0e9fd"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="490"
+        y="70"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1cf80e12190e4c61abd0515e2dd21ca2"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      fillColor="#ffffcc"
+      content="Architect Draft"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="22"
+        y="22"
+        width="67"
+        height="67"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fcac4763743647638258950a9d167c8c"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="232"
+        y="46"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5eaa80b0567440da885d5fb69b4ad743"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#b3cccc"
+      textAlignment="1"
+      content="Draft for Jari Javanainen on 2023-10-17"
+      borderType="2">
+    <bounds
+        x="100"
+        y="67"
+        width="391"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$STAKEHOLDER"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1d9a9d36cc7d4830aeffe74c1de8b867"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      content="Legend"
+      borderType="1">
+    <bounds
+        x="1175"
+        y="20"
+        width="142"
+        height="186"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a3d03d936df74bfd8ec4f47300cbb9d7"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_HL6WIKyvEe2cjMju8SoemA.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="1185"
+        y="50"
+        width="16"
+        height="16"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4e4b809593354153975d3d2b221f10af"
+      font="1|Segoe UI|7.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      alpha="0"
+      content="driver">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Driver"/>
+    <bounds
+        x="1199"
+        y="48"
+        width="116"
+        height="22"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c3f30fbd1065421e9108ecdc0d9a69df"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_G4GpUKyvEe2cjMju8SoemA.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="1185"
+        y="70"
+        width="16"
+        height="16"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1161ce65f70544909ea94eb280a63dae"
+      font="1|Segoe UI|7.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      alpha="0"
+      content="goal">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Goal"/>
+    <bounds
+        x="1199"
+        y="68"
+        width="116"
+        height="22"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1a75242f04c240bdbd158ab8701acb53"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_HQU8EKyvEe2cjMju8SoemA.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="1185"
+        y="90"
+        width="16"
+        height="16"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3933a14ff62647c1b480a6a31546a727"
+      font="1|Segoe UI|7.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      alpha="0"
+      content="requirement">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Requirement"/>
+    <bounds
+        x="1199"
+        y="88"
+        width="116"
+        height="22"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-23115b8b4fb447309c1e7bc8fbe2821e"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_Gw_UsKyvEe2cjMju8SoemA.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="1185"
+        y="110"
+        width="16"
+        height="16"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4e96379457d14b24b190962729b91b56"
+      font="1|Segoe UI|7.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      alpha="0"
+      content="stakeholder">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Stakeholder"/>
+    <bounds
+        x="1199"
+        y="108"
+        width="116"
+        height="22"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2bed2d23d8db404e9ef9f9a20f20fe64"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_0_AO4KywEe2cjMju8SoemA.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="1185"
+        y="130"
+        width="16"
+        height="16"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a7b1582100224b8094c9787dfb8db9e1"
+      font="1|Segoe UI|7.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      alpha="0"
+      content="association-relationship">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Association Relationship"/>
+    <bounds
+        x="1199"
+        y="128"
+        width="116"
+        height="22"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-17c60871626a45849f87389c8510bbb0"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_1AjuEKywEe2cjMju8SoemA.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="1185"
+        y="150"
+        width="16"
+        height="16"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-396bb6b3c459478292a8e1633c33ced0"
+      font="1|Segoe UI|7.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      alpha="0"
+      content="composition-relationship">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Composition Relationship"/>
+    <bounds
+        x="1199"
+        y="148"
+        width="116"
+        height="22"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cf6d756bbf80486bba25a4740d56972d"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_0_McIKywEe2cjMju8SoemA.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="1185"
+        y="170"
+        width="16"
+        height="16"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f6504251b3e84e0ca732e76f9e20c852"
+      font="1|Segoe UI|7.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textAlignment="1"
+      alpha="0"
+      content="realization-relationship">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Realization Relationship"/>
+    <bounds
+        x="1199"
+        y="168"
+        width="116"
+        height="22"/>
+    <properties
+        key="Code Tag"
+        value="LEGEND"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Sami Aura"/>
+  <properties
+      key="View Status"
+      value="Draft"/>
+  <properties
+      key="View Date"
+      value="2023-10-17"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Stakeholder"
+      value="Jari Javanainen"/>
+  <properties
+      key="Stakeholder Status"
+      value="Draft"/>
+  <properties
+      key="Stakeholder Date"
+      value="2023-10-17"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-112050"
+    documentation="Service owners can be seen as customers of the baseline. Making implementation easy for the by categorizing the controls promotes customer centricity.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-112054.xml#id-112054"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89592.xml#id-89592"/>
+</archimate:RealizationRelationship>

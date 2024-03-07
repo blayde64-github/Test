@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable asset discovery capability to all in scope assets"
+    id="id-98821"
+    documentation="implement asset discovery for all technology environments included in the scope of the VM&#xA;&#xA;&#xA;CIS control 7.5 Perform automated vulnerability scans of internal enterprise assets on a quarterly, or more frequent, basis. Conduct both authenticated and unauthenticated scans, using a SCAP-compliant vulnerability scanning tool&#xA;&#xA;CIS Control 7.6 Perform automated vulnerability scans of externally-exposed enterprise assets using a SCAP-compliant vulnerability scanning tool. Perform scans on a monthly, or more frequent, basis&#xA;&#xA;Gartner Vulnerability Management Cycle: Identify Assets"/>

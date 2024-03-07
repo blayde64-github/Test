@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d49ee921c0684488baa2a183e7f2ef47"
+    documentation="The Power Query Collaboration aggregates the queries&#xD;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d46b9a40899746dfb367ef90af6f2f7b.xml#id-d46b9a40899746dfb367ef90af6f2f7b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-34845d2b30fd464f85282048303fee20.xml#id-34845d2b30fd464f85282048303fee20"/>
+</archimate:ServingRelationship>

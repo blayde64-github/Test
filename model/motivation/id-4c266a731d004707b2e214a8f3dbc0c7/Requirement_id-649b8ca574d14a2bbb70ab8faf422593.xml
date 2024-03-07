@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.51.5 Dedicated remote access server control"
+    id="id-649b8ca574d14a2bbb70ab8faf422593"
+    documentation="External access should be provided using a dedicated remote access server">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

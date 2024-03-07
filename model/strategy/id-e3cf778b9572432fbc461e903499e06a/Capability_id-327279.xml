@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Management (SS)"
+    id="id-327279"
+    documentation="Architectural patterns for incident management include services for trouble ticketing and incident classification. Incident Management interacts with other areas of the architecture either directly (as with the service desk), indirectly (through manipulation of common data) or asynchronously (as part of a business process for incident management). Incidents begin their lives either as a phone incident from a human, a detected error in the environment (usually as a result of event correlation from the Systems Management domain) or via incident messaging from another application."/>

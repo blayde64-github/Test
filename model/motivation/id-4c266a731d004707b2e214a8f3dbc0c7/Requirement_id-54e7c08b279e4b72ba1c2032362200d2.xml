@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.81.1 BCP Alternative operations control"
+    id="id-54e7c08b279e4b72ba1c2032362200d2"
+    documentation="Alternative arrangements for IT operations should be established for each individual business environment to enable critical business processes (and related services) to continue (at an acceptable level) in the event of a disaster or emergency affecting the underlying business applications or technical infrastructure. / Service Owners need to consider">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

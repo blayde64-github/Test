@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b90ceb890b0c446ab87799f4d6be7cc7"
+    documentation="No SoD (Segregation Of Duties) violation detected">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-df754f266f254424921a0bf422795275.xml#id-df754f266f254424921a0bf422795275"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-354a4f5a15534ea0b94011593c3e87be.xml#id-354a4f5a15534ea0b94011593c3e87be"/>
+</archimate:TriggeringRelationship>

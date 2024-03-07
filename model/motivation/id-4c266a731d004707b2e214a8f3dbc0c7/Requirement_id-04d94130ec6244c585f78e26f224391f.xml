@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.77.1 Business continuity strategy control"
+    id="id-04d94130ec6244c585f78e26f224391f"
+    documentation="A business continuity strategy covering the whole organisation should be developed and maintained, which is aligned with both the organisation's business, IT and information security strategies.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

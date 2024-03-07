@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-89b8ca1be3e34a42973d07e17547c677"
+    documentation="See the section entitled &quot;information Flows&quot;. This is a very simple solution that only contains a single table of information at is centre which is confidential with restricted access.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-7244a38c8fa7430fbce112b11d611d54.xml#id-7244a38c8fa7430fbce112b11d611d54"/>
+</archimate:RealizationRelationship>

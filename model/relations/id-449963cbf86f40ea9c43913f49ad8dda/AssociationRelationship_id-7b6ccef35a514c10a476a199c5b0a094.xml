@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Concern Reporter"
+    id="id-7b6ccef35a514c10a476a199c5b0a094">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-93137.xml#id-93137"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-8414bf71651c46e0aec154d2645262c8.xml#id-8414bf71651c46e0aec154d2645262c8"/>
+</archimate:AssociationRelationship>

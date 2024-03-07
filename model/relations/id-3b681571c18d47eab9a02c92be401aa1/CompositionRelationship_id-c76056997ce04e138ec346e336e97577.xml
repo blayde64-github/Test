@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c76056997ce04e138ec346e336e97577"
+    documentation="No provisioning happens as part of this solution. Its a single instance solution which is only used within Tech Services, within a single Microsoft Team.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-4bdc135decfd43b2ada97e2fb2c62742.xml#id-4bdc135decfd43b2ada97e2fb2c62742"/>
+</archimate:CompositionRelationship>

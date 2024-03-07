@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CyberSecurity Act Grants ENISA Authority"
+    id="id-326196">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-326190.xml#id-326190"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-326173.xml#id-326173"/>
+</archimate:AssociationRelationship>

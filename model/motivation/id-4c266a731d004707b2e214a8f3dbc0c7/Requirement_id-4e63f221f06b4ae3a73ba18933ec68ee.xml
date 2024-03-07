@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.10.1 Security awareness programme control"
+    id="id-4e63f221f06b4ae3a73ba18933ec68ee"
+    documentation="A security awareness program should be established to promote and embed expected security behavior throughout the organization and establish a security-positive culture.&#xA;- endorsed by executive management (to demonstrate management commitment and lead by example)">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

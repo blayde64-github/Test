@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d5727265becb4b63825b86f65e7a99e0"
+    documentation="Any new SAR2 review will trigger the creation of a new item in the ESA Work SharePoint list.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7ebd66cbd1bd4406938d418305a0ade4.xml#id-7ebd66cbd1bd4406938d418305a0ade4"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-9415cb31dfe240ca8b44e6c277305040.xml#id-9415cb31dfe240ca8b44e6c277305040"/>
+</archimate:TriggeringRelationship>

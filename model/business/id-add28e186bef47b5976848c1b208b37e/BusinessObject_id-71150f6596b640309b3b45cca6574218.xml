@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard Sales PowerPoint"
+    id="id-71150f6596b640309b3b45cca6574218"
+    documentation="Sales do not like the idea of images in a Word or PDF file that can't be edited. Colors or other aspects of a presentation may need to be corrected.&#xD;&#xA;&#xD;&#xA;Should we consider Sales' opinions on the PowerPoints?&#xD;&#xA;Rationale for No: There will be as many opinions about the PowerPoints as there are people. It's better that the stored PowerPoints are &quot;good enough&quot; and that Sales edit them as needed.&#xD;&#xA;&#xD;&#xA;Will we create one sales powerpoint that cover several questions and then re-use that file in several questions or create on PowerPoint which cover the specific question?">
+  <properties
+      key="Questions"
+      value="Yes"/>
+</archimate:BusinessObject>

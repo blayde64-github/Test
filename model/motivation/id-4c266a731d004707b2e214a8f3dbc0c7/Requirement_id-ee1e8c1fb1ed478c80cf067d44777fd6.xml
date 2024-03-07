@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.66.1 Technical vulnerability management process control"
+    id="id-ee1e8c1fb1ed478c80cf067d44777fd6"
+    documentation="There should be a documented process for managing technical vulnerabilities in applications, systems, equipment and devices">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

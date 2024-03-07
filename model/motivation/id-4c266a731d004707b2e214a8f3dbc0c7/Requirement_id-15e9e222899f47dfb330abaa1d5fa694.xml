@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.48.1 Change management process control"
+    id="id-15e9e222899f47dfb330abaa1d5fa694"
+    documentation="A change management process should be established, which covers all types of change (e.g. upgrades and modifications to applications, hardware and software, modifications to information, emergency fixes, and changes to information systems and networks).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

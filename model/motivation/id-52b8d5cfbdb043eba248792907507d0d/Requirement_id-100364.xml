@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clear segregation between public data and any internally sensitive information"
+    id="id-100364"
+    documentation="We need to design to protect the information within the repository. The key here is to clearly segregate public and internal information, so the users do not share confidential information by accident.&#xD;&#xA;&#xD;&#xA;Any evidence stored might be sensitive.&#xA;Users will be sharing data with customers and auditors, so they need an easy way to know what they are allowed to share.&#xD;&#xA;&#xD;&#xA;Addresses Security, resiliency and integrity"/>

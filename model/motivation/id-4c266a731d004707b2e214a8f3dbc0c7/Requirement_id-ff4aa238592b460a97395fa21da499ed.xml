@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TS.1.4.6: Intrusion detection methods should be supported by specialist software, such as Host-based Intrusion Detection Systems (HIDS) (e.g. Endpoint Detection and Response (EDR), client or host-based IPS agent) and Network-based Intrusion Detection Systems (NIDS), or an equivalent cloud service provider (CSP) service."
+    id="id-ff4aa238592b460a97395fa21da499ed"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="TS.1.4.6"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

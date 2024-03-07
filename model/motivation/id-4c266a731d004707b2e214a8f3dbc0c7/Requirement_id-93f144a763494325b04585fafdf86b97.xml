@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.82.1 BCP Testing control"
+    id="id-93f144a763494325b04585fafdf86b97"
+    documentation="Business continuity plans and arrangements should be tested on a regular basis, and at least annually.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

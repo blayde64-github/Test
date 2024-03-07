@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IM.1.5.5: DLP tools should be managed via a central management console (a single interface designed to author, implement and manage DLP policies), which can be used to record different DLP solutions across an organisation (e.g. cloud-based, network-based and host-based) and consolidate logging, reporting, review of policy violations, incident remediation and system administration."
+    id="id-9c610663a9764296add010b13cb0d21d"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="IM.1.5.5"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

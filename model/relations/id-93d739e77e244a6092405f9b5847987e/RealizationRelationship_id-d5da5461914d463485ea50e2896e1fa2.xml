@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d5da5461914d463485ea50e2896e1fa2"
+    documentation="See the section entitled &quot;information Flows&quot;. Information at is centre which is confidential with restricted access. Requirements for information access are detailed in the view &quot;Applying Security Architecture Principles To SAR&quot;">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-e86908e2f0114da8b4c3cab2deeee518.xml#id-e86908e2f0114da8b4c3cab2deeee518"/>
+</archimate:RealizationRelationship>

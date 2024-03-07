@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Team Formed"
+    id="id-aacc0ff472174f7bb8a2a7c190a62801">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_id-9e4bf21d6a404651b57b7a0e12042160.xml#id-9e4bf21d6a404651b57b7a0e12042160"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7d1a882dea8d45429b8d0303b28e2132.xml#id-7d1a882dea8d45429b8d0303b28e2132"/>
+</archimate:AssociationRelationship>

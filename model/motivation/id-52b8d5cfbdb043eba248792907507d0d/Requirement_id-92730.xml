@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ensure all logs are processed centrally to identify potential security issues"
+    id="id-92730"
+    documentation="As security operator I must ensure all logs are processed centrally to identify potential security issues with automated ability to link events together that are part of same incident."/>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6177c0a895da46b28a36f17799df61df"
+    documentation="The word file contains the score and summary of SAR respondents">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c4404b35371e42b8b71bfe19403aac17.xml#id-c4404b35371e42b8b71bfe19403aac17"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-097078c339ce4c3eb07e589462a47c0d.xml#id-097078c339ce4c3eb07e589462a47c0d"/>
+</archimate:RealizationRelationship>

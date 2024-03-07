@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2abba15ca8e44cffb5177d8394929788"
+    documentation="The Concern Summary is the basis for defining the goals in the Access Management project">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-afaab0680fda4354b5e03ce4cdeb1f9a.xml#id-afaab0680fda4354b5e03ce4cdeb1f9a"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b165de3aa7044cfeae969c18d4ed4d58.xml#id-b165de3aa7044cfeae969c18d4ed4d58"/>
+</archimate:InfluenceRelationship>

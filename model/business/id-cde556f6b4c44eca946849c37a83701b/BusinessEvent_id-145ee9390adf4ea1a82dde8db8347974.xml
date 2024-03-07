@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical issues cause flow to break"
+    id="id-145ee9390adf4ea1a82dde8db8347974"
+    documentation="Sometimes things break. it could be that a user has left, and permissions on a flow have dissapeard or anything else.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

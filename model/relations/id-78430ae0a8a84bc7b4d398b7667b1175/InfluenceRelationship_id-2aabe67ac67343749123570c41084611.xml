@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2aabe67ac67343749123570c41084611"
+    documentation="Having a common team communicating common standards has a huge impact on inconsistent knowledge. "
+    strength="--">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-5d1e468d64ae4ea480191aa1a93e5a4c.xml#id-5d1e468d64ae4ea480191aa1a93e5a4c"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-2428e44fd1ab4828ab03a1f02c385c73.xml#id-2428e44fd1ab4828ab03a1f02c385c73"/>
+</archimate:InfluenceRelationship>

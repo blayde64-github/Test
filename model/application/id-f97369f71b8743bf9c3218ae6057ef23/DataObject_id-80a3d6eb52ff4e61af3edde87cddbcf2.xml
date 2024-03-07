@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Architecture"
+    id="id-80a3d6eb52ff4e61af3edde87cddbcf2"
+    documentation="SABSA Business Attributes">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-a056d976b7844f27931f5aacde337498"/>
+</archimate:DataObject>

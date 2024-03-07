@@ -1,0 +1,333 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Structuring the Archi Repository"
+    id="id-13b0059fb90b4bb1b2ac4035fc95fdd4"
+    documentation="These are my first thoughts on structuring up the archi repository to make it useful for our stakeholders.  I am open to feedback and changes...">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-1ba2c148ce82413489f4bf57c4056fbb"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      textAlignment="1"
+      fillColor="#408080"
+      borderColor="#000000"
+      content="Root Level - Tietoevry Tech Services - Quality, Security &amp; Privacy Architecture">
+    <bounds
+        x="12"
+        y="12"
+        width="618"
+        height="601"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-8621f2c537264e61a88345b2052d5056"
+        targetConnections="id-997e1029e1064a17975beae572cc3ae8"
+        textAlignment="1"
+        alpha="100"
+        borderColor="#000000"
+        content="Project Specific">
+      <bounds
+          x="264"
+          y="287"
+          width="265"
+          height="295"/>
+      <children
+          xsi:type="canvas:CanvasModelBlock"
+          id="id-1b241d9758414c23a68a96ea2a58d7c5"
+          textAlignment="1"
+          alpha="100"
+          borderColor="#000000"
+          content="Folder Per Project">
+        <bounds
+            x="12"
+            y="30"
+            width="235"
+            height="247"/>
+        <children
+            xsi:type="canvas:CanvasModelSticky"
+            id="id-24f1be0b4f8b4afdbe9ea7d4cc7b2a68"
+            fillColor="#ffff95"
+            alpha="200"
+            content="View Per Archimate Aspect (Business, Strategy"
+            borderColor="#C0C0C0"
+            textPosition="1">
+          <bounds
+              x="12"
+              y="30"
+              width="99"
+              height="136"/>
+        </children>
+        <children
+            xsi:type="canvas:CanvasModelSticky"
+            id="id-2b5c1cfaac8345f2bb6699a559a3abf8"
+            fillColor="#ffff95"
+            alpha="200"
+            content="Risk &amp; Security Related"
+            borderColor="#C0C0C0"
+            textPosition="1">
+          <bounds
+              x="120"
+              y="30"
+              width="94"
+              height="43"/>
+        </children>
+        <children
+            xsi:type="canvas:CanvasModelBlock"
+            id="id-61cd6a79bc3f473f9638dbd59456a16e"
+            textAlignment="1"
+            alpha="100"
+            borderColor="#000000"
+            content="Subproject folders are allowed, but should follow the folders per project design)">
+          <bounds
+              x="12"
+              y="174"
+              width="211"
+              height="61"/>
+        </children>
+        <children
+            xsi:type="canvas:CanvasModelSticky"
+            id="id-ff456ee913a147289b4a1b373ebb9299"
+            fillColor="#ffff95"
+            alpha="200"
+            content="Overview"
+            borderColor="#C0C0C0"
+            textPosition="1">
+          <bounds
+              x="120"
+              y="78"
+              width="94"
+              height="40"/>
+        </children>
+        <children
+            xsi:type="canvas:CanvasModelSticky"
+            id="id-db8f741baf194e90bd57a139f3621a9d"
+            fillColor="#ffff95"
+            alpha="200"
+            content="Misc views"
+            borderColor="#C0C0C0"
+            textPosition="1">
+          <bounds
+              x="120"
+              y="126"
+              width="94"
+              height="40"/>
+        </children>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-054bfb043e9848c49356b07c78b24b66"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Reference Architectures"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="331"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-de792fcd67cb4d8780c72a02e630c94f"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Navigation"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-0b69a42cb4f04b9b9d610511c6860a09"
+          source="id-de792fcd67cb4d8780c72a02e630c94f"
+          target="id-a22490c05a2b49fa9a5e8b35f86a0559"/>
+      <bounds
+          x="19"
+          y="204"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-3b675f01ea594a378157ecdb3a31db71"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Motivation &amp; Strategy"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="160"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f01a4d7ccbc340808f77b4eb486b8526"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Misc"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="116"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-747b779773ce4950b1e324b7ff81c376"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Governance"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="37"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-55d004fd19d641eaa6f2de0a221998d9"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="High Level Project"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="76"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-8664115723234ad6b2a9698ab72034ae"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Organization"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="244"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-565a889b4c3e4e2095409b1cdc4a3895"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Project Specific"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-997e1029e1064a17975beae572cc3ae8"
+          source="id-565a889b4c3e4e2095409b1cdc4a3895"
+          target="id-8621f2c537264e61a88345b2052d5056"/>
+      <bounds
+          x="19"
+          y="286"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-38227fbbb6a644fd87a9714d3d547904"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="Risk &amp; Security"
+        notes="Includes things like roadmaps"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="374"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-6bb0a7bbf6564e52bcfa6cce87327dab"
+        font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffff95"
+        alpha="200"
+        content="To Organize"
+        notes="Includes things like roadmaps"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="19"
+          y="419"
+          width="111"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-a22490c05a2b49fa9a5e8b35f86a0559"
+        targetConnections="id-0b69a42cb4f04b9b9d610511c6860a09"
+        textAlignment="1"
+        alpha="100"
+        borderColor="#000000"
+        content="Navigation">
+      <bounds
+          x="264"
+          y="109"
+          width="265"
+          height="134"/>
+      <children
+          xsi:type="canvas:CanvasModelBlock"
+          id="id-b5e7cf2a13d8420981dd070a72f725cc"
+          textAlignment="1"
+          alpha="100"
+          borderColor="#000000"
+          content="Navigation views is the method we use to help stakeholders using the Web View to find what's relevant to them.">
+        <bounds
+            x="29"
+            y="48"
+            width="211"
+            height="71"/>
+      </children>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-c28408fefe4b45808bce7ce8c2dced44"
+      fillColor="#c6f9c6"
+      content="We want uptake of our repository and for people to see value&#xD;&#xA;&#xD;&#xA;With Web Access we will be able to make this much more immediately available.&#xD;&#xA;&#xD;&#xA;We also need to define some property related governance for the repository.&#xD;&#xA;&#xD;&#xA;I dont want to overkill on effort but this is essential"
+      notes="# General idea - want a clearer distinction between completed architecture and work in progress.&#xD;&#xA;Achieved by using Status colors in the Infoboxes.&#xD;&#xA;&#xD;&#xA;# This means keeping rubbish views away from the masses and copying approved views from draft.&#xD;&#xA;In the new way of organizing the views, the &quot;rubbish&quot; are more apparent. This will be mitigated by creating navigational views which will steer users to the approved views."
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="653"
+        y="84"
+        width="193"
+        height="373"/>
+  </children>
+  <properties
+      key="Business Owner"
+      value="Owen Richardson"/>
+  <properties
+      key="Stakeholder"
+      value="Owen Richardson (Head of Enterprise Security Architecture)"/>
+  <properties
+      key="View Status"
+      value="Draft"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+</canvas:CanvasModel>

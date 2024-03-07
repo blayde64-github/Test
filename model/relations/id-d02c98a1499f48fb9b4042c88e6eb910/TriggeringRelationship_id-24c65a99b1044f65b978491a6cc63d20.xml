@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-24c65a99b1044f65b978491a6cc63d20"
+    documentation="as an example we introduced principles to the EA team around doing security architecture review. Because nobody does design and there are no mechanisms in place to enforce it, we cannot properly secure solutions.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-317bced148f94f89a958811d435113bd.xml#id-317bced148f94f89a958811d435113bd"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-79858bcc71494713b3582fb33aa8dffe.xml#id-79858bcc71494713b3582fb33aa8dffe"/>
+</archimate:TriggeringRelationship>

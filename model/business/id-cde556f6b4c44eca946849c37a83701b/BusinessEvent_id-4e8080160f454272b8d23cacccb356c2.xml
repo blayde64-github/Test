@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodic reviews aren't being performed"
+    id="id-4e8080160f454272b8d23cacccb356c2"
+    documentation="Perodic reviews are there to ensure access is still required. People are switching roles and responsibilities and the periodic review takes care that the accesses are removed unless it was done earlier as part of the role change. &#xD;&#xA;&#xD;&#xA;IAM periodic reviews are essential to ensure that user access rights remain appropriate, secure, and compliant with policies, thereby reducing security risks and data breaches.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

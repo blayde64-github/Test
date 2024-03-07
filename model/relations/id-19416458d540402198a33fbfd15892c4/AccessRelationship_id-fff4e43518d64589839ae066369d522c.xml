@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utilized By"
+    id="id-fff4e43518d64589839ae066369d522c"
+    documentation="Conceptually Archimate, and may other standards use this. It is considered whenever we define architecture."
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-21b899f01fc54ae3953fdfc848944f51.xml#id-21b899f01fc54ae3953fdfc848944f51"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.44.4 Network storage physical centralization control"
+    id="id-05fff9d00e9c43c2a2f38d5ac880d41e"
+    documentation="Be managed from a central point (e.g. a computer operations room or Network Operations Centre (NOC)) using a minimum number of management consoles">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

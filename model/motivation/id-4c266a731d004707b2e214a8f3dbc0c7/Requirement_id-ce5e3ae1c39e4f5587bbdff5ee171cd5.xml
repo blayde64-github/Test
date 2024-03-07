@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.47.4 Backup access control"
+    id="id-ce5e3ae1c39e4f5587bbdff5ee171cd5"
+    documentation="Backups should be protected from loss, damage and unauthorized access">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

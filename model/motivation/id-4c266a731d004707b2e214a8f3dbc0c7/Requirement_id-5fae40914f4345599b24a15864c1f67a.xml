@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.9.2 Remote working vpn control"
+    id="id-5fae40914f4345599b24a15864c1f67a"
+    documentation="Connecting securely to the organizations network (e.g. through a Virtual Private Network (VPN) or secure web-browser session).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

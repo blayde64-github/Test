@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.14 Independent risk analysis security control"
+    id="id-a5e88edd83084e4ea7919f6e628e6aa2"
+    documentation="Perform independent risk analyzes to identify security deficiencies.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

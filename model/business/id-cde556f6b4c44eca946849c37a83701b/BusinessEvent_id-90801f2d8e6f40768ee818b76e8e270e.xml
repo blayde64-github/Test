@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV010 Exploit poorly designed network architecture"
+    id="id-90801f2d8e6f40768ee818b76e8e270e"
+    documentation="The threat takes advantage of poorly designed network architecture to identify potential target systems for further threat events.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;This threat event can include exploiting:&#xD;&#xA;ԉ      unnecessary or unprotected internet connections&#xD;&#xA;ԉ      weak filtering on internet or internal network connections&#xD;&#xA;ԉ a lack of segregation of critical systems or business functions (e.g. no DMZ &#xD;&#xA;in place).">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

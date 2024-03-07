@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV005 Conduct a denial of service (DoS) attack"
+    id="id-70cadd1d97ee44f78909f531e5d4d981"
+    documentation="The threat deliberately impairs the availability or performance of an organisation’s &#xD;&#xA;information system(s).&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;At lower levels of threat strength, the threat is likely to use relatively unsophisticated techniques, involving the use of publicly available tools, a single source/host and limited network bandwidth.&#xD;&#xA;&#xD;&#xA;At higher levels of threat strength, the threat could employ more sophisticated techniques, involving:&#xD;&#xA;ԉ      the development and/or use of custom tools&#xD;&#xA;ԉ      a large number of information systems in different locations&#xD;&#xA;ԉ      a large amount of network bandwidth&#xD;&#xA;ԉ      interfering with wireless communications (e.g. Wi-Fi or GSM/CDMA) so as to impede or prevent communications from reaching intended recipients.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

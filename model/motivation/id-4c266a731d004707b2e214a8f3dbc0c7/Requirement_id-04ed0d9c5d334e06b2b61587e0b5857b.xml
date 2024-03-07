@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.15.2 Workstation firmware control"
+    id="id-04ed0d9c5d334e06b2b61587e0b5857b"
+    documentation="Workstation computers should be provided with standard firmware configurations, applying pre-configured software interface settings (e.g. within BIOS or UEFI) to restrict powerful functionality (e.g. boot options)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

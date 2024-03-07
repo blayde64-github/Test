@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.12 Security updates customer alignment control"
+    id="id-19ed5095d82c4f3baea5a71bde888ae1"
+    documentation="Analyze all security updates that are relevant for delivered infrastructure according to customers security requirements, classify and prioritize according to relevance">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

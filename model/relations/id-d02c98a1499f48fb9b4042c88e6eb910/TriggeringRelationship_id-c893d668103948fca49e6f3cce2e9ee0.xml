@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c893d668103948fca49e6f3cce2e9ee0"
+    documentation="Much of the value we can gain from architecture comes through stakeholder engagement. If people do not see its value, the value breaks down.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-f99827c8b346430ca8099caab8a18720.xml#id-f99827c8b346430ca8099caab8a18720"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-ee551b50d32147a6882e11ae5bf87a81.xml#id-ee551b50d32147a6882e11ae5bf87a81"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensitive File Protection"
+    id="id-327534"
+    documentation="The ability to protect sensitive information from being read or modified by administrators who have access to a file system but are not authorized to read the protected data within certain files. Also, the ability to monitor changes to sensitive files to audit who is making changes to them or reading them."/>

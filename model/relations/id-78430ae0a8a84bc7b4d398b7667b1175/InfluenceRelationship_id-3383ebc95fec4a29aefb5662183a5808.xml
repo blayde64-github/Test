@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3383ebc95fec4a29aefb5662183a5808"
+    documentation="The head of the enterprise security architecture team is very passionate about security architecture and design and has been an advocate for better architecture design for several years."
+    strength="+++">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-8b48243609e441259db1f3fa78937bd3.xml#id-8b48243609e441259db1f3fa78937bd3"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-cd41c391f4164eb0bc62eb8f464f7a91.xml#id-cd41c391f4164eb0bc62eb8f464f7a91"/>
+</archimate:InfluenceRelationship>

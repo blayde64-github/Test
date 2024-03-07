@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Based Authentication"
+    id="id-327615"
+    documentation="A non-static authentication system which takes into account the profile(IP address, User-Agent HTTP header, time of access, and so on) of the agent requesting access to the system to determine the risk profile associated with that transaction. The risk profile is then used to determine the complexity of the challenge. Higher risk profiles leads to stronger challenges, whereas a static username/password may suffice for lower-risk profiles. Risk-based implementation allows the application to challenge the user for additional credentials only when the risk level is appropriate"/>

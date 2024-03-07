@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-61cc9618f2ca473c9a8ea3dfe5bad439"
+    documentation="AARM2 stop the process for deprovisioning all the accounts associated with the user">
+  <source
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-2087a528e4694e1ba29a2b9d97ecbbfa.xml#id-2087a528e4694e1ba29a2b9d97ecbbfa"/>
+  <target
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-e8866bdf06234d1383106a949fa7dc14.xml#id-e8866bdf06234d1383106a949fa7dc14"/>
+</archimate:TriggeringRelationship>

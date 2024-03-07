@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-20249d9cbef542a99c04a4a9e1202833"
+    documentation="Security and compliance unit is responsable for ensuring the security governance framework meets the needs of the business.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2aabff9c9706429eb0ed8b52960a5ea8.xml#id-2aabff9c9706429eb0ed8b52960a5ea8"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a9c08e92ef414e1d8e4d88ca1b2ebe98.xml#id-a9c08e92ef414e1d8e4d88ca1b2ebe98"/>
+</archimate:RealizationRelationship>

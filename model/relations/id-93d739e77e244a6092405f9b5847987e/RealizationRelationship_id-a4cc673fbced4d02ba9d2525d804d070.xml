@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a4cc673fbced4d02ba9d2525d804d070"
+    documentation="This is a non-critical service, but the SAR Guide details how the process works and can easily be run manually should the technology systems become unavailable">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a7d82793f85c4922a35abd530d93efec.xml#id-a7d82793f85c4922a35abd530d93efec"/>
+</archimate:RealizationRelationship>

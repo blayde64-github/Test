@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-90273c87d1c74d3e82dfa65093ca5992"
+    documentation="Writes question responses to the SharePoint List.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-0a89e5537cfc4f469f6fa80ae23d3107.xml#id-0a89e5537cfc4f469f6fa80ae23d3107"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d74a519cd412488f83546b16eed119f1.xml#id-d74a519cd412488f83546b16eed119f1"/>
+</archimate:FlowRelationship>

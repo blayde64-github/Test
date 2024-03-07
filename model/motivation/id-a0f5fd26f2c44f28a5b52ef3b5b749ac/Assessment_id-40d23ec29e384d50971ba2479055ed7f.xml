@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roles and responsibilities unclear in Norway delivery environment"
+    id="id-40d23ec29e384d50971ba2479055ed7f"
+    documentation="Because the roles and responsiblities for services and assets are unclear, the lifecycle is not working. &#xD;&#xA;&#xD;&#xA;This usually means for example that the patching is not in place, technical vulnerabilities are not fixed, business processes are not montiored - so basically we loose the confidentiliaty, integrity and availablity.">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f810ecf8cfad4779ada9c6ace85588da"
+    documentation="The SAR2 Submission Solution is completely automated and requires no intervention.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-48c88917c210466fbd8445cea0f89a95.xml#id-48c88917c210466fbd8445cea0f89a95"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bcd54abb53b642daa2a4257f0eb5ee79.xml#id-bcd54abb53b642daa2a4257f0eb5ee79"/>
+</archimate:RealizationRelationship>

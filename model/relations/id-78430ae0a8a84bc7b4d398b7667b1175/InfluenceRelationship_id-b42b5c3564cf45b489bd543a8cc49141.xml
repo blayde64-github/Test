@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b42b5c3564cf45b489bd543a8cc49141"
+    documentation="A negative influence means that some of the SOGP recommended controls, i.e the Stubs/Statements, or parts of the Stubs, i.e. the Sub-Points are disregarded."
+    strength="-">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-5a9b2db88f8b4758a4d524ac46c6485c.xml#id-5a9b2db88f8b4758a4d524ac46c6485c"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-daa176f5fee34319bd5b5aaab7cec71e.xml#id-daa176f5fee34319bd5b5aaab7cec71e"/>
+</archimate:InfluenceRelationship>

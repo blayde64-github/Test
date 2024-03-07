@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.83.3 Penetration testing control"
+    id="id-be86325f7b8c4f9f80501ecd2c6530c3"
+    documentation="Penetration tests (which only produce a snapshot of security status) should be tightly managed">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

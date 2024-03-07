@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.6 BYOD device loss control"
+    id="id-c1271e7a03594b599ecad30293df595b"
+    documentation="Immediately report actual and suspected security incidents relating to the device (e.g. loss or theft of the device, unauthorized disclosure of information) to a helpdesk, specialist IT team/department or equivalent">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

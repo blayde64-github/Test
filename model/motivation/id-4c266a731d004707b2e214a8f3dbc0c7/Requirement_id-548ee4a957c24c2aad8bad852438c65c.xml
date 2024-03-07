@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR.2.3.2: A threat landscape should be created by identifying threats relevant to the target environment considering different categories such as adversarial (e.g. nation states, organised criminal groups or terrorist groups), accidental (e.g. inexperienced employees, customers or vendors) or environmental (e.g. earthquakes, fires or floods)."
+    id="id-548ee4a957c24c2aad8bad852438c65c"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="IR.2.3.2"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

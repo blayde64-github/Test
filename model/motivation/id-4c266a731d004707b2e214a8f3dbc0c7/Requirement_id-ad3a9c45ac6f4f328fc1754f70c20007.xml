@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.57.3 Cloud service data protection control"
+    id="id-ad3a9c45ac6f4f328fc1754f70c20007"
+    documentation="Data processed by cloud services should be protected, which includes:&#xA;* managing critical and sensitive data by using data location services, performing data backups regularly and protecting data in line with its classification&#xA;* encrypting sensitive data by using the CSP default encryption solution, con-figuring customer-managed key encryption or implementing customer-supplied key encryption&#xA;* employing a data leakage prevention (DLP) solution by extending an on-premises DLP programme to cloud services, configuring DLP functionality in cloud services and/or using the DLP functionality of a cloud access security broker (CASB).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

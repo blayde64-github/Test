@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5a975da88b1e479095a0c7857461b543"
+    documentation="Solution is signed off by the head of Enterprise Security Architecture - and is peer reviewed. This is highly irregular but no other governing authority exists.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c1acfe107bd9423085fcf51cc5aa568b.xml#id-c1acfe107bd9423085fcf51cc5aa568b"/>
+</archimate:RealizationRelationship>

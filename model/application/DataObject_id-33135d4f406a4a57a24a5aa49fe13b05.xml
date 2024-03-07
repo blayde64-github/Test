@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAR 2 (Unpivoted and Normalized) Query"
+    id="id-33135d4f406a4a57a24a5aa49fe13b05"
+    documentation="This query contains the steps to transform SAR2 data.&#xD;&#xA;&#xD;&#xA;This query is merged with the Level Mapping Query&#xD;&#xA;Purpose&#xD;&#xA;We need the number of questions per section to normalize the score on Level 1 in a SAR2 review.&#xD;&#xA;&#xD;&#xA;Rationale&#xD;&#xA;To provide a dashboard with a scoring that is similar in format to SAR2, we need to aggregate and normalize the score. Otherwise the maxium score for System Design would be 7, when in SAR1 the maxiumum score would be 1.&#xD;&#xA;&#xD;&#xA;How&#xD;&#xA;All SAR2 questions are grouped on Level 1, where the Level 2 scores are aggregated. The aggregated score is then divided by the number of questions for each section, giving us a normalized score."/>

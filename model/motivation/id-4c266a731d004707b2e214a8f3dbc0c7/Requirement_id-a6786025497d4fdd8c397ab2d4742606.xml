@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.41.6 Standard build control"
+    id="id-a6786025497d4fdd8c397ab2d4742606"
+    documentation="Enable a standard predetermined server configuration to be built (often referred to as a server image or standard build), the installation of which can be automated">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

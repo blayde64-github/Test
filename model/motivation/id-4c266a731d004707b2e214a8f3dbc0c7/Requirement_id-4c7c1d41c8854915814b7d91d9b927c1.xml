@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.63.2 Cryptography guidelines control"
+    id="id-4c7c1d41c8854915814b7d91d9b927c1"
+    documentation="There should be documented guidelines for the use of cryptography across the organization">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3ebb333eaa244ec28ca80d774578d29a"
+    documentation="The security architecture review service has ease of use as a primary consideration. &#xD;&#xA;&#xD;&#xA;Theres the question guide - which makes it easy to understand each question &#xD;&#xA;The question form - Every question can be answered yes, no or partially. and scoring is based on that. the question criteria also exist in the guide &#xD;&#xA;The level one review is only 5 questions. The level two review is 28 questions, but includes a mechanism where the security architecture team helps&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-17c939ffa8764ef494058889a3bdb6a1.xml#id-17c939ffa8764ef494058889a3bdb6a1"/>
+</archimate:RealizationRelationship>

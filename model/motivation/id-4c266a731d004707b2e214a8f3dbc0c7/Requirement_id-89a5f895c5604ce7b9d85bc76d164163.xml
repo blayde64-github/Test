@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.44.1 Network storage standards and procedures control"
+    id="id-89a5f895c5604ce7b9d85bc76d164163"
+    documentation="Network storage systems, such as storage area network (SAN) and network-attached storage (NAS) should be deployed, configured and maintained in accordance with documented standards/procedures.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

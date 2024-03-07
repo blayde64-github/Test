@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.85.1 Information risk reporting control"
+    id="id-2c93f4caeae345f3a17bf7986c85dfce"
+    documentation="There should be documented standards/procedures for reporting information risks (e.g. to executive management)">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

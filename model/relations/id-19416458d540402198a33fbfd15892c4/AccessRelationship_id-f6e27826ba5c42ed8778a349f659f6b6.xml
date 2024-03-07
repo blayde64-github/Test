@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send"
+    id="id-f6e27826ba5c42ed8778a349f659f6b6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b38d9d6b5ad74e9da80ca35e53467367.xml#id-b38d9d6b5ad74e9da80ca35e53467367"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-21afb800e49c4aa58412bd088869069d.xml#id-21afb800e49c4aa58412bd088869069d"/>
+</archimate:AccessRelationship>

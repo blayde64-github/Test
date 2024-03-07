@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.45.1 System maintenance critical business control"
+    id="id-c052662fd28840709b7df1d9785b81bf"
+    documentation="Computer and network services that support critical business applications and processes should be defined in documented service agreements (e.g. contracts or service level agreements) that meet operational, safety and security requirements.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

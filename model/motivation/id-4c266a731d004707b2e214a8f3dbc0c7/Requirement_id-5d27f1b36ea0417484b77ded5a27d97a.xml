@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A.9.4.5 Access control to program source code"
+    id="id-5d27f1b36ea0417484b77ded5a27d97a"
+    documentation="Control Access to program source code shall be restricted.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

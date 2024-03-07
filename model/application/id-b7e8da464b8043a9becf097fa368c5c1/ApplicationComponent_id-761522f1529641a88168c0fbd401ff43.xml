@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAR2 Form Posting Flow"
+    id="id-761522f1529641a88168c0fbd401ff43"
+    documentation="This power automate script is triggered when the SAR2 review form is filled in. It sends the data to the SharePoint list, as well as notifying various channels of the fact the review has happened. ">
+  <properties
+      key="URL"
+      value="https://make.powerautomate.com/environments/Default-cbede638-a3d9-459f-8f4e-24ced73b4e5e/flows/shared/1a0b0d9e-7ca8-4cc8-8bff-05340f86e670"/>
+</archimate:ApplicationComponent>

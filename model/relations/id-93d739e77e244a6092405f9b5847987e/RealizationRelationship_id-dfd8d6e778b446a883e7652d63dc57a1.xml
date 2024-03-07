@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dfd8d6e778b446a883e7652d63dc57a1"
+    documentation="Tech Services Architecture principles are mandated by the EA Team.">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-8e9f090cc5e041c295b00f852c9f06de.xml#id-8e9f090cc5e041c295b00f852c9f06de"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c6a234616244413d977e4f80f1a8b4da.xml#id-c6a234616244413d977e4f80f1a8b4da"/>
+</archimate:RealizationRelationship>

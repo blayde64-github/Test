@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-32f28a8786724438813eae590d576a93"
+    documentation="Not completing write ups means we lose a level of traceability over what was said, and it also means that formal feedback is not provided to architects, meaning they cannot be held accountable. "
+    strength="--">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-a39aee76fd0448af89bac9210c1041d8.xml#id-a39aee76fd0448af89bac9210c1041d8"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

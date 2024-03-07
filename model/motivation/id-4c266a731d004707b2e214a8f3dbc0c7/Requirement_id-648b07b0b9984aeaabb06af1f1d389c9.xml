@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.41.2 System segregation control"
+    id="id-648b07b0b9984aeaabb06af1f1d389c9"
+    documentation="Critical systems or networks should be segregated from untrusted networks using physical or virtual techniques">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

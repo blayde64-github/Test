@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.39.2 Customer security acceptance control"
+    id="id-190a0578213e4e4684442892f70f7c7b"
+    documentation="Customer contracts should be signed by an authorised person representing the customer to demonstrate their acceptance of security responsibilities">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

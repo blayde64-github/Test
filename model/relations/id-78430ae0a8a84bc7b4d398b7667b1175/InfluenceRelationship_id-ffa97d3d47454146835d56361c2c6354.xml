@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ffa97d3d47454146835d56361c2c6354"
+    documentation="A positive influence means that all of the SOGP recommended controls, i.e the Stubs/Statements, have been adopted. For a Stub to be fully adopted, all of its Sub-Points must be included."
+    strength="+">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-5a9b2db88f8b4758a4d524ac46c6485c.xml#id-5a9b2db88f8b4758a4d524ac46c6485c"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-daa176f5fee34319bd5b5aaab7cec71e.xml#id-daa176f5fee34319bd5b5aaab7cec71e"/>
+</archimate:InfluenceRelationship>

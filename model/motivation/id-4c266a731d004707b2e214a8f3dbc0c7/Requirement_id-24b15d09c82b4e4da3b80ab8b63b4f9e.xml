@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.42.3 Server image control"
+    id="id-24b15d09c82b4e4da3b80ab8b63b4f9e"
+    documentation="Servers should be built/configured using a standardized, predetermined server image">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

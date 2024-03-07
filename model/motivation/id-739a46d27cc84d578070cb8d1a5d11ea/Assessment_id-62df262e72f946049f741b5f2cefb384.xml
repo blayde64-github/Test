@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of security controls with an assigned owner"
+    id="id-62df262e72f946049f741b5f2cefb384"
+    documentation="The &quot;Number of Security Controls with an Assigned Owner&quot; metric measures the quantity of security controls within our system or infrastructure that have been assigned a specific individual or team responsible for their implementation and maintenance. This metric focuses on the accountability and ownership of security controls, ensuring that each control has an assigned owner within our organization who is responsible for its effective implementation, monitoring, and remediation. By tracking this metric, we can assess the level of responsibility and oversight assigned to our security controls, promoting clear lines of ownership and accountability for maintaining a secure environment. It enables us to identify any gaps or inconsistencies in control ownership, facilitating better coordination and collaboration among individuals or teams responsible for implementing and managing security controls.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

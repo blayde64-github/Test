@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c9999840a8fd40259e11dfa930c2ee6b"
+    documentation="Due to very poor risk management practices and a lack of quantifiable data on business impact it is impossible to establish a full business impact analysis for this solution. However, The business need for this solution is loosely defined in the view titled &quot;Why Do Security By Design? Stakeholder View&quot;.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-3d758af6c5cd4cf583d31953311b88da.xml#id-3d758af6c5cd4cf583d31953311b88da"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c7303a36f4a24daf84ec3c5265fb9722"
+    documentation="Governance governs how and what we train.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-317bced148f94f89a958811d435113bd.xml#id-317bced148f94f89a958811d435113bd"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-52efbfa53feb4e5db5348a320fde0946.xml#id-52efbfa53feb4e5db5348a320fde0946"/>
+</archimate:TriggeringRelationship>

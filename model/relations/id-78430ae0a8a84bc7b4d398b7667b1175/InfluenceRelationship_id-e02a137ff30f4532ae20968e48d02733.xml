@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e02a137ff30f4532ae20968e48d02733"
+    documentation="To meet customer needs we have made a number of promises in our base contracts that ensure compliance to ISO27k, and our security baseline."
+    strength="++">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-254e7b63e3ab4d41950fea5545b13cd2.xml#id-254e7b63e3ab4d41950fea5545b13cd2"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-810ecc871c1c4182ac4b7832c0539482.xml#id-810ecc871c1c4182ac4b7832c0539482"/>
+</archimate:InfluenceRelationship>

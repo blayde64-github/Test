@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9699d5e06d434e888dc2645debcb59a4"
+    documentation="Lead the  Risk mgmt and mitigation work through Tech Services">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9584f46968764af2910a012be2e01168.xml#id-9584f46968764af2910a012be2e01168"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-5ad9dfbf690c4d80b888069086a3ee82.xml#id-5ad9dfbf690c4d80b888069086a3ee82"/>
+</archimate:RealizationRelationship>

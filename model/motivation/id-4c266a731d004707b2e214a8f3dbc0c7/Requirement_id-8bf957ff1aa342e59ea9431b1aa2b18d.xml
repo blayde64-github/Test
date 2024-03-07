@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC.1.1.13d: d) other common information security control groupings (e.g. system management, access management, vulnerability management, incident management, and business continuity) as defined in popular control frameworks (e.g. ISF Standard of Good Practice, ISO 27002 or NIST Cyber Security Framework)."
+    id="id-8bf957ff1aa342e59ea9431b1aa2b18d"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SC.1.1.13d"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

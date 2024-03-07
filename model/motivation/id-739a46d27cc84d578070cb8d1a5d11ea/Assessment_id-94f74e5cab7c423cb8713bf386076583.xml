@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of architectures that show how security architecture is integrated into design"
+    id="id-94f74e5cab7c423cb8713bf386076583"
+    documentation="The &quot;Number of architectures that show how security architecture is integrated into design&quot; metric relates to the count of system designs where security considerations have been embedded from the ground up. In this context, 'security architecture' refers to the overarching structure and elements used to protect our systems from threats. Essentially, this metric indicates how many of our system designs have been crafted with security as a foundational component, rather than an afterthought. It's an important metric, as it underscores our commitment to creating systems that are inherently secure and robust, setting a strong defensive line against potential cyber threats.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

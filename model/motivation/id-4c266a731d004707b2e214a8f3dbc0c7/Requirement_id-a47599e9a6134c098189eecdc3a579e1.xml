@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.10 Firewall protection control"
+    id="id-a47599e9a6134c098189eecdc3a579e1"
+    documentation="Firewalls should be protected against attack by:&#xA;    restricting administrator access to a limited number of authorised, skilled individuals, such as firewall adminis-trators (e.g. by using strict access con-trol mechanisms and strong authenti-cation)&#xA;    limiting administrator access to dedi-cated accounts that are only used for managing firewalls&#xA;    encrypting administrator access (e.g. by using secure management con-soles, secure remote login shells such as SSH or encrypted connections us-ing TLS, IPsec or equivalent)&#xA;    restricting administrator access to a central point (e.g. in a Network Oper-ations Centre (NOC) using a minimum number of firewall management con-soles)&#xA;    preventing information about them (e.g. the manufacturer and model of the firewall, and the version numbers of the operating system and security software) from being disclosed on the network.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

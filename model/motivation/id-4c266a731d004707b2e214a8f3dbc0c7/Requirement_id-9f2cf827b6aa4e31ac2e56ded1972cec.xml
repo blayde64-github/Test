@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.8 Infosec strategy and policy control"
+    id="id-9f2cf827b6aa4e31ac2e56ded1972cec"
+    documentation="Developing and maintaining an information security strategy and policy that supports the security governance framework">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

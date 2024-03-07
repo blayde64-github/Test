@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ensure that log processing system is able to detect animalities after a learning period"
+    id="id-92642"
+    documentation="As security operator I must ensure that log processing system is able to detect animalities after a learning period (like this server has never contacted this before)(user behaviour analytics). The service should support analytic capabilities to automate the service and alert on unusual behaviour."/>

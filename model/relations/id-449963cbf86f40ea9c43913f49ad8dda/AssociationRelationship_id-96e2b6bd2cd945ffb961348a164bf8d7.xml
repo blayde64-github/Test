@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utilizes"
+    id="id-96e2b6bd2cd945ffb961348a164bf8d7"
+    documentation="The community support effort utilizes the Enterprise Security Architecture Community Microsoft Teams site.">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-5a05e1de3ed643a3b24a9807f018433a.xml#id-5a05e1de3ed643a3b24a9807f018433a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c7fa36738184be18c63aa5c2d2f343f.xml#id-3c7fa36738184be18c63aa5c2d2f343f"/>
+</archimate:AssociationRelationship>

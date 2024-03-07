@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-afe987c0e68c4607ae602f15640308d8"
+    documentation="The Dashboard is how the LT get access to security architecture review data.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba90bef328e84f008443093d7fefea69.xml#id-ba90bef328e84f008443093d7fefea69"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a6fedeb0b8f74da7b39d70e9e9c1a145.xml#id-a6fedeb0b8f74da7b39d70e9e9c1a145"/>
+</archimate:RealizationRelationship>

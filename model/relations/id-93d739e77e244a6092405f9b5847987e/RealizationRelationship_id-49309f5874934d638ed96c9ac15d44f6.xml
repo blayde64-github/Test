@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-49309f5874934d638ed96c9ac15d44f6"
+    documentation="The Head of Enterprise Security Architecture is the sign off authority for this solution.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-083fe14fdc9148bbb24614045fa2f21a.xml#id-083fe14fdc9148bbb24614045fa2f21a"/>
+</archimate:RealizationRelationship>

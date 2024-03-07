@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.78.3 Resilience fault management control"
+    id="id-7df9f8da15e04d3f979ffdbb76348cca"
+    documentation="The resilience of technical infrastructure should be improved by providing a method of dealing with faults, which includes:&#xA;    recording all actual or suspected faults&#xA;    disabling equipment, software and services with suspected faults until remedied&#xA;    ensuring that critical information systems, networks and voice communication systems are repaired or replaced within predefined timescales.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

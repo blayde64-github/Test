@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Q&amp;A Repository Approver"
+    id="id-902f7fb78765421182ea6da50ce646cd"
+    documentation="The approver is responsible for reviewing the submissions sent by the submitter and ensures that the answers are correct.&#xD;&#xA;&#xD;&#xA;The approver has the mandate from the Head of Security &amp; Compliance to state whether a submitted answer is good enough.&#xD;&#xA;&#xD;&#xA;How to assign accountability in this view? &#xD;&#xA;">
+  <properties
+      key="Questions"
+      value="Yes"/>
+</archimate:BusinessRole>

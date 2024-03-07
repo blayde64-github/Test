@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1713a501690a4f69ad832a685c59ea1b"
+    documentation="This view shows the goals, deliverables &amp; resourcing of the Security Awareness Architecture Community work package.">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-ce52da48bb624dbeb8008741146bdc99.xml#id-ce52da48bb624dbeb8008741146bdc99"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-bddb076e774a4d45a3fbafa564e1d9bb.xml#id-bddb076e774a4d45a3fbafa564e1d9bb"/>
+</archimate:RealizationRelationship>

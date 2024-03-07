@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filtering Feasible"
+    id="id-f893b221b1244b1983b5c8364d6d2091">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-959f1a84b20245c79c5a8aefd18cb4fc.xml#id-959f1a84b20245c79c5a8aefd18cb4fc"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5294e889bc2046d3b8113ce8d9598008.xml#id-5294e889bc2046d3b8113ce8d9598008"/>
+</archimate:TriggeringRelationship>

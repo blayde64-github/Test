@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESAWeb Web App"
+    id="id-33058ecefaa5409ab8243f6a4743855c"
+    documentation="A Microsoft Azure web application for hosting our Archi repository.">
+  <properties
+      key="URL"
+      value="https://portal.azure.com/#@tietocorporation.onmicrosoft.com/resource/subscriptions/4a11df83-96ee-4019-b8cd-7b695aba926a/resourceGroups/owen.richardson_rg_2785/providers/Microsoft.Web/sites/SCADWeb/appServices"/>
+</archimate:ApplicationComponent>

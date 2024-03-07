@@ -1,0 +1,27 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S&amp;C Vulnerability Management development"
+    id="id-82860"
+    documentation="S&amp;C Vulnerability Management Capability development&#xA;&#xA;Capabilities&#xA;&#xA;Vulnerability Management&#xA;&#xA;-    The cyclical practice of identifying, classifying, remediating, and mitigating vulnerabilities (generally in software).&#xA;&#xA;Goals&#xA;&#xA;Enable Common Vulnerability Management Lifecycle for Tietoevry Connect &#xA;This is one of the three sub-goals required to enable common risk, security, and compliance management services for TE Connect. These services are used to ensure that TE Connect deliveries are secured, continuously monitored against threat and that our costs are optimized.&#xA;&#xA;Analyze and optimize current state portfolio for the capabilities used&#xA;&#xA;Resources:&#xA;&#xA;- Project Manager: Ensures resources are there and making sure project is delivering&#xA;&#xA;- Service Architect: Key role who is driving the overall solution towards the goal&#xA;&#xA;- Security Solutions Architect: Security Solutions architects are required to bring expertise on various applications used in security monitoring area&#xA;&#xA;- ServiceNow Architect: Solution will be connected to ServiceNow (risk management etc) thus deep understanding of ServiceNow is required&#xA;&#xA;- Cloud Architect: Securing cloud with is also in scope, therefore extensive knowledge on cloud solutions is required&#xA;&#xA;- Automation Architect: Automation is required in many parts of the solution to ensure for example that processes are automated. &#xA;">
+  <properties
+      key="Passed SCARB"
+      value="Yes - Pending Changes"/>
+  <properties
+      key="Project Manager"
+      value="Jaroslav Jurka"/>
+  <properties
+      key="Project Owner"
+      value="Jan Drasal (Lead Security Consultant)"/>
+  <properties
+      key="Start Date"
+      value="2023-01-01"/>
+  <properties
+      key="End Date"
+      value="2023-04-30"/>
+  <properties
+      key="Project Status"
+      value="Yellow"/>
+  <properties
+      key="Architect"
+      value="Sami Aura"/>
+</archimate:WorkPackage>

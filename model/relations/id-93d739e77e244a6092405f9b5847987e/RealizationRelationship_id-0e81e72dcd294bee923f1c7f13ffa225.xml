@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0e81e72dcd294bee923f1c7f13ffa225"
+    documentation="Controlled by standard technology. power apps respect the permissions of the underlaying data sources. Access to the app can only happen for people who have permissions on the SharePoint list.">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-b6c96760caf54e12a26677f22eaeb0a8.xml#id-b6c96760caf54e12a26677f22eaeb0a8"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-25235b245e374c74a3604b59100ab685.xml#id-25235b245e374c74a3604b59100ab685"/>
+</archimate:RealizationRelationship>

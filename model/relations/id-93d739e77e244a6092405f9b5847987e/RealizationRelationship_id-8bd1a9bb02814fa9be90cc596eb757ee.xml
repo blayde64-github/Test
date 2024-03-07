@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8bd1a9bb02814fa9be90cc596eb757ee"
+    documentation="Only ESA Architecture Team has direct access to the SAR2 SharePoint List.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7ebd66cbd1bd4406938d418305a0ade4.xml#id-7ebd66cbd1bd4406938d418305a0ade4"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-76e6d031187e4ea8908d2f436b9df0fa.xml#id-76e6d031187e4ea8908d2f436b9df0fa"/>
+</archimate:RealizationRelationship>

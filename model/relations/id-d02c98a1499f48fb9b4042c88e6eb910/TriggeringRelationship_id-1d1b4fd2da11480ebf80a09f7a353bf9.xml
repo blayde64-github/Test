@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1d1b4fd2da11480ebf80a09f7a353bf9"
+    documentation="You cant do security by design, without doing design. ">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-fa950274833c45c2b2318b7d9c9b1720.xml#id-fa950274833c45c2b2318b7d9c9b1720"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-79858bcc71494713b3582fb33aa8dffe.xml#id-79858bcc71494713b3582fb33aa8dffe"/>
+</archimate:TriggeringRelationship>

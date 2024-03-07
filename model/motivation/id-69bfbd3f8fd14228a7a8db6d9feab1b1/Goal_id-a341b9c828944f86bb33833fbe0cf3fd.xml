@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO/IEC 27001"
+    id="id-a341b9c828944f86bb33833fbe0cf3fd"
+    documentation="ISO/IEC 27001 is one of the standards which have a high focus for our company.&#xD;&#xA;This is an international standard for managing information security. It lays out the requirements for establishing, implementing, and maintaining an Information Security Management System (ISMS). Organizations can get certified to demonstrate their compliance and commitment to information security.&#xD;&#xA;&#xD;&#xA;ISO/IEC 27001 is not cross referenced by the SOGP, but we can indirectly link to it from any of the ISO 27002 standards, and thus get an indication of compliance to it that way.&#xD;&#xA;&#xD;&#xA;Information Security Management System is a systematic approach to managing sensitive information to ensure it remains secure, including people, processes, and IT systems.">
+  <properties
+      key="MoSCoW"
+      value="Must Have"/>
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

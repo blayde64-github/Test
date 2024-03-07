@@ -1,0 +1,214 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Bypass Control Metrics"
+    id="id-ab5f53f5939b4e199a322ee8726df69b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e291ba485a544d97b73bfa17f081cfbc"
+      targetConnections="id-2180415cfbd548b091f663e4653136d8"
+      fontColor="#000000"
+      fillColor="#bffcc6"
+      textPosition="1">
+    <bounds
+        x="111"
+        y="300"
+        width="133"
+        height="96"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-e3a4781175a64305b812a688ee98f19d.xml#id-e3a4781175a64305b812a688ee98f19d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-14749b52eb6f4e61b666087861b68e96"
+      fontColor="#000000"
+      fillColor="#bffcc6"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2f9799e55cf447418a84c3338ccf46cf"
+        source="id-14749b52eb6f4e61b666087861b68e96"
+        target="id-cd427218b3e64950a4d7f43fe7a8c9ca">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-b6684e4fcf8e46a28bc6a2b26805d8d7.xml#id-b6684e4fcf8e46a28bc6a2b26805d8d7"/>
+    </sourceConnections>
+    <bounds
+        x="42"
+        y="114"
+        width="271"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-6ecbdeb3edf548eaba0be20272ec9fb0.xml#id-6ecbdeb3edf548eaba0be20272ec9fb0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cd427218b3e64950a4d7f43fe7a8c9ca"
+      targetConnections="id-2f9799e55cf447418a84c3338ccf46cf">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2180415cfbd548b091f663e4653136d8"
+        font="1|Segoe UI|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#00c000"
+        source="id-cd427218b3e64950a4d7f43fe7a8c9ca"
+        target="id-e291ba485a544d97b73bfa17f081cfbc">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-5623699698c8401a9fccfa8fddba31e1.xml#id-5623699698c8401a9fccfa8fddba31e1"/>
+    </sourceConnections>
+    <bounds
+        x="42"
+        y="210"
+        width="271"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-a2bedaaf8b93441b980c051eb54de5e4.xml#id-a2bedaaf8b93441b980c051eb54de5e4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-47f07469b4e34af4a47f3afaebea23a4"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="34"
+        y="10"
+        width="439"
+        height="85"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3442451663c44bddbf8e7465ad8df5a2"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Security Bypass Control Metrics"
+      borderType="2">
+    <bounds
+        x="124"
+        y="22"
+        width="325"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-eaa0ee6ba1b2492987ff0f244cd614ed"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="124"
+        y="58"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-df85330582ad4b83b173b91f6a49d935"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-05-30"
+      borderType="2">
+    <bounds
+        x="196"
+        y="58"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e9233a5bf1bb44628ce9a3ddfd8278bb"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="337"
+        y="58"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5f4d84e0bcda42bbacad2a4ee25592f3"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      fillColor="#ffccf9"
+      content="Proposal"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="46"
+        y="22"
+        width="67"
+        height="61"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-545f539ab3ef44f0ad5393bd676d32dc"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="256"
+        y="58"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Owen Richardson"/>
+  <properties
+      key="View Status"
+      value="Proposal"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Status Change Date"
+      value="2023-05-30"/>
+</archimate:ArchimateDiagramModel>

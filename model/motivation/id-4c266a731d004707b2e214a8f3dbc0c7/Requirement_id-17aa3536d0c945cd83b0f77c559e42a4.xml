@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.44.3 Network storage standardized components control"
+    id="id-17aa3536d0c945cd83b0f77c559e42a4"
+    documentation="Use standardized components (e.g. avoid mixing hardware from different vendors)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

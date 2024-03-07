@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alerts still wanted"
+    id="id-d905d7201b7f43149959b3f437f2c993">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-07a884bcc0ca4bbc85c03f65b167fe47.xml#id-07a884bcc0ca4bbc85c03f65b167fe47"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-2504a15753764676a9b12135a9402710.xml#id-2504a15753764676a9b12135a9402710"/>
+</archimate:TriggeringRelationship>

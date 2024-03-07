@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="After 10 consecutive failed login attempts, the account should be locked for a minimum of 10 minutes or until an administrator manually unlocks it"
+    id="id-9423dc3d21c34b38acbd6522269adc5b"
+    documentation="This requirement originates from the Tech Services Password Policy, published 2023-11-03.&#xD;&#xA;"/>

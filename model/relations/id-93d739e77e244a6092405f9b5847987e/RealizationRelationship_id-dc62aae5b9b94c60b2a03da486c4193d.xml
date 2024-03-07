@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reduces Risk"
+    id="id-dc62aae5b9b94c60b2a03da486c4193d">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-124c6647cbc0444f8a6887070ab35544.xml#id-124c6647cbc0444f8a6887070ab35544"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-8582cee2afb9444aa1b190160e88fab6.xml#id-8582cee2afb9444aa1b190160e88fab6"/>
+</archimate:RealizationRelationship>

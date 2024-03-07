@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publishes Guidelines"
+    id="id-326193">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-326207.xml#id-326207"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-326179.xml#id-326179"/>
+</archimate:AccessRelationship>

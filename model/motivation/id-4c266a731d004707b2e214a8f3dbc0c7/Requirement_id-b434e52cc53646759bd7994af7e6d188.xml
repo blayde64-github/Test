@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.12 BYOD security logging control"
+    id="id-b434e52cc53646759bd7994af7e6d188"
+    documentation="Configuring employee-owned devices to log important security-related events (e.g. when sensitive information is copied to another device).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

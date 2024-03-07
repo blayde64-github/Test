@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Responsible"
+    id="id-9931ba029d714afab5ba6eb2c323b2b6"
+    documentation="Shows responsibility for defining the Control Measures">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b90560ce3f0f44cc8977c21c3e6d314b.xml#id-b90560ce3f0f44cc8977c21c3e6d314b"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c57cfda408ac4cfc9e7d9695aaf979b2.xml#id-c57cfda408ac4cfc9e7d9695aaf979b2"/>
+</archimate:RealizationRelationship>

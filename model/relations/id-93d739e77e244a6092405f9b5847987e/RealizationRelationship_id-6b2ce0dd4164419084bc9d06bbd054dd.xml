@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6b2ce0dd4164419084bc9d06bbd054dd"
+    documentation="The purposed of SAR is to ensure that systems undergo review. We used this process on itself as part of testing. All the sub points of this requirement have been met.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-f6a1c92b0ef54ec0ac6b0c2d6fda8365.xml#id-f6a1c92b0ef54ec0ac6b0c2d6fda8365"/>
+</archimate:RealizationRelationship>

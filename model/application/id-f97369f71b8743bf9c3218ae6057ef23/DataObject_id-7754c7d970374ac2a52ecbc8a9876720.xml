@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Level Mapping.xlsx"
+    id="id-7754c7d970374ac2a52ecbc8a9876720"
+    documentation="The Level Mapping excel file contains a mapping table with the Level 1 and Level 2 questions. Its purpose is to facilitate score aggregation on level 1 for SAR2 questions, which wouldn't otherwise be possible since the SharePoint list for SAR2 only contain Level 2 question columns with no references to Level 1.">
+  <properties
+      key="URL"
+      value="https://tietoevry.sharepoint.com/sites/SecurityComplianceArchitectureDomain625/SCAD%20Documents/SAR%20Dashboard/Level%20Mapping.xlsx"/>
+</archimate:DataObject>

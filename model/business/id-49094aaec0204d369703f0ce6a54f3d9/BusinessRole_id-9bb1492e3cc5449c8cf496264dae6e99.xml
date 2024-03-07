@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Q&amp;A Repository submitter"
+    id="id-9bb1492e3cc5449c8cf496264dae6e99"
+    documentation="The submitter is responsible for filling in the Q&amp;A submission form with answers to standard questions, including attaching any eventual files that would enable make the re-use of the answers easier.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Who will be able to submit content to the repository?&#xD;&#xA;">
+  <properties
+      key="Questions"
+      value="Yes"/>
+</archimate:BusinessRole>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implements Quick Review"
+    id="id-c622f40254314a8da831ccfd907459f8"
+    documentation="The SAR1 Review asks 5 quick questions just to make sure very key things have happened."
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3934ea64f9284c7d9fa50b9a44a712d9.xml#id-3934ea64f9284c7d9fa50b9a44a712d9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f629aaf649f54f549dfbb6fee4216a34.xml#id-f629aaf649f54f549dfbb6fee4216a34"/>
+</archimate:AssociationRelationship>

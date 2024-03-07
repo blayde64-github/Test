@@ -1,0 +1,269 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11 Networks and Communications"
+    id="id-8f96edf7e3424b7cb801bd0ff82e159f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fc6d653e67314591a9ceedebae4a5c89"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#4a4a4a"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9b92be9d4e4949ab844608f66d426fa2"
+        source="id-fc6d653e67314591a9ceedebae4a5c89"
+        target="id-9b223524e189404f9e6c4815cfecc8ba">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-91e84ae8501f4b939c01a394a1701d99.xml#id-91e84ae8501f4b939c01a394a1701d99"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d8e3c9d8a68345bda8814f271ee22a6a"
+        source="id-fc6d653e67314591a9ceedebae4a5c89"
+        target="id-3e552af1e69040b39350d0b82b936cf4">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-6535853f347f422db982abd6c745f177.xml#id-6535853f347f422db982abd6c745f177"/>
+    </sourceConnections>
+    <bounds
+        x="10"
+        y="133"
+        width="492"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-8dfd90ae211844ad801ba5d1e980803e.xml#id-8dfd90ae211844ad801ba5d1e980803e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3e552af1e69040b39350d0b82b936cf4"
+      targetConnections="id-d8e3c9d8a68345bda8814f271ee22a6a"
+      fontColor="#000000"
+      textAlignment="1"
+      fillColor="#fecc23">
+    <bounds
+        x="266"
+        y="228"
+        width="236"
+        height="103"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-8075f30e468e475995e368d54adc8cb0">
+      <bounds
+          x="18"
+          y="32"
+          width="200"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-1fb300da15514bc0b389ea7f82a5c38e.xml#id-1fb300da15514bc0b389ea7f82a5c38e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-5ae3911c0991473985940a8507bcba65.xml#id-5ae3911c0991473985940a8507bcba65"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9b223524e189404f9e6c4815cfecc8ba"
+      targetConnections="id-9b92be9d4e4949ab844608f66d426fa2"
+      fontColor="#000000"
+      textAlignment="1"
+      fillColor="#fecc23">
+    <bounds
+        x="10"
+        y="228"
+        width="236"
+        height="103"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-5f197757b70e44f2befc0b733b5dda8d">
+      <bounds
+          x="16"
+          y="30"
+          width="200"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-f834a1de43924040a9e32d07f8b99ccd.xml#id-f834a1de43924040a9e32d07f8b99ccd"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-a3f38a1b6ada4d9289edd51557d8e9e1.xml#id-a3f38a1b6ada4d9289edd51557d8e9e1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9b4d7dc33e0f41c8a778b9f5a00f3183"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="10"
+        y="10"
+        width="619"
+        height="91"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-06696f26c4964bb081cd46d4eb578376"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="11 Networks and Communications"
+      borderType="2">
+    <bounds
+        x="100"
+        y="16"
+        width="517"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7a75f6379c204783a44fdbf5c96c40f0"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="100"
+        y="46"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5628df394c6a4951b8b61e364aa57ef4"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2024-01-26"
+      borderType="2">
+    <bounds
+        x="172"
+        y="46"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-73a5567e529f42b9b2befc9b09fca348"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="490"
+        y="70"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8118d16f11db4e2ca99eb95c883e3433"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      fillColor="#bffcc6"
+      content="Architect Approved"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="22"
+        y="22"
+        width="67"
+        height="67"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7152dd91263c4ca0af26d14d8b20e4e1"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="238"
+        y="46"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-95b8a791afb4479087835f19ee67fe59"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#00cc44"
+      textAlignment="1"
+      content="Approved by Owen Richardson on 2024-01-26"
+      borderType="2">
+    <bounds
+        x="100"
+        y="67"
+        width="391"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$STAKEHOLDER"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Mattias Dahlberg"/>
+  <properties
+      key="View Status"
+      value="Approved"/>
+  <properties
+      key="View Date"
+      value="2024-01-26"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Stakeholder"
+      value="Owen Richardson"/>
+  <properties
+      key="Stakeholder Status"
+      value="Approved"/>
+  <properties
+      key="Stakeholder Date"
+      value="2024-01-26"/>
+</archimate:ArchimateDiagramModel>

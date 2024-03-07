@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.8.5 BYOD Information restrictions control"
+    id="id-fb98afee4e4b45109707a60c39110470"
+    documentation="Define restrictions on the types of information that can be stored on the device (e.g. non-sensitive information only)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

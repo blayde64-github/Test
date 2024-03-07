@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.44.2 Network storage standards coverage control"
+    id="id-79deb400668e4b48837226649ad62128"
+    documentation="Standards/procedures should cover:&#xA;* design and configuration of network storage systems&#xA;* performing standard security practices (e.g. configuration, malware protection, change management and patch management)&#xA;* protection of network storage management consoles and administration interfaces&#xA;* encryption of sensitive information stored on network storage systems&#xA;* security arrangements specific to NAS and SAN.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

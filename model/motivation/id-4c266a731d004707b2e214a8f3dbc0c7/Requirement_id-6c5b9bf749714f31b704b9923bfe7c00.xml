@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.70.1 Cyber kill chain standards &amp; procedures control"
+    id="id-6c5b9bf749714f31b704b9923bfe7c00"
+    documentation="There should be documented standards/procedures for dealing with sophisticated, targeted cyber attacks, at each stage of the cyber attack chain (also known as a cyber kill chain).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

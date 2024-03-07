@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.65.2 PKI CA protection control"
+    id="id-d701a59060d94f11a1be185c51251d6e"
+    documentation="Important internal CAs (and related sub-CAs) should be protected">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a041c1a89a4547478bdf6f852e75dd56"
+    documentation="there are no information outputs from this system outside of the M365 service. Even the email outputs are only sent to users on our active directory, because the source email addresses originate from forms authentication against the AD. ">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bb701c0239e64231b0e22f6c835711c5.xml#id-bb701c0239e64231b0e22f6c835711c5"/>
+</archimate:RealizationRelationship>

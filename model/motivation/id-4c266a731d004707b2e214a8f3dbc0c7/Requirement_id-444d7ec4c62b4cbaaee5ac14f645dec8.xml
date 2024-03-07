@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.33.1 Database security control"
+    id="id-444d7ec4c62b4cbaaee5ac14f645dec8"
+    documentation="Critical databases should be supported by documented standards/procedures, which cover:&#xA;    Validation of information input into databases&#xA;    Protection of databases and the in-formation they contain.&#xA;    design and build security into them&#xA;    protect the information they store and process&#xA;    develop required functionality securely">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

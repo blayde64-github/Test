@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of architectures that address threats with controls"
+    id="id-106104"
+    documentation="The &quot;Number of architectures that address threats with controls&quot; metric gives us the count of system designs where we've applied specific protective measures, known as controls, to mitigate potential security risks that were identified during threat analysis. It's akin to implementing safety measures once we've identified potential hazards. So, this metric keeps track of the systems where we've not only identified risks but have also actively taken steps to counter those risks, thus enhancing the overall security and resilience of our systems.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

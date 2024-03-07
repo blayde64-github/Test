@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e5bd87ffcc7e4e22a3a9b2aa1d64264e"
+    documentation="It is not understood that cost of poor quality can be directly equated to poor security design, because the word security is most often associated with security services, incidents, penalties, and hackers."
+    strength="--">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-b0c0e9e340814d3884a8fe3ba66e2bf8.xml#id-b0c0e9e340814d3884a8fe3ba66e2bf8"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-b0f8ed5e91d243338364e1092710aea6.xml#id-b0f8ed5e91d243338364e1092710aea6"/>
+</archimate:InfluenceRelationship>

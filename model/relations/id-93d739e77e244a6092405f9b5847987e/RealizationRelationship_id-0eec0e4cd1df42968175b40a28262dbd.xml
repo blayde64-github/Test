@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0eec0e4cd1df42968175b40a28262dbd"
+    documentation="This clearly shows how we score completeness of architecture. It includes the simple scoring mechanism, and every question details a little on the criteria we expect to see to assess a question to be complete. ">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3876117947e04d698e79dc0ee12c9937.xml#id-3876117947e04d698e79dc0ee12c9937"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-9ecfec1ae37c49e9996692f283979084.xml#id-9ecfec1ae37c49e9996692f283979084"/>
+</archimate:RealizationRelationship>

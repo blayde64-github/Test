@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b67054f8b6304a748d4f5980c4d03083"
+    documentation="Slide is presented as part of our monthly meetings with the Leadership Team."
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-e7a0b18429c54cd4b2807153e2413fe4.xml#id-e7a0b18429c54cd4b2807153e2413fe4"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-38f14175857a4e609437856c930cc453.xml#id-38f14175857a4e609437856c930cc453"/>
+</archimate:AccessRelationship>

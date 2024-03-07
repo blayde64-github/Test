@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a89451667da44bd3a5b378c246042174"
+    documentation="The review solution has some automation enabling automated review generation. ">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-6b1d83346e934bdaabf2da1576baa2e7.xml#id-6b1d83346e934bdaabf2da1576baa2e7"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bcd54abb53b642daa2a4257f0eb5ee79.xml#id-bcd54abb53b642daa2a4257f0eb5ee79"/>
+</archimate:RealizationRelationship>

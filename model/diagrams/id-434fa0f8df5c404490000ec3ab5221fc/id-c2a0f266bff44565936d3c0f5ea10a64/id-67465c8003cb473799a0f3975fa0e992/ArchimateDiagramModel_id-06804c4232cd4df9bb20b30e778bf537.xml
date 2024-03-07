@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy &amp; Rule Validation Concern WPD"
+    id="id-06804c4232cd4df9bb20b30e778bf537">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-50406716ac8d44339bc8d31565daabac"
+      textPosition="1">
+    <bounds
+        x="175"
+        y="199"
+        width="701"
+        height="94"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-7f070dc9e23945778d0c4a63655991c4.xml#id-7f070dc9e23945778d0c4a63655991c4"/>
+  </children>
+  <properties
+      key="Concern Priority"
+      value="Medium"/>
+  <properties
+      key="Start Date"
+      value="2024-01-08"/>
+  <properties
+      key="End Date"
+      value="2024-01-22"/>
+</archimate:ArchimateDiagramModel>

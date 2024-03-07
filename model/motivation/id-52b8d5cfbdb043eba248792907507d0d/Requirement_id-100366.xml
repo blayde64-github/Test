@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System is only available for authenticated Tietoevry Connect(?) users"
+    id="id-100366"
+    documentation="Only Connect users? Or Connect + Transform? &#xD;&#xA;We adhere to the principle Default deny by making the system unavailable for anyone who is not an authenticated Tietoevry Connect (or to be decided, Transform) user.&#xD;&#xA;&#xD;&#xA;Addresses Security, resiliency and integrity"/>

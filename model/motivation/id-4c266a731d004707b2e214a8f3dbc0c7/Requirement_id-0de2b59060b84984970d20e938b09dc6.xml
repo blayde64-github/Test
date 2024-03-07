@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.67.2 NTP"
+    id="id-0de2b59060b84984970d20e938b09dc6"
+    documentation="d) use a consistent, trusted date and time source to ensure event logs use accurate timestamps (e.g. using the&#xA;Network Time Protocol (NTP), supported by GPS, atomic clocks or approved time servers on the internet).&#xA;Use a consistent, trusted date and time source to ensure event logs use accurate timestamps (e.g. using the&#xA;Network Time Protocol (NTP), supported by GPS, atomic clocks or approved time servers on the internet).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

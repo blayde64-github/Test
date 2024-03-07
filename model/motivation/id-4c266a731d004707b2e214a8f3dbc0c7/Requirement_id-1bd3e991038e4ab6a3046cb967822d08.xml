@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PA.1.3.6: Office equipment should be monitored (e.g. using intrusion detection, network discovery and mapping tools) on a regular basis to help identify tampering (e.g. removal of hard disks or memory), misuse (e.g. unauthorised printing) and theft."
+    id="id-1bd3e991038e4ab6a3046cb967822d08"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="PA.1.3.6"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

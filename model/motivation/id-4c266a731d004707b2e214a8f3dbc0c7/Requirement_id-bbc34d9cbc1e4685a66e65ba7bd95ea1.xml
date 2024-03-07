@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.43.3 Virtual server security management control"
+    id="id-bbc34d9cbc1e4685a66e65ba7bd95ea1"
+    documentation="Virtual servers should be protected by applying standard security management practices to hypervisors">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

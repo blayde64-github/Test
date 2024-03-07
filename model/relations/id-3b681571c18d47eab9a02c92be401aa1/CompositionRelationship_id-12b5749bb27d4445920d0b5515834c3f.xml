@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-12b5749bb27d4445920d0b5515834c3f"
+    documentation="This solution is specifically designed to run on our standard services, utilizing M365. It leverages logic building and is not portable. As we accept the cost advantages we get from using this technology, coupled with the demand from the architecture principles to maintain a low TCO, outscoping is justified.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-918dea07009d47d4aca504066951c3ea.xml#id-918dea07009d47d4aca504066951c3ea"/>
+</archimate:CompositionRelationship>

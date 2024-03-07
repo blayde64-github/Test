@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-081d54cfbbf64b0ea1b1bbdcd16aaadd"
+    documentation="Not having ESA Resources available to help with security architecture will leave untrained resources trying to understand concepts that are currently alien. &#xD;&#xA;&#xD;&#xA;To do more in depth SAR2 reviews we need ESA Architects, to ensure we are maintaining a level of quality control (as mandated by security Baseline).&#xA;"
+    strength="---">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-484936edc61b4c1e851bc76e94e2c6b6.xml#id-484936edc61b4c1e851bc76e94e2c6b6"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-4b33da5449ca4a2bb290b253d927647b.xml#id-4b33da5449ca4a2bb290b253d927647b"/>
+</archimate:InfluenceRelationship>

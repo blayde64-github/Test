@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.23.4 Systems Development Security Operations Requirements Control"
+    id="id-fe0785df4b3043cfb08570e37f9e4da8"
+    documentation="Business requirements should take into account security-related operations including:&#xA;a) security architecture principles (e.g. 'secure by design', 'defence in depth', 'secure by default', 'default deny' and 'fail secure')&#xA;b) secure coding guidance (e.g. OWASP Top 10 Most Critical Web Application Security Risks and CWE/SANS Top 25 Most Dangerous Software Errors)&#xA;c) privacy by design and privacy by default principles (e.g. how to obtain consent to process data, how to opt-in to data processing and how to present privacy notices)&#xA;d) operational security directives (e.g. which events to log and where, documentation to produce and instructions to be provided to the information security team).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

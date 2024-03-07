@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Owner of Development Projects"
+    id="id-9531de2d24ff48e9a487ac0f92cee630"
+    documentation="Contract owner of development projects owns the Internal Development and Offering Development Contracts in TERP. The value of the contracts corresponds to the agreed development budgets. When an internal project requests funding, the contract owner approves/rejects the request and the allocated funding decreases the remaining value of the contract.">
+  <properties
+      key="Person Name"
+      value="Juha Lintula"/>
+</archimate:BusinessRole>

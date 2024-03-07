@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-062380e20b18405d8e7555f119c8d6e6"
+    documentation="System sends notification to role approvers – one of these either approves or rejects the request">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-354a4f5a15534ea0b94011593c3e87be.xml#id-354a4f5a15534ea0b94011593c3e87be"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-42d03a86271542f887e0d22541d05f4b.xml#id-42d03a86271542f887e0d22541d05f4b"/>
+</archimate:TriggeringRelationship>

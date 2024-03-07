@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bb438a0eabc3471890fd861479293b73"
+    documentation="The System Design Security Review Control "
+    strength="++">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a5a75e58e18043e3821c0ca6b766f482.xml#id-a5a75e58e18043e3821c0ca6b766f482"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868472997d294b36aae34bb749fca44f.xml#id-868472997d294b36aae34bb749fca44f"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Removal"
+    id="id-0bfbe9588f914b209afcf6ff74987a6b">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-7b511fc2f5264f2795f8ab2e17d23297.xml#id-7b511fc2f5264f2795f8ab2e17d23297"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-25d0ce5c197a4141866b97a704f5d984.xml#id-25d0ce5c197a4141866b97a704f5d984"/>
+</archimate:AccessRelationship>

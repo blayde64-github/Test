@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a3b1ed198b294eb5823d79fd898a0063"
+    documentation="Perform vital security incident identification, mitigation and reporting">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-8842aefb560b4677b0b1a4bf78c9e6e5.xml#id-8842aefb560b4677b0b1a4bf78c9e6e5"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-128739488d424147b03f0109af1dff10.xml#id-128739488d424147b03f0109af1dff10"/>
+</archimate:RealizationRelationship>

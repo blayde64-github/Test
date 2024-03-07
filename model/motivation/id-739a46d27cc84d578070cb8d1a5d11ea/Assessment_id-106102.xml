@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of architectures with security requirements realizations"
+    id="id-106102"
+    documentation="The metric &quot;Number of architectures with security requirements realizations&quot; refers to how many of our system designs have successfully implemented defined security needs or objectives. These 'security requirements' can be considered as a list of essential protective features or capabilities that a system must possess to ensure it can withstand cyber threats effectively. They can cover a broad range of aspects, from data protection to system resilience. This metric, therefore, helps us to measure how many of our system designs have successfully incorporated these security requirements, a crucial step towards building a secure and reliable digital infrastructure.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

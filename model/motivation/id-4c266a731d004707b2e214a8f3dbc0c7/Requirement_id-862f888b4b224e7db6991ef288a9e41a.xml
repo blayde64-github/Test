@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.5.4 Regular compliance review control"
+    id="id-862f888b4b224e7db6991ef288a9e41a"
+    documentation="A review of compliance with legal and regulatory requirements that affect information security should be performed regularly and when new legislation or regulatory requirements come into effect">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

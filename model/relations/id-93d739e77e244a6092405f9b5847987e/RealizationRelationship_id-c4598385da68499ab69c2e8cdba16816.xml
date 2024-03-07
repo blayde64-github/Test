@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c4598385da68499ab69c2e8cdba16816"
+    documentation="The only way SAR Users can send and write data is via the form.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14cfcd74abe44c058eae1ad045eca6a9.xml#id-14cfcd74abe44c058eae1ad045eca6a9"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-76e6d031187e4ea8908d2f436b9df0fa.xml#id-76e6d031187e4ea8908d2f436b9df0fa"/>
+</archimate:RealizationRelationship>

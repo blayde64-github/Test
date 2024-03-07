@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cca508f313454c6b8d7977870011cd88"
+    documentation="Because management believe we have architects, fixing gaps in architecture is not prioritized.">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-1afbd214482c46f4ab1bd3915a9da879.xml#id-1afbd214482c46f4ab1bd3915a9da879"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-8eb9b3e6cec5428f9e7f850aa9485cdb.xml#id-8eb9b3e6cec5428f9e7f850aa9485cdb"/>
+</archimate:TriggeringRelationship>

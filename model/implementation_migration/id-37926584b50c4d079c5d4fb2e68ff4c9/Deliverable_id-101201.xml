@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blueprint for Identity and Access Governance service"
+    id="id-101201"
+    documentation="- Access request and approval processes which enables users to request access to assets and provide a mechanism to approve/deny based on role/permissions&#xA;- Access Review processes for allowing regular review of the users access to ensure access is still valid.&#xA;- Provisioning/deprovisiong access allowing CRUD or user accounts and assignment of permissions to privileged users&#xA;- IAM Policy management defining for example password strenght, need for MFA etc&#xA;- Reporting allowing to fetch out reports and analytics to enhance processes&#xA;"/>

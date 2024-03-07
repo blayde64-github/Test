@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical vulnerability Management not workign in Norway deliveries. There are too many technical vulnerabilities"
+    id="id-9d175abbf6824daf8b762bbc2e5153b5"
+    documentation="Technical vulnerability management is not working. There are around 1000 technical assets in Norway delivery enviornment which doesn't have proper ownerships. Within these assets, there are over 2000 findings with a CVSS rating for more than 4.0. &#xD;&#xA;&#xD;&#xA;One of the key PCI-DSS requirements is to establish a process to identify security vulnerabilities and apply all applicable security patches. ">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

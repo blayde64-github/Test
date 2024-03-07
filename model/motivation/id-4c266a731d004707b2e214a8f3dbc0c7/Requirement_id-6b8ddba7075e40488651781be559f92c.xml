@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.14.3 Hardware disposal control"
+    id="id-6b8ddba7075e40488651781be559f92c"
+    documentation="The disposal or re-assignment of hardware no longer required should be carried out in a secure, timely manner">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

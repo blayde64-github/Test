@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ad3250397824488788cc411650b59e96"
+    documentation="Because we do not have architects available in many places, we cannot ensure a minimum architecture skill level. &#xD;&#xA;&#xD;&#xA;Resources are fully utilized, and it is unreasonable to expect a technical specialist or service manager to train and learn how to apply an architecture skillset.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-413dcd8462c44ce9b30bc86039c03a9a.xml#id-413dcd8462c44ce9b30bc86039c03a9a"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-3ee8051eea6e49f1a875138224b6d734.xml#id-3ee8051eea6e49f1a875138224b6d734"/>
+</archimate:InfluenceRelationship>

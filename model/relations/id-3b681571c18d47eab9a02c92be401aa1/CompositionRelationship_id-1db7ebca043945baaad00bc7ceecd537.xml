@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1db7ebca043945baaad00bc7ceecd537"
+    documentation="This requirement relates to projects and is not applicable. The security Architecture Review process is a way of working for the Enterprise Security Architecture team which is necessitated due both the enterprise security architecture teams goals, and promises we make to customers both verbally and in our base contracts for compliancy to standards such as ISO27k.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b18324bfd8354ddf92513319e62c5c50.xml#id-b18324bfd8354ddf92513319e62c5c50"/>
+</archimate:CompositionRelationship>

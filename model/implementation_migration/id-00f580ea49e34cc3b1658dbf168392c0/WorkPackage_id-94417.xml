@@ -1,0 +1,27 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connect Foundation Platform Service Development"
+    id="id-94417"
+    documentation="Connectivity and Capacity Platform development project aims to develop a new platform which will enable the basis for Tietoevry Connect Deliveries.&#xA;&#xA;Goals are:&#xA;&#xA;Shared secured, compliant, and resilient PaaS for Tietoevry Connect&#xA;&#xA;-    Secured, compliant and resilient PaaS platform will enable out-of-band services which ensures the segregation between management and production. This allows our operators to gain access to various management tools in case we are having challenges in the production.&#xA;&#xA;Pipeline for deploying Tietoevry Connect management services&#xA;&#xA;-    Within the process, a blueprint for the management environment will be build &#xA;-    Blueprint can then be used to deploy the management environment on top of any platform&#xA;-    Build once, deploy many will increase the quality and speed up the delivery for example due in-country requirements&#xA;&#xA;Secured access solution for exposing services to consumers&#xA;&#xA;-    Security functions, like Web Access Firewall (WAF), Intrusion Prevention System (IDP), Federation, Single-Sign-On (SSO), Multi Factor Authentication (MFA) for exposing management services or for example local ServiceNow instance securely to consumers&#xA;&#xA;Enable connectivity towards managed assets&#xA;&#xA;-    Provides connectivity to managed assets for all the services running within the platform.&#xA;&#xA;Resourcing&#xA;&#xA;This project requires extensive skills from various areas. The overall design is led by Service Architect. &#xA;&#xA;- Project Manager: Secures the resources and ensures the project is delivering&#xA;&#xA;- Service Architect: Has overall responsibility to create proper design with assistance from various other roles on the project. This role needs to have good understanding on all aspects&#xA;&#xA;- Virtualization Architect: Platform will utilize virtualization and needs to be integrated to automation which is why deep understanding of Virtualization is required (probably vmware). &#xA;&#xA;- Automation Architect: Automation is critical part of the Development Pipeline as well as automations within the platform due chicken-egg problem&#xA;&#xA;- Network Infrastructure Architect: Helps to define a secured network and other network security services like Application Delivery Controller (ADC) will be used to publish services to externals. &#xA;&#xA;&#xA;&#xA;- Unix Infrastructure Architect: Platform will provide and operate Linux system thus infrastructure architecture is required&#xA;&#xA;- Windows Infrastructure Architect: Platform will provide and operate Windows system thus infrastructure architecture is required&#xA;&#xA;- AD Infrastructure architect, due system will not run without Active Directory which needs to be designed&#xA;&#xA;- Cloud Architect: Platform is required also in Public Clouds thus extensive knowledge of public clouds are required.&#xA;&#xA;- Data Center Tecnical Architect: Helps to understand and define the physical setup due solution needs to be deployed in multiple data centers in multiple countries&#xA;&#xA;- Monitoring Architect: Environment needs to be monitored and due chicken-egg problem monitoring needs also extra attention&#xA;&#xA;- Security Consultant: This role is assigned to ensure the design meets required security standards&#xA;&#xA;- ServiceNow Architect: Solution needs to be integrated to ServiceNow due expertise from there is required">
+  <properties
+      key="Project Manager"
+      value="Radek Sedlacek"/>
+  <properties
+      key="Project Owner"
+      value="Susanne Lindstrom (Head of Security &amp; Compliance)"/>
+  <properties
+      key="Architect"
+      value="Sami Aura"/>
+  <properties
+      key="Start Date"
+      value="2022-06-20"/>
+  <properties
+      key="End Date"
+      value="2023-03-05"/>
+  <properties
+      key="Passed SCARB"
+      value="Yes"/>
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+</archimate:WorkPackage>

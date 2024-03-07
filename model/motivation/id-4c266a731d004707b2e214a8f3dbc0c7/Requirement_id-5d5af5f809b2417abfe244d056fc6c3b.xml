@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.47.2 Backup requirements alignment control"
+    id="id-5d5af5f809b2417abfe244d056fc6c3b"
+    documentation="Backups of information and software should be performed frequently enough to meet business and security requirement">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

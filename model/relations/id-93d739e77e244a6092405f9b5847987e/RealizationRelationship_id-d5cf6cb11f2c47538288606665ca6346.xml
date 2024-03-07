@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d5cf6cb11f2c47538288606665ca6346"
+    documentation="Please see the view titled &quot;Views Meeting Requirements&quot;">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-52d895b9fec842b18b0ffe327c63babe.xml#id-52d895b9fec842b18b0ffe327c63babe"/>
+</archimate:RealizationRelationship>

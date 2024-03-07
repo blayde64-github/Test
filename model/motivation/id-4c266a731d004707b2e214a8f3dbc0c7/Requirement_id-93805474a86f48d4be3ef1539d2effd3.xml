@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.10 IT Security principles control"
+    id="id-93805474a86f48d4be3ef1539d2effd3"
+    documentation="Develop and document procedures that meet the organizations defined principles for IT security management">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

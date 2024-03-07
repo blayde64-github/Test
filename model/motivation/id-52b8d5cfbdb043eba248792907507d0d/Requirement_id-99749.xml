@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="previous scan results are automatically updated in the scan service if status of the vulnerability changes before it is resolved"
+    id="id-99749"
+    documentation="As a Security Resources in TEMA, ISO 27k  and the vulnerability management process require that  previous scan results are automatically updated in the scan service if status of the vulnerability changes before it is resolved. This is to ensure that changes in vulnerabilities are updated and shown in scan reports and management tool without delays. "/>

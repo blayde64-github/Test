@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Link Layer Network Security"
+    id="id-327547"
+    documentation="Protection of data can be applied at the OSI Layer 2 Data Link Layer. Network switches are key components at Layer 2 communications and are susceptible to attacks such as CAM table overflow, VLAN hopping, spanning-tree protocol manipulation, MAC address spoofing, and ARP attacks. Mitigations include configuration of port security on a switch, modification to VLAN configurations, ACLs' configuration on router ports, and 802.1X."/>

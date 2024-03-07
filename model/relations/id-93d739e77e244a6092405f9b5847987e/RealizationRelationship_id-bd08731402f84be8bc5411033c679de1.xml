@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bd08731402f84be8bc5411033c679de1"
+    documentation="Mandated security principles for Tech Services.">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-eb061b7b1e634f2780dac7eff11c5eee.xml#id-eb061b7b1e634f2780dac7eff11c5eee"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c6a234616244413d977e4f80f1a8b4da.xml#id-c6a234616244413d977e4f80f1a8b4da"/>
+</archimate:RealizationRelationship>

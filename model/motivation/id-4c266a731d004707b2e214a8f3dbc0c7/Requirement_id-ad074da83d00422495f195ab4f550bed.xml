@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.60.4 FIAM Requirements control"
+    id="id-ad074da83d00422495f195ab4f550bed"
+    documentation="Where Federated Identity and Access Management (FIAM) is used, arrangements should be made to ensure it:&#xA;    builds upon the organisation's exist-ing IAM arrangements&#xA;    is subject to separate governance, planning, risk assessment, review and monitoring&#xA;    takes into account the needs of FIAM partners (i.e. those organisations with which FIAM connections will be established)&#xA;    makes use of only agreed FIAM pro-tocols (e.g. SAML, OpenID, WS-Trust and WS-Federation)&#xA;    uses approved FIAM connection software&#xA;    f) is supplemented with multi-factor authentication when it relates to privileged access or any access to con-fidential data.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

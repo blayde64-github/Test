@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tietoevry Connect looses the capability to deliver services to Tietoevry Banking"
+    id="id-10e675c077534a7aa38395b70614ae64"
+    documentation="Tietoevry Connect is providing capacity services for Tietoevry Banking. In order to operate these services, the environment and processes used for service delivery must meet PCI-DSS and SWIFT requirements. &#xD;&#xA;&#xD;&#xA;If capability to deliver banking services is lost, we end up loosing the banking customers. &#xD;&#xA;&#xD;&#xA;Loss amount is still unclear, work-in-progress">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

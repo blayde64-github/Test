@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mandates"
+    id="id-468d9769b8b94c43aedbb833d19298a5">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-8e9f090cc5e041c295b00f852c9f06de.xml#id-8e9f090cc5e041c295b00f852c9f06de"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1d695ddb39f8492586e90495df27ec5c.xml#id-1d695ddb39f8492586e90495df27ec5c"/>
+</archimate:AssociationRelationship>

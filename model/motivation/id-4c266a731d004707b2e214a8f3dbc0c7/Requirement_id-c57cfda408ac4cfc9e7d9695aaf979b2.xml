@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Measures"
+    id="id-c57cfda408ac4cfc9e7d9695aaf979b2"
+    documentation="Defined the organization and not by the ESA team.&#xD;&#xA;&#xD;&#xA;The basis for the Control Measures are the &quot;stubs&quot; described in each SOGP Topic.&#xA;The Controls are defined by the rest of the organization and not by the ESA team.&#xD;&#xA;&#xD;&#xA;The Standards Of Good Practice (SOGP) provides guidelines for how Controls should be defined.&#xD;&#xA;Therefore, anyone who defines a Control should base it on the Standards Of Good Practice Statements and Stubs and/or the Stub's Sub-Points.&#xD;&#xA;&#xD;&#xA;If a Statement is adopted as a Control, the Control will influence the Statement with a positive influence.&#xD;&#xA;If an entire Stub is adopted as a Control, the Control will realize the Stub with a positive influence and indirectly all of its Sub-Points.&#xD;&#xA;If only some of the Sub-Points under a Stub is adopted into Controls, the Control will realize some of the Sub-Points with a positive influence.&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

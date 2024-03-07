@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roles and responsibility for Security Monitoring defined"
+    id="id-92630"
+    documentation="Define roles for the service including service owner and a complete governance model to ensure that Security Monitoring service have a clearly designated owner and a support organization who is responsible for:&#xA;Deploying the component in a safe manner (design, hardening)&#xA;The ongoing use of the component (security monitoring)&#xA;Keeping the component supported (not reaching end-of-life)&#xA;The timely deployment of security patches when they become available, including the verification that the patches&#xA;Having an apparatus ready to implement mitigating controls should a zero-day vulnerability arise&#xA;This to ensure that the service is maintained, updated and operated according to the security baseline  and best practices.&#xA;"/>

@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of architectures addressing security principles"
+    id="id-6324aa40d48e431b9878e80f191d6115"
+    documentation="The &quot;Number of architectures addressing security principles&quot; metric pertains to how many of our system designs follow foundational cybersecurity norms or standards. These 'security principles' can be likened to a set of ethical and operational guidelines in the digital space. They include aspects like defence in depth, and security by design. Essentially, this metric gives us an understanding of how many of our system designs are adhering to these crucial guidelines, thereby confirming the robustness and ethical soundness of our digital structures.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-102714"
+    documentation="Views should vbe created &amp; validated using the standard architecture process">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-85094.xml#id-85094"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-85096.xml#id-85096"/>
+</archimate:RealizationRelationship>

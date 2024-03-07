@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e2fdf4a87fbc4469a3e0b3c6c15defe6"
+    documentation="This script automatically sends the final review once its written up and someone pressed the button.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e68bdf432c0b493592841608e06e2571.xml#id-e68bdf432c0b493592841608e06e2571"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-584894c1fdc94a4c91d8bc55da77dd37.xml#id-584894c1fdc94a4c91d8bc55da77dd37"/>
+</archimate:ServingRelationship>

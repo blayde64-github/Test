@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.4 Firewall configuration architecture principle control"
+    id="id-8f8eb21ad7ac4b40b5bbd16f0bc53e08"
+    documentation="Firewall configuration should incorporate security architecture principles (e.g. 'secure by design', 'defence in depth', 'secure by default', 'default deny', 'fail secure', 'secure in deployment' and 'usability and manageability').">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.43.1 Virtual instance standards &amp; procedures control"
+    id="id-85834d534eba457b8151b6b95d368d41"
+    documentation="Virtual instances (e.g. virtual servers, virtual desktops and containerized applications) should be deployed, configured and maintained in accordance with documented standards/procedures.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

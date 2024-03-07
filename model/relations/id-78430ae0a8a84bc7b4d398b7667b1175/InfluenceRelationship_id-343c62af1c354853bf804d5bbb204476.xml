@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resulted in deviations"
+    id="id-343c62af1c354853bf804d5bbb204476">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-afa71fc5c03b47f291ea79d45dc113f5.xml#id-afa71fc5c03b47f291ea79d45dc113f5"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-65c8363c18314ffbb20e89758dc9a7c5.xml#id-65c8363c18314ffbb20e89758dc9a7c5"/>
+</archimate:InfluenceRelationship>

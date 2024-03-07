@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC.1.1.16: Alternative (contingency) arrangements should be established to ensure that the organisation's business processes can continue in the event that one or more external suppliers are not available (e.g. due to contract termination, a disaster, a dispute with an external supplier or a supplier ceases trading)."
+    id="id-6bfddd4e47dc430eb97d455b74fcd7d8"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="SC.1.1.16"/>
+  <properties
+      key="SOGP Type"
+      value="Statement"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

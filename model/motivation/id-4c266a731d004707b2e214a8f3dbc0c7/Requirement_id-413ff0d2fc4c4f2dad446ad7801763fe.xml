@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.37.3 Sign on authentication control"
+    id="id-413ff0d2fc4c4f2dad446ad7801763fe"
+    documentation="Sign-on mechanisms should be configured to protect authentication details against unauthorized disclosure by using approved:&#xA;    cryptographic hashing algorithms to conceal clear text passwords and re-sist brute force attacks&#xA;    salting methods to ensure each password hash is unique to resist attacks using rainbow tables.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

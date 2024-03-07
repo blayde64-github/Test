@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-25ddb36f67f0478086ef9a3c295736f6"
+    documentation="The questions we ask in the reviews all relate to ensuring a level of security.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-cf49aded561041c69e32287d564229a1.xml#id-cf49aded561041c69e32287d564229a1"/>
+</archimate:RealizationRelationship>

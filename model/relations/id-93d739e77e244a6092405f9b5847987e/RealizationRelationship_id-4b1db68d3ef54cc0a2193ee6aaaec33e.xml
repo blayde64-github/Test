@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4b1db68d3ef54cc0a2193ee6aaaec33e"
+    documentation="This solution does not contain any personal information beyond the identities of the people using the system. This information is stored as part of the underlaying M365 Service.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-173dd01e30b2499ca4d158a13c1addd2.xml#id-173dd01e30b2499ca4d158a13c1addd2"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV016 Unauthorised network scanning and/or probing"
+    id="id-3c82d42b6b0d44bf81c4560315561f85"
+    documentation="The threat performs unauthorised scanning or probing of an organisation’s information systems to gather information that could be used to initiate subsequent threat events.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

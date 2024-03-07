@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9b0eef9bfc17447f97c0685f66fb3518"
+    documentation="This high level design covers all the aspects of architecture.">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-01b8d2a5bc6245df807faa7be799c531.xml#id-01b8d2a5bc6245df807faa7be799c531"/>
+</archimate:RealizationRelationship>

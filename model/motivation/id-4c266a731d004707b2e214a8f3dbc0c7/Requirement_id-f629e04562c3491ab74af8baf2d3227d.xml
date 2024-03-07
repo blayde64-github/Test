@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.59.3 Malware protection automatic distribution control"
+    id="id-f629e04562c3491ab74af8baf2d3227d"
+    documentation="Malware protection software should be distributed automatically, within defined timescales, to reduce the likelihood of systems being exposed to the most recent malware (including those that are associated with zero-day attacks).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

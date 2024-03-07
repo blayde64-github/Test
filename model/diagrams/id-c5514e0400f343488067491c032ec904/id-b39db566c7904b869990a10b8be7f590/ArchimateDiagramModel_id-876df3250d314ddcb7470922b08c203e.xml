@@ -1,0 +1,223 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Info box template (Portrait)"
+    id="id-876df3250d314ddcb7470922b08c203e">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2efcf0f3297548b7b639ea241977fbd7"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        width="445"
+        height="277"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-dbcd3ca5daad4808aa4b1621c6ddec7c"
+      font="1|Segoe UI|8.25|1|WINDOWS|1|-11|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="4"
+      content="View Name:"
+      borderType="2">
+    <bounds
+        x="12"
+        y="48"
+        width="97"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b3bb87b7dc4a4c8a9a01fa7e69e6969b"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="$NAME"
+      borderType="1">
+    <features
+        name="gradient"
+        value="2"/>
+    <bounds
+        x="108"
+        y="48"
+        width="325"
+        height="25"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c5c64d2c721f46c7a0f68ea3fdaf26be"
+      font="1|Segoe UI|8.25|1|WINDOWS|1|-11|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="4"
+      content="Updated:"
+      borderType="2">
+    <bounds
+        x="12"
+        y="78"
+        width="97"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ca8966b5b8cf443d98fb17748f13f1af"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="$NOW"
+      borderType="1">
+    <features
+        name="gradient"
+        value="2"/>
+    <bounds
+        x="108"
+        y="78"
+        width="121"
+        height="25"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6e36dce76b3b41c9bdb25b2fe6c6c7bb"
+      font="1|Segoe UI|8.25|1|WINDOWS|1|-11|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Status:"
+      borderType="2">
+    <bounds
+        x="234"
+        y="78"
+        width="79"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-21527f6b3e18426a88498b6a713e8f90"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="View Status"
+      borderType="1">
+    <features
+        name="gradient"
+        value="2"/>
+    <bounds
+        x="312"
+        y="78"
+        width="121"
+        height="25"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f13734b632e14772a9c739aa44ad4c58"
+      font="1|Segoe UI|8.25|1|WINDOWS|1|-11|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="4"
+      content="Documentation:"
+      borderType="2">
+    <bounds
+        x="6"
+        y="168"
+        width="103"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-81462ad728f14323a80cf47b21ab171d"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="$DOCUMENTATION"
+      borderType="1">
+    <features
+        name="gradient"
+        value="2"/>
+    <bounds
+        x="108"
+        y="168"
+        width="325"
+        height="97"/>
+    <properties
+        key="Infobox Field"
+        value="$DOCUMENTATION"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-03ac8b1f572449869796f41304afa40b"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="306"
+        y="12"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3d10c84e6d0b4149835335d2435c0f4b"
+      font="1|Segoe UI|8.25|1|WINDOWS|1|-11|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="4"
+      content="Architect:"
+      borderType="2">
+    <bounds
+        x="12"
+        y="108"
+        width="97"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d6a3e7422d78461a804f13f01e220fa3"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Architect"
+      borderType="1">
+    <features
+        name="gradient"
+        value="2"/>
+    <bounds
+        x="108"
+        y="108"
+        width="325"
+        height="25"/>
+    <properties
+        key="Infobox Field"
+        value="Architect"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-177d8318e6214412890a48f0ad4805ae"
+      font="1|Segoe UI|8.25|1|WINDOWS|1|-11|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Stakeholder:"
+      borderType="2">
+    <bounds
+        x="30"
+        y="138"
+        width="79"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d47172518b9d42259b804087175e265f"
+      font="1|Segoe UI|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Stakeholder"
+      borderType="1">
+    <features
+        name="gradient"
+        value="2"/>
+    <bounds
+        x="108"
+        y="138"
+        width="325"
+        height="25"/>
+    <properties
+        key="Infobox Field"
+        value="Stakeholder"/>
+  </children>
+  <properties
+      key="Classification"
+      value="Internal"/>
+</archimate:ArchimateDiagramModel>

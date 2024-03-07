@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d1d841a3040a4e73a03c2404943f06c7"
+    documentation="PowerPoint updates the embedded data."
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e7a230ce71f84682b6d60dc20715ae25.xml#id-e7a230ce71f84682b6d60dc20715ae25"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-38f14175857a4e609437856c930cc453.xml#id-38f14175857a4e609437856c930cc453"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wants the emails to stop"
+    id="id-c82b058ddd294c1d88703fe619856c33">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-07a884bcc0ca4bbc85c03f65b167fe47.xml#id-07a884bcc0ca4bbc85c03f65b167fe47"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-65ff3665069d45adb5933278c5351c07.xml#id-65ff3665069d45adb5933278c5351c07"/>
+</archimate:TriggeringRelationship>

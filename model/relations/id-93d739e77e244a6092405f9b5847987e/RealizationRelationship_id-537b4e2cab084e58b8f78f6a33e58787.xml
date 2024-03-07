@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-537b4e2cab084e58b8f78f6a33e58787"
+    documentation="The enterprise security architecture team are operators and owners of this process.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-bf7bfd6a7a3a43c9b2e9e39239567f41.xml#id-bf7bfd6a7a3a43c9b2e9e39239567f41"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-101784"
+    documentation="Data inputs can be specifcally identified and  grouped together within an Application Cooperation view.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-85074.xml#id-85074"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-85076.xml#id-85076"/>
+</archimate:RealizationRelationship>

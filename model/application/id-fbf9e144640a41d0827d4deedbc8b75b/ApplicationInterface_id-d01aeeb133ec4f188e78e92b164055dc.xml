@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESAWeb Website Interface"
+    id="id-d01aeeb133ec4f188e78e92b164055dc"
+    documentation="This is the website interface to the ESA-Prod Repository for Archi users.">
+  <properties
+      key="URL"
+      value="https://esaweb.azurewebsites.net/"/>
+</archimate:ApplicationInterface>

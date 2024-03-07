@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rule specific configuration"
+    id="id-2b66fb74d03940598e5e67eef3ee0631"
+    documentation="Rules are used to transform information from email subject or other pre-defined information towards the ticket. &#xD;&#xA;&#xD;&#xA;Rules samples: Rule1: Find this string in subject/body: &quot;server_name:&quot;. If found, use the value after this located string (e.g. &quot;email.server&quot;) to build the ticket-field (e.g., for CMDB_CI).  Rule2: if sender is whatever@domain.com, set impact/urgency of the ticket to Medium. Sure rules and their data-sets can be more complex. "/>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.6.3 Asset discovery tool control"
+    id="id-65a1e4c69ff64e3e906b1cf8c89c8901"
+    documentation="The accuracy of details about assets recorded in asset registers should be supported by the use of automated discovery/mapping tools">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

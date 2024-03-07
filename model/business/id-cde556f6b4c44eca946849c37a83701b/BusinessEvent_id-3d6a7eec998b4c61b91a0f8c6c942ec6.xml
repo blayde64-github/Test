@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV020 Insert subversive individuals into organisations"
+    id="id-3d6a7eec998b4c61b91a0f8c6c942ec6"
+    documentation="The threat places one or more individuals within an organisation who are willing and able to carry out unauthorised actions, such as disrupting or taking control of information systems or gathering sensitive information.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;At lower levels of threat strength the threat is likely to be limited to inserting individuals who would be in relatively low-level, unprivileged roles, with limited access to an organisation’s information systems or information assets.&#xD;&#xA;&#xD;&#xA;At higher levels of threat strength the threat is likely to be able to insert individuals into &#xD;&#xA;key positions within an organisation, to gain privileged access to sensitive information systems and information assets (e.g. user accounts, pricing information).">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

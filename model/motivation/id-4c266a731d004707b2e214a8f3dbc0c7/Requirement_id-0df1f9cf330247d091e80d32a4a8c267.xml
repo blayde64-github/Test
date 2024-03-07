@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.6 Firewall critical networks control"
+    id="id-0df1f9cf330247d091e80d32a4a8c267"
+    documentation="Specialized firewalls should be used to protect critical networks and systems by:&#xA;    performing deep packet inspection on network traffic between IP-enabled components, to help detect sophisticated attacks&#xA;    processing and interpreting a wide range of proprietary or imprecisely defined network protocols (e.g. MODBUS, PROFIBUS, DNP3 and CIP)&#xA;    handling protocol-specific rules, to help defeat attacks against protocol vulnerabilities.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV007 Introduce malware to information systems"
+    id="id-e4b0a5aa52594f65a7fb9507e9d7159c"
+    documentation="The threat introduces malware to an organisation’s information systems. &#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;At lower levels of threat strength the threat is likely to use relatively unsophisticated techniques to develop malware (e.g. using publicly available malware development kits or existing malware, along with common vulnerabilities) and deliver malware (e.g. through the use of email and social networks).&#xD;&#xA;&#xD;&#xA;At higher levels of threat strength the threat is more likely to use a range of sophisticated techniques to:&#xD;&#xA;ԉ      develop malware (e.g. producing custom-written malware using unpublicised, or ‘zero-day’ vulnerabilities)&#xD;&#xA;ԉ      deliver malware (e.g. targeting specific key individuals via their personal mobile devices, enticing them to visit infected websites or infecting portable storage devices that they may use)&#xD;&#xA;ԉ      conceal malware (e.g. using rootkits or anti-forensics techniques).">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

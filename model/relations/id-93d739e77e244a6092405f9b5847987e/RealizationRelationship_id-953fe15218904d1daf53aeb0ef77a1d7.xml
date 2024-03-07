@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-953fe15218904d1daf53aeb0ef77a1d7"
+    documentation="There are no external data connections outside of the M365 solution">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-e724fec51d934d268ef99d8c473532c1.xml#id-e724fec51d934d268ef99d8c473532c1"/>
+</archimate:RealizationRelationship>

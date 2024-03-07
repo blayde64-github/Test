@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of security incidents reported to the authorities"
+    id="id-f9562d348c6e475cbe2ba2ad840619e9"
+    documentation="The total count of security incidents that have been reported to the relevant authorities.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Jiri Paloch: Deemed unnecessary as a metric, but it would make sense to include it as a process step.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

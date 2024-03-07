@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.86.1 Critical target environment audit control"
+    id="id-95b0709a1cc1473cbb26a4852a0c3037"
+    documentation="Independent security audits should be performed regularly for target environments that are critical to the success of the organisation,">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

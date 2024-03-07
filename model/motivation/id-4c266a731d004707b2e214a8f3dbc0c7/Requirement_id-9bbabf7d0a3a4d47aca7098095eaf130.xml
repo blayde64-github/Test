@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.23.2 System Development Mandatory Requirements Control"
+    id="id-9bbabf7d0a3a4d47aca7098095eaf130"
+    documentation="Business requirements should cover the need for confidentiality, integrity and availability of information throughout its lifecycle, including:&#xA;a) creation (e.g. input validation and classifi-cation)&#xA;b) processing (e.g. integrity checking and per-formance)&#xA;c) storage (e.g. location and access control)&#xA;d) transmission (e.g. source and destination checking)&#xA;e) destruction (e.g. secure erasure and physi-cal destruction).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

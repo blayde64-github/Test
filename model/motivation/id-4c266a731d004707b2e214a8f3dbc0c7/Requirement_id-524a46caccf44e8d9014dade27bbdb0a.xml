@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.37.4 Sign on bypass authorization control"
+    id="id-524a46caccf44e8d9014dade27bbdb0a"
+    documentation="The approval of an appropriate business manager should be obtained before any important features of the sign-on process are bypassed, disabled or changed.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

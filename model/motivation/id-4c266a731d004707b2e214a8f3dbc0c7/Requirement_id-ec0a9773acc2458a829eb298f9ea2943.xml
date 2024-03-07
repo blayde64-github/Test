@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.54.4 Collaboration platform content information management control"
+    id="id-ec0a9773acc2458a829eb298f9ea2943"
+    documentation="Assurance should be provided over the integrity and confidentiality of content handled by collaboration platforms by:&#xA;* using content management techniques (e.g. information classification, data validation, timestamping and content filtering)&#xA;* appointing one or more content managers to maintain and monitor content&#xA;* scanning content, including attachments, to detect malicious activity or accidental leakage of information.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

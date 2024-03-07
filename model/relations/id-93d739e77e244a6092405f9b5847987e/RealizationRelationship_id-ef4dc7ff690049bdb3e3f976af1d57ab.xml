@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ef4dc7ff690049bdb3e3f976af1d57ab"
+    documentation="Defining security policy and governance&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d00f6db2a1914f04b641d457074b48b6.xml#id-d00f6db2a1914f04b641d457074b48b6"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-00af8f3c2358491faca5d1daf01ba97e.xml#id-00af8f3c2358491faca5d1daf01ba97e"/>
+</archimate:RealizationRelationship>

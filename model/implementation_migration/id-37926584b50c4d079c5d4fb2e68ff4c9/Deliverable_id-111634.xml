@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceNow Asset discovery updated to reflect the needs of Vulnerability Management"
+    id="id-111634"
+    documentation="Discovery solution needs to be updated so that the data, which will end up on CMDB / Data Management contains the information required by Vulnerability Management.&#xA;&#xA;A simple example could be for example operation system version in order to asses whatever the new 0-day vulnerability affecting Windows Version 10.0.22621 Build 22621 is affected. &#xA;&#xA;Another example is the applications running on the Windows, for example Firefox version xyz or Oracle database version abc. This information needs to be available on asset database"/>

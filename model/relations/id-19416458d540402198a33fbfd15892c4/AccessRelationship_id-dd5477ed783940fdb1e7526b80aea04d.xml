@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scope agreed"
+    id="id-dd5477ed783940fdb1e7526b80aea04d">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-4765771c8a68452ebf87882edff87229.xml#id-4765771c8a68452ebf87882edff87229"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e414eb6bda904f8ea8222561df6b2cca.xml#id-e414eb6bda904f8ea8222561df6b2cca"/>
+</archimate:AccessRelationship>

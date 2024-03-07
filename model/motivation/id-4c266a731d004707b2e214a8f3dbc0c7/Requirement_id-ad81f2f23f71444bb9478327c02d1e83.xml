@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.77.3 Business continuity programme control"
+    id="id-ad81f2f23f71444bb9478327c02d1e83"
+    documentation="The business continuity programme should determine the individual business environments to be supported by business continuity plans and arrangements by identifying and recording relevant details (e.g. in a business continuity risk register) about:">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PCI DSS v4"
+    id="id-e71b85fbab3e4969be3476d3b782ee21"
+    documentation="The Payment Card Industry Data Security Standard version 4 is a proprietary information security standard for organizations that handle branded credit cards. It’s designed to ensure that all companies that accept, process, store, or transmit credit card information maintain a secure environment.">
+  <properties
+      key="MoSCoW"
+      value="Should Have"/>
+  <profiles
+      href="folder.xml#id-c50169ccc3cd4daeb19664bb2ffb7eb7"/>
+</archimate:Goal>

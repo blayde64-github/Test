@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documents All Questions"
+    id="id-07e9c16e9b574456b08e0522cc18684c"
+    documentation="The Security Review Guide documents every question we have and why we have them. It has been passed through the architecture community for review."
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3876117947e04d698e79dc0ee12c9937.xml#id-3876117947e04d698e79dc0ee12c9937"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f629aaf649f54f549dfbb6fee4216a34.xml#id-f629aaf649f54f549dfbb6fee4216a34"/>
+</archimate:AssociationRelationship>

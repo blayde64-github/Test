@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8a7a2d1d0d334168814f7ca15860bf95"
+    documentation="Aki really really dislikes when people &quot;plan to plan&quot;"
+    strength="+++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-e5cb688bc2aa4dc8b593ae6a96f69e51.xml#id-e5cb688bc2aa4dc8b593ae6a96f69e51"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-af6f466b04444bb18d8b8c58fe96a948.xml#id-af6f466b04444bb18d8b8c58fe96a948"/>
+</archimate:InfluenceRelationship>

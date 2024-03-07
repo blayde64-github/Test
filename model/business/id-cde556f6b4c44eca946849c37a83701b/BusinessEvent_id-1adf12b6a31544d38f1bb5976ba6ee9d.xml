@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV024 Compromise supplier or business partner of target organisation"
+    id="id-1adf12b6a31544d38f1bb5976ba6ee9d"
+    documentation="The threat compromises information systems at a key supplier or business partner of an organisation in order to gain access to the organisation’s information systems and information assets.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;At lower levels of threat strength the threat is likely to use relatively unsophisticated techniques, involving other, lower-level threat events to compromise a vendor or business partner’s information systems and gain access to the targeted organisation’s information assets stored there.&#xD;&#xA;&#xD;&#xA;At higher levels of threat strength the threat could employ more sophisticated techniques, involving:&#xD;&#xA;ԉ      using other, higher-level threat events to compromise a vendor or business partner’s information systems and gaining access to the targeted organisation’s information assets stored there&#xD;&#xA;ԉ      ‘pivoting’ off a foothold in a vendor or business partner’s information systems to gain access to the targeted organisation’s environment&#xD;&#xA;ԉ      compromising the design, manufacture and/or distribution of critical information system components at selected suppliers. This can be used to replace critical information system components the targeted organisation requires, with modified or corrupted components.">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

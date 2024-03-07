@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM Process must ensure security related events are logged"
+    id="id-90470"
+    documentation="Required by security baseline control 4.67.1. storage of security-related events within event logs (e.g. using local systems, central servers, or by using storage provided by an external service provider)"/>

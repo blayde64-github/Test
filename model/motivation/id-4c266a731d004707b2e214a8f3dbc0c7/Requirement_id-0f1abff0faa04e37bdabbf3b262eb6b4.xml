@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.12 Firewall configuration review control"
+    id="id-0f1abff0faa04e37bdabbf3b262eb6b4"
+    documentation="Firewall configurations should be reviewed on a regular basis">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

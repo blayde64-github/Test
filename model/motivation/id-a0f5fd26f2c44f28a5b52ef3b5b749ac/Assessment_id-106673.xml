@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Endpoint not secured"
+    id="id-106673"
+    documentation="There is no requirements set for endpoints. This means any device can be used to access the admin or API interface&#xA;Endpoints used to access are not restricted. This allows any endpoint to be used and therefore increase the likelihood of an exploited endpoint to be used to bypass controls">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

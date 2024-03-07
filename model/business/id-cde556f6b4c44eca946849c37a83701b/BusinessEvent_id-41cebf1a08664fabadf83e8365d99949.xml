@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADV004 Unauthorised monitoring and/ or modification of communications"
+    id="id-41cebf1a08664fabadf83e8365d99949"
+    documentation="The threat gains unauthorised access to information assets in transit (i.e. ‘sniffing’) and potentially alters information while it is being transmitted.&#xD;&#xA;&#xD;&#xA;Assessment guidance:&#xD;&#xA;Depending on the environment, this threat event can involve one or more of &#xD;&#xA;the following:&#xD;&#xA;•       At lower levels of threat strength, the threat is likely to use relatively unsophisticated techniques, limited to interception of traffic only, and involve:&#xD;&#xA;•       DNS hijacking, or man-in-the-middle attacks&#xD;&#xA;•       exploiting unencrypted or weakly encrypted communications at different &#xD;&#xA;layers of the network stack (e.g. wireless (802.11) Frames at the Data-link layer, TCP Segments at the Transport layer or Data at the Session/Presentation/ Application layers)&#xD;&#xA;&#xD;&#xA;•  At higher levels of threat strength, the threat could employ more sophisticated techniques, involving interception and real-time modification of traffic using freely available or custom tools, or other more advanced techniques (e.g. crypt analysis of strongly encrypted sessions)">
+  <profiles
+      href="folder.xml#id-4134f3314ed14c54b22aebca26568508"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b4afc6cf626e40eb95aa7a014f45ff83"
+    documentation="Controls are related to Systems design (full lifecycle) process thus responsibility for metrics is mostly on Enterprise Architecture Team who is defining the architecture methods, policies and principles">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0b45e601f42a4ddeb77f4c1476b56551.xml#id-0b45e601f42a4ddeb77f4c1476b56551"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-8c1e8f8c6c84424cb4f1ea162c51adf7.xml#id-8c1e8f8c6c84424cb4f1ea162c51adf7"/>
+</archimate:RealizationRelationship>

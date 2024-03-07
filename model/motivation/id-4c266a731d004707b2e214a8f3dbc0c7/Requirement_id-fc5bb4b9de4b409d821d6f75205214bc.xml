@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.47.6 Backup media testing control"
+    id="id-fc5bb4b9de4b409d821d6f75205214bc"
+    documentation="Backup media should be regularly tested to ensure that backed up software and information can be restored effectively">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9d82015295dd47ac93ceb4c4a26aa420"
+    documentation="Although the SAR system is tested, these requirements relate to code based testing and full environmental testing which is out scoped. The environments our solution is built on are cloud based office 365 environments where we have no exposure to infrastructure, and applications of Office 365 are logic builder built. ">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-78322a43e7aa4246a1f8a7a4f1c8088a.xml#id-78322a43e7aa4246a1f8a7a4f1c8088a"/>
+</archimate:CompositionRelationship>

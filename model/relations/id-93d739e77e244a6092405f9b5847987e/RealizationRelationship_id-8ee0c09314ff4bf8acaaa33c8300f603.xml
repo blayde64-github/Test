@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8ee0c09314ff4bf8acaaa33c8300f603"
+    documentation="There are no external data transmissions as part of this system - all information remains within the Tietoevry M365 Service. Please see the view entitled &quot;Views Meeting Requirements&quot; - which lists information flow views. ">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-13919d64f5a746afa291a8ce819e5db4.xml#id-13919d64f5a746afa291a8ce819e5db4"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,237 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sweden's Comprehensive Information and Cyber Security Action Plan for the years 2019-2022"
+    id="id-ec87c2bc2ae245969a2ffcaac8cf8170"
+    documentation="The Action Plan constitutes a collective account of  what measures the authorities plan to undertake on their own initiative in the scope of  their existing areas of  responsibility and assigned tasks, to contribute to achieving the strategic priorities in the national strategy. The Action Plan does not constitute a steering document for the public authorities’ activities.&#xD;&#xA;&#xD;&#xA;The work with the measures in the Action Plan shall be reported to the Govern- ment annually on 1 March. According to the Government assignment, MSB is the coordinator for this reporting. The assignment’s final report is to be presented on 1 March 2023.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2ced47eb386d4728b62d8d7a5e403e3b"
+      textPosition="1">
+    <bounds
+        x="828"
+        y="585"
+        width="173"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-ccdc86b0be6546ddb89586380d7684d1.xml#id-ccdc86b0be6546ddb89586380d7684d1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bf353f80a4be4a82b09410ea04613e66"
+      textPosition="1">
+    <bounds
+        x="516"
+        y="580"
+        width="170"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-4f91974be78a441381e6c1ac5859f941.xml#id-4f91974be78a441381e6c1ac5859f941"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d0e27cb420f14bf6a51a5c844e6f70dd"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6902fea5201a42bf80f903fa085b21e8"
+        source="id-d0e27cb420f14bf6a51a5c844e6f70dd"
+        target="id-a25b3417eac34ef6a1641f9bf2fb975d">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-3cbabcd522bd404db4dbf5aeb35ecf09.xml#id-3cbabcd522bd404db4dbf5aeb35ecf09"/>
+    </sourceConnections>
+    <bounds
+        x="725"
+        y="312"
+        width="171"
+        height="80"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-f15c294dc4f14ff3af1b46a0775637fb.xml#id-f15c294dc4f14ff3af1b46a0775637fb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a25b3417eac34ef6a1641f9bf2fb975d"
+      targetConnections="id-6902fea5201a42bf80f903fa085b21e8"
+      textPosition="1">
+    <bounds
+        x="725"
+        y="198"
+        width="171"
+        height="80"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-4c749c87085647aab00688f0dfb7e265"
+        alpha="0"
+        imagePath="images/_G--_kN9TEe2Zh485-lJ_SA.png"
+        imagePosition="9">
+      <features
+          name="iconVisible"
+          value="2"/>
+      <features
+          name="lineAlpha"
+          value="0"/>
+      <features
+          name="labelExpression"
+          value=" "/>
+      <bounds
+          x="153"
+          y="62"
+          width="16"
+          height="16"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-93486fe49039484b8f528384e72ab567.xml#id-93486fe49039484b8f528384e72ab567"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-81d1227db6084da6934bc565ad3a72ec.xml#id-81d1227db6084da6934bc565ad3a72ec"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2d96d2255a3a4e5faa194af69b1bc863"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="34"
+        y="10"
+        width="815"
+        height="85"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-32fd4494d1ed4a7ba4b6616adea86cee"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Sweden's Comprehensive Information and Cyber Security Action Plan for the years 2019-2022"
+      borderType="2">
+    <bounds
+        x="124"
+        y="22"
+        width="725"
+        height="31"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NAME"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0ebb267779304424ace319763ae6eec3"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Updated on"
+      borderType="2">
+    <bounds
+        x="124"
+        y="58"
+        width="73"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-45499e4975a64bf4a9d54b3c8b857f68"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="2023-08-24"
+      borderType="2">
+    <bounds
+        x="196"
+        y="58"
+        width="79"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="$NOW"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-453b88e5e1be45f087a4f161b35d9aa4"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      borderType="2"
+      imagePath="images/_TMUyYI1SEe2ANayzMq7E2Q.png"
+      imagePosition="9">
+    <bounds
+        x="337"
+        y="58"
+        width="133"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-11f73f66dfb6427ba72f275427e7b5cf"
+      font="1|Segoe UI|8.0|0|WINDOWS|1|-24|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      fillColor="#ffffcc"
+      content="Draft"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="46"
+        y="22"
+        width="67"
+        height="61"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="View Status"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2228d57983184c7393122a2c41bee1de"
+      font="1|Segoe UI|8.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      textAlignment="1"
+      content="Internal"
+      borderType="2">
+    <bounds
+        x="256"
+        y="58"
+        width="82"
+        height="25"/>
+    <properties
+        key="Code Tag"
+        value="INFO"/>
+    <properties
+        key="Infobox Field"
+        value="Classification"/>
+  </children>
+  <properties
+      key="Architect"
+      value="Mattias Dahlberg"/>
+  <properties
+      key="View Status"
+      value="Draft"/>
+  <properties
+      key="Classification"
+      value="Internal"/>
+  <properties
+      key="Status Change Date"
+      value="2023-08-24"/>
+</archimate:ArchimateDiagramModel>

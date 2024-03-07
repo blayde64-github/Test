@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.11 Firewall configuration documentation control"
+    id="id-73dc9c03479d4d938c9ccf33b8e26338"
+    documentation="Firewall configurations should be documented (e.g. in a configuration management database (CMDB) or equivalent)">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

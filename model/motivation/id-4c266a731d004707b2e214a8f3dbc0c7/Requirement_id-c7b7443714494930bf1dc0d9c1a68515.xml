@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.34.3 Elevated priviledge control"
+    id="id-c7b7443714494930bf1dc0d9c1a68515"
+    documentation="Additional controls should be applied to special access privileges (e.g., root in UNIX or Administrator in Windows systems, powerful system utilities and privileges">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

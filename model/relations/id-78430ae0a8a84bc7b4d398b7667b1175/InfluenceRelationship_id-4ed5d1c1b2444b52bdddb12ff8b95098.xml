@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4ed5d1c1b2444b52bdddb12ff8b95098"
+    documentation="Our ability to stay relevant is negatively affected by our inability to work together efficiently."
+    strength="---">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-b4d223051d3a46c2a7bc25627727f28f.xml#id-b4d223051d3a46c2a7bc25627727f28f"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-bbc2b92461134f8bbc3f9887a207808a.xml#id-bbc2b92461134f8bbc3f9887a207808a"/>
+</archimate:InfluenceRelationship>

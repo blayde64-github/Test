@@ -1,0 +1,9 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tietoevry Connect Service transformation project"
+    id="id-100229"
+    documentation="Tietoevry Connect Service transformation project&#xA;&#xA;Goal:&#xA;&#xA;-    Consolidate existing legacy solutions within Tietoevry Connect&#xA;-    Swedish Delivery Model in Place&#xA;-    Norwegian Delivery Model in Place&#xA;&#xA;This project needs to be ran to enable required Tietoevry Connect services in the future state platform in future state locations.&#xA;&#xA;Tietoevry Connect services in any given location doesnt run without supporting services. These services are the ones which needs to be deployed on top of Connect Platform. Examples of these services are Monitoring, Automation, ServiceNow, Data Management, Network management tools, Storage Management tools.&#xA;&#xA;Dependencies:&#xA;&#xA;Connect Platform Deployment Project needs to be completed to provide a location where the various Tietoevry Connect services can be deployed.&#xA;&#xA;S&amp;C Deployment project needs to be completed as it is providing several key services which are required by all TE Connect supporting services.&#xA;&#xA;Tietoevry Connect Portfolio Development needs to provide the future state portfolio which clearly defines what are the various TE Connect services which needs to be deployed on top of the new platform&#xA;&#xA;Resourcing&#xA;&#xA;&#xA;Project resourcing needs to be revised after there is clarity what are the various services requiring migration. ">
+  <properties
+      key="Project Status"
+      value="Discontinued"/>
+</archimate:WorkPackage>

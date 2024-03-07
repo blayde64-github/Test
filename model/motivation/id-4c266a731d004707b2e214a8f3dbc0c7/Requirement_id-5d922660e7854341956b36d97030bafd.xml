@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.68.5 Anomalous behaviour control"
+    id="id-5d922660e7854341956b36d97030bafd"
+    documentation="Specific monitoring activities should be performed to help identify anomalous behaviour, including:&#xA;&#xA;a) detecting unauthorised scanning of business applications, information systems and networks&#xA;b) reviewing successful and unsuccessful attempts to access protected resources (e.g. DNS servers, web portals&#xA;and file shares)&#xA;c) checking DNS logs to identify outbound network connections to malicious servers, such as those associated&#xA;with botnet command and control servers&#xA;d) examining usage reports from service providers (e.g. invoices or service reports) for unusual activity&#xA;within systems and networks (e.g. by reviewing patterns of activity)&#xA;e) deploying a variety of detection methods, such as anomaly detection techniques (supported by machine learning),&#xA;detection technology (e.g. honeypots), endpoint detection and response (EDR), purple teaming, and user and&#xA;entity behavioural analytics (UEBA)&#xA;f) performing more advanced capabilities, such as threat hunting or trend analysis, to identify a pattern or occurrence&#xA;indicating a potential incident that is flagged for further investigation.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

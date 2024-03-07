@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a88a5ed8a65042a3a6fad5a267d942cd"
+    documentation="The Security Architecture Review Solution does not require any connections external to the M365 Service.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a17b64fb1394d7783bf85d1fd3a840c.xml#id-7a17b64fb1394d7783bf85d1fd3a840c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-18e53ea7729e4f81abb9e1aca6fee2ae.xml#id-18e53ea7729e4f81abb9e1aca6fee2ae"/>
+</archimate:RealizationRelationship>

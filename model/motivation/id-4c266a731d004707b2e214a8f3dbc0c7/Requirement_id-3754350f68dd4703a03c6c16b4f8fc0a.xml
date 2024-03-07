@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.61.3 Intrusion detection configuration control"
+    id="id-3754350f68dd4703a03c6c16b4f8fc0a"
+    documentation="Intrusion detection mechanisms should be configured to:&#xA;    incorporate new or updated attack characteristics&#xA;    provide alerts when suspicious activi-ty is detected, supported by docu-mented processes for responding to suspected intrusions&#xA;    c) protect the intrusion detection software against attack (e.g. by hiding the presence of intrusion detection software).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

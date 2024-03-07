@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOGP Topics + Stakeholder name"
+    id="id-c2d69f554c13425694b98986672a64f1">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-fd56264c366449ebb754d39df7be8930.xml#id-fd56264c366449ebb754d39df7be8930"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-88c52c4aeba74d89bdd709311f94d47d.xml#id-88c52c4aeba74d89bdd709311f94d47d"/>
+</archimate:AccessRelationship>

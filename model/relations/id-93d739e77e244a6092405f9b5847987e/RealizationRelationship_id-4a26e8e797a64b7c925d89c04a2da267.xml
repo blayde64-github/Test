@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4a26e8e797a64b7c925d89c04a2da267"
+    documentation="This design applies ISO42010 thinking, and utilises ArchiMate as a standard modelling language in addition to some SABSA customizations for describing risk and security elements. ">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-864f8a52fb204e20b737b49baa969d86.xml#id-864f8a52fb204e20b737b49baa969d86"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-f08e9855f8c3440eb0f1a88015e0fcdb.xml#id-f08e9855f8c3440eb0f1a88015e0fcdb"/>
+</archimate:RealizationRelationship>

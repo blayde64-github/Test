@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.3.2 Infosec Acceptable usage policy"
+    id="id-8ba48aa38e894bcdbf63a87445503cca"
+    documentation="The organizations information security policy should be supported by detailed acceptable use policies (AUPs) that define the way in which individuals are expected to use information and systems within the organization.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.21.4 Business application change management control"
+    id="id-312bcd04adcd42e6ad76e72973023333"
+    documentation="Changes to business applications (including those under development) should be performed in accordance with a formal, documented change management process, reviewed to ensure that they do not adversely affect intended functionality or compromise security controls.">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

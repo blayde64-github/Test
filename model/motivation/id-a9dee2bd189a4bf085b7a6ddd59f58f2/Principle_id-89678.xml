@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure In Deployment"
+    id="id-89678"
+    documentation="Statement: Secure in deployment&#xA;&#xA;Rationale: Providing complementary tools and guidance to support system administrators and users, ensuring configuration is not difficult and software updates are simple to deploy will reduce errors, risks and speed up deployments&#xA;Implication: This provides consistency in security across different deployments. This implies that deployment mechanisms are designed and incorporate security controls."/>

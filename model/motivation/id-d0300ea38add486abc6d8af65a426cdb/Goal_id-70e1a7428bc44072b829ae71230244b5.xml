@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All software and hardware assets has an owner defined in DPS Continuous Delivery teams and there is a plan for mitigate lifecycle issues available"
+    id="id-70e1a7428bc44072b829ae71230244b5"
+    documentation="We need to relate all identified technical assets to a service + service owner. Currently we have assets which we know are not secured but we are not able to state who has the responsivity. This goal is there to ensure we identify the service, set the responsibility and ensure the team defines a clear mitigation action how the lifecycle management of that asset will be taken care of.&#xD;&#xA;&#xD;&#xA;Asset => Business Service => Owner => Mitigation plan (Migrate + short term)&#xD;&#xA;&#xD;&#xA;"/>

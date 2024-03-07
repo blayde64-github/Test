@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.49.1 Network device standards &amp; procedures control"
+    id="id-7b8cd8cd00b74656b8387d4ee641bd62"
+    documentation="There should be documented standards/procedures for configuring network devices (e.g. routers, firewalls, switches and wireless access points),">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

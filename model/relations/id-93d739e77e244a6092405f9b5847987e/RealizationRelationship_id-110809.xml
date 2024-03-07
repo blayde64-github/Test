@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-110809"
+    documentation="We make sure the gap analysis results are operable by linking the risks with standard processes to be implemented where possible and by providing recommendations for design work where standard processes and mitigations ar enot available. This makes sure the gap analysis is operable - we are able to fix the identified gaps.">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-110769.xml#id-110769"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-89602.xml#id-89602"/>
+</archimate:RealizationRelationship>

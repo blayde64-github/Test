@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CyberArk investment needs to be evaluated WPD"
+    id="id-1ed4956173bd494da5685607d362fd9f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ad33892b91884e3fb906e1b37be69e65"
+      textPosition="1">
+    <bounds
+        x="196"
+        y="256"
+        width="596"
+        height="94"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-f6801effd108441b91c0c3fa21f757c6.xml#id-f6801effd108441b91c0c3fa21f757c6"/>
+  </children>
+  <properties
+      key="Concern Priority"
+      value="High"/>
+  <properties
+      key="Start Date"
+      value="2024-01-08"/>
+  <properties
+      key="End Date"
+      value="2024-01-22"/>
+</archimate:ArchimateDiagramModel>

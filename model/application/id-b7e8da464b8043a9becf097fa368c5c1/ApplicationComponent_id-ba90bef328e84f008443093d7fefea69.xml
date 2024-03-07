@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAR1 Power BI Dashboard"
+    id="id-ba90bef328e84f008443093d7fefea69"
+    documentation="Dashboard for aggregated statistics from SAR1. It shows the number of reviews over time, as well as average scores in total and for each of the SAR1 questions. &#xD;&#xA;&#xD;&#xA;NOTE: The dates in the dashboard may be off with one day. This is due to a bug in SharePoint. The choice was made to not spend time fixing it.&#xD;&#xA;">
+  <properties
+      key="URL"
+      value="https://app.powerbi.com/groups/me/reports/a4c60121-0549-4bf5-a9d7-8462ec7542ed/ReportSection?experience=power-bi"/>
+</archimate:ApplicationComponent>

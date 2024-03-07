@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IAM Blueprint addresses resilience and disaster recovery"
+    id="id-94677"
+    documentation="This is critical system which must be up and running even if there are problems in production. &#xA;&#xA;Design must address how the resiliance is achieved and have also adequate disaster recovery plans. &#xA;&#xA;All solutions and services must meet the requirements for resiliency and integrity, covering availability, disaster recovery etc. to secure business continuity and protection of data and other assets. All aspects of potentially impacting the service, performance, and availability need to be considered (e.g. human resource, technical, 3rd party, commercial, unusual conditions etc.) and mitigated appropriately (through the design or with mitigation plan).&#xA;&#xA;"/>

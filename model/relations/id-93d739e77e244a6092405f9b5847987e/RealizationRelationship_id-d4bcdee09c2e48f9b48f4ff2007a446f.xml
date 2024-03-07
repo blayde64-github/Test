@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d4bcdee09c2e48f9b48f4ff2007a446f"
+    documentation="This step is completely automated. As there is no need for any Enterprise Security Architect Team member as part of this process. As part of the regular workload of the Enterprise Security Architecture Team, they will periodically review results.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79a5f8daa42540fc973fcfdf602c33da.xml#id-79a5f8daa42540fc973fcfdf602c33da"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-449bf2097f144cc4ae75fa0ea5f057ae.xml#id-449bf2097f144cc4ae75fa0ea5f057ae"/>
+</archimate:RealizationRelationship>

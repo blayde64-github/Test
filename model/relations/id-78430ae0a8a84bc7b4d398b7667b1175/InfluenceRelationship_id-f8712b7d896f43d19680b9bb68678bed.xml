@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f8712b7d896f43d19680b9bb68678bed"
+    documentation="Possible positive influence if the Statement is being realized."
+    strength="+">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-c57cfda408ac4cfc9e7d9695aaf979b2.xml#id-c57cfda408ac4cfc9e7d9695aaf979b2"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-667d6241b3a44c7594528c7355c75cf4.xml#id-667d6241b3a44c7594528c7355c75cf4"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,21 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Baseline implementation support for HiaaS and OCP - design and execution"
+    id="id-95056"
+    documentation="This work package is continuation to Security Baseline Gap Analysis for HiaaS and OCP. Its goal is to fix gaps identified, mitigating risks and implementing measurable controls. It will be defined in more detail as gap analysis results are available.&#xD;&#xA;&#xD;&#xA;We chose to do this work because the Baseline Project as defined was clearly not working - to effectively manage to do security control implementation work with stakeholders we needed to have service architects to  work with, and more architects to be availble to our project.&#xD;&#xA;&#xD;&#xA;The idea was that this project would be easier to run because it needed less resources and Micke could do this almost by himself, as he had done several such projects for customer teams before. ">
+  <properties
+      key="Start Date"
+      value="2023-01-01"/>
+  <properties
+      key="End Date"
+      value="2023-06-30"/>
+  <properties
+      key="Architect"
+      value="Noora Helle"/>
+  <properties
+      key="Project Owner"
+      value="Mikael Lingskog (Tietoevry Connect CISO)"/>
+  <properties
+      key="Project Status"
+      value="Yellow"/>
+</archimate:WorkPackage>

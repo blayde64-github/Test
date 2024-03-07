@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number of controls whose design has been submitted for review by ESA"
+    id="id-19b33511ef7f43c4a04d55e9d12ab4b3"
+    documentation="The &quot;Number of Controls Whose Design has been Submitted for Review by ESA&quot; metric measures the count of security controls within our system or infrastructure whose designs have been formally submitted to the Enterprise Security Architecture (ESA) Team for review. This metric focuses on the involvement of the ESA Team in evaluating and providing feedback on the design of security controls. By tracking this metric, we can assess the level of collaboration and engagement with the ESA Team in ensuring that our security controls align with the organization's overall security architecture. It helps promote a structured and systematic approach to control design, leveraging the expertise and insights of the ESA Team to enhance the effectiveness and robustness of our security controls.">
+  <profiles
+      href="folder.xml#id-b4b3d006f058404a880006d58e3e73f2"/>
+</archimate:Assessment>

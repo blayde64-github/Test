@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.44.6 Network storage security management control"
+    id="id-fab5a28c2bd1413c9d2d420fe520c0ff"
+    documentation="Network storage systems should be subject to standard security management practices (e.g. restricting physical access, performing system hardening, applying change management and malware protection, monitoring them and performing regular reviews).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

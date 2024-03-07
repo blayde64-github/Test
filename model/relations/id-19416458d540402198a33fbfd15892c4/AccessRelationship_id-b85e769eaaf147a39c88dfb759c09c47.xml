@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b85e769eaaf147a39c88dfb759c09c47"
+    documentation="Genesys reads the email from the email-box"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-c5d03e4026c345fea2339e2a82287e1b.xml#id-c5d03e4026c345fea2339e2a82287e1b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-5f89d74f088b45d6b953f9f2a0481413.xml#id-5f89d74f088b45d6b953f9f2a0481413"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Valid IP addresses are injected to the system blacklists"
+    id="id-ebedfc517e7c4f339d565ba7b34f336c"
+    documentation="Valid, critical IP addresses could be injected through the system causing unavailability on Tietoevry and/or customer connections&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-c65a7771d0254328b1e638eed28d1595"/>
+</archimate:Assessment>

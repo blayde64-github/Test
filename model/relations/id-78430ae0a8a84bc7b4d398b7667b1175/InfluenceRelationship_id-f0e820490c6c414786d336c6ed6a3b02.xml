@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f0e820490c6c414786d336c6ed6a3b02"
+    documentation="Our customer's needs are not in line with how we deliver today"
+    strength="++">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-ce00a4d8912a4630be222154b2ad0d11.xml#id-ce00a4d8912a4630be222154b2ad0d11"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-fa05f569f3cc465fb727556a67f305d5.xml#id-fa05f569f3cc465fb727556a67f305d5"/>
+</archimate:InfluenceRelationship>

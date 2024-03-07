@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.7.4 Segregation of duties infosec control"
+    id="id-dacd3912ff9f429291084c256597ad72"
+    documentation="The risk of individuals disrupting the running of business applications, systems and networks either in error or by malicious intent should be reduced by e.g segregation of duties, no SPOC, etc.">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

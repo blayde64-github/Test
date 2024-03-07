@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7d08c4c6c998421f852a4acbde8846ac"
+    documentation="The skills needed to develop this solution were a primary consideration, and our first thoughts were - use what we have. The enterprise security architecture team has skills for developing controls.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-94020.xml#id-94020"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-e2cde89c747a41cabe7cb6421da49888.xml#id-e2cde89c747a41cabe7cb6421da49888"/>
+</archimate:RealizationRelationship>

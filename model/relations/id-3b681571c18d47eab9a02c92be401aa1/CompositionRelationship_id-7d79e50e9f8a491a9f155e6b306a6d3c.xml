@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7d79e50e9f8a491a9f155e6b306a6d3c"
+    documentation="This system has no external connectivity outside the standard service.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3a810f3f3ad849a786062ccf92028cd1.xml#id-3a810f3f3ad849a786062ccf92028cd1"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-ceba666f11e94578bea4079c9ee416d4.xml#id-ceba666f11e94578bea4079c9ee416d4"/>
+</archimate:CompositionRelationship>

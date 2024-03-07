@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement Least privilege"
+    id="id-89676"
+    documentation="Statement: Implement least privilege.&#xA;&#xA;Rationale: The concept of limiting access, or least privilege, is to provide no more authorizations than necessary to perform required functions. This is perhaps most often applied in the administration of the system.&#xA;Implication: One of the key goals is to reduce risk by limiting the number of people with access to critical system security controls, i.e., controlling who is allowed to enable or disable system security features or change the privileges of users or programs. Best practice is that it is better to have several administrators with limited access to security resources rather than one person with super user permissions."/>

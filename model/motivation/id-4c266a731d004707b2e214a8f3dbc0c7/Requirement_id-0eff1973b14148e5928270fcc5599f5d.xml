@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.37.1 Individual user access identification control"
+    id="id-0eff1973b14148e5928270fcc5599f5d"
+    documentation="There should be an approved sign-on process that users need to follow before they are provided with access to information systems, which should enable individual users to be identified (e.g. using unique User IDs).">
+  <properties
+      key="Audience"
+      value="Website"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

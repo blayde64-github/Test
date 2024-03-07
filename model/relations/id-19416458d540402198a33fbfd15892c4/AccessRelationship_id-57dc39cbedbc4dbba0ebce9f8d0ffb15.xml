@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Copy"
+    id="id-57dc39cbedbc4dbba0ebce9f8d0ffb15"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-15bb5f74652e4dbca79d26ca8ae6d9ab.xml#id-15bb5f74652e4dbca79d26ca8ae6d9ab"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e7adefc1cb284253a1f8692186bd1b38.xml#id-e7adefc1cb284253a1f8692186bd1b38"/>
+</archimate:AccessRelationship>

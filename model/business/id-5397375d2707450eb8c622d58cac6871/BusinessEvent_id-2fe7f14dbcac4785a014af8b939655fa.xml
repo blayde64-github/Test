@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fail to keep promises as we don’t manage complexity"
+    id="id-2fe7f14dbcac4785a014af8b939655fa"
+    documentation="Part of architecture design is making sure requirements are realized. We make promises to customers in many ways. The security baseline, contracts, ISO27k all have requirements that need to be addressed. &#xD;&#xA;&#xD;&#xA;A smart architect can use abstraction and architecture building blocks to simplify complexity and make it a lot more manageable. &#xD;&#xA;&#xD;&#xA;We also fail to optimize design. Last time I checked we have 14 different solutions in the organization for password vaulting, yet this week I saw people were suggesting purchasing another. ">
+  <profiles
+      href="folder.xml#id-9e80705b128b4f7eb73704b6a9fd7d5b"/>
+</archimate:BusinessEvent>

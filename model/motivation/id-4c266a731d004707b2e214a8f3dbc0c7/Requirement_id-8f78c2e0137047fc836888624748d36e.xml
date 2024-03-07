@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.52.5 Firewall basic configuration control"
+    id="id-8f78c2e0137047fc836888624748d36e"
+    documentation="Firewalls should be configured to:&#xA;    protect communication protocols that are prone to abuse (e.g. HTTPS, SSH, SMTP, DNS and UUCP)&#xA;    block network packets typically used to execute denial of service attacks (e.g. ICMP Echo, UDP and TCP Echo, Chargen and Discard)&#xA;    deny incoming traffic where the source address is known to have been spoofed (e.g. where the source ad-dress claims to be from the destina-tion network)&#xA;    deny outgoing traffic where the source address is known to have been spoofed (e.g. where the source ad-dress does not reflect the network from which it originates)&#xA;    limit the disclosure of information about networks at the network level by using IP masquerading (i.e. net-work address translation (NAT) or port address translation (PAT)).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

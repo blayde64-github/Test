@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-aee19bc79a7b409f99868eb3335e2434"
+    documentation="The security architecture review processes utilise automation as far as possible, for the input of data, the review of it, and all the interactions with SAR users. SAR1 review does not require an Enterprise Security Architect. A SAR2 review requires interaction with the security architecture review team, but using power automate minimises the work for them.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1d695ddb39f8492586e90495df27ec5c.xml#id-1d695ddb39f8492586e90495df27ec5c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-6de17a77748443dca6a242ef5d004ed0.xml#id-6de17a77748443dca6a242ef5d004ed0"/>
+</archimate:RealizationRelationship>

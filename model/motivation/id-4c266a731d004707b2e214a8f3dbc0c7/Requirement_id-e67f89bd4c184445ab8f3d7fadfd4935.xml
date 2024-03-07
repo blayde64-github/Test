@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR.1.2.3c: c) identify and prioritise the threats (e.g. nation states, inexperienced employees or fire/flood) and/or associated threat events (e.g. introduction of malware, user error or hardware malfunction) applicable to target environments (i.e. threat profiling)"
+    id="id-e67f89bd4c184445ab8f3d7fadfd4935"
+    documentation="This is a standard topic modelled from the 2022 Version of the Standards Of Good Practice by ISF. It has been adopted as version 3 of the Security Baseline.">
+  <properties
+      key="SOGP Reference"
+      value="IR.1.2.3c"/>
+  <properties
+      key="SOGP Type"
+      value="Sub-Point"/>
+  <properties
+      key="SOGP Version"
+      value="2022"/>
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>

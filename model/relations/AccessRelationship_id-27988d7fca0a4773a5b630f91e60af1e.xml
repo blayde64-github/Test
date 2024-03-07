@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-27988d7fca0a4773a5b630f91e60af1e"
+    documentation="The data sources are processed by Power Query according to the steps defined in the queries"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d46b9a40899746dfb367ef90af6f2f7b.xml#id-d46b9a40899746dfb367ef90af6f2f7b"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-8bd7ba7eb016447db1748e018cfb980d.xml#id-8bd7ba7eb016447db1748e018cfb980d"/>
+</archimate:AccessRelationship>

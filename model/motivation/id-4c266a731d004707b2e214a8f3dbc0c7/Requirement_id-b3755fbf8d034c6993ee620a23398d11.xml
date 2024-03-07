@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.23.6 Systems Development Access Requirements Control"
+    id="id-b3755fbf8d034c6993ee620a23398d11"
+    documentation="Business requirements should take into account the need for access:&#xA;a) by particular types of user (e.g. internal users, IT specialists, technical support specialists, suppliers or customers)&#xA;b) from particular locations (e.g. home offices or external party premises)&#xA;c) to particular types of information (e.g. credit card details, PII or trade secrets).">
+  <profiles
+      href="folder.xml#id-bb35b488fa934dc09757684ec3da6bf5"/>
+</archimate:Requirement>
